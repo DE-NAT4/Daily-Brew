@@ -1,0 +1,3822 @@
+[
+    {
+        "date": "28/03/2025",
+        "time": "09:00",
+        "location": "Leeds",
+        "customer_name": "Armando Farris",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60",
+        "total_price": 9.7,
+        "payment_method": "CARD",
+        "card_id": "8.32692E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:01",
+        "location": "Leeds",
+        "customer_name": "Jessica Graves",
+        "items": "Large Chai latte - 2.60, Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 7.8,
+        "payment_method": "CARD",
+        "card_id": "5.69498E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:03",
+        "location": "Leeds",
+        "customer_name": "Wayne Bonavia",
+        "items": "Regular Iced americano - 2.15, Regular Chai latte - 2.30, Regular Iced americano - 2.15, Large Iced americano - 2.50",
+        "total_price": 9.1,
+        "payment_method": "CARD",
+        "card_id": "6.12184E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:04",
+        "location": "Leeds",
+        "customer_name": "Michael Davis",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CARD",
+        "card_id": "4.17597E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:06",
+        "location": "Leeds",
+        "customer_name": "Mary Reinschmidt",
+        "items": "Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 5.3,
+        "payment_method": "CARD",
+        "card_id": "8.01671E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:08",
+        "location": "Leeds",
+        "customer_name": "Cayla Garrett",
+        "items": "Regular Iced americano - 2.15, Regular Chai latte - 2.30",
+        "total_price": 4.45,
+        "payment_method": "CARD",
+        "card_id": "6.02409E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:09",
+        "location": "Leeds",
+        "customer_name": "Christine Myers",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:11",
+        "location": "Leeds",
+        "customer_name": "Anthony Nevins",
+        "items": "Large Filter coffee - 1.80, Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 7.8,
+        "payment_method": "CARD",
+        "card_id": "1.75879E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:12",
+        "location": "Leeds",
+        "customer_name": "Kathryn Holmes",
+        "items": "Regular Hot Chocolate - 1.40, Regular Hot Chocolate - 1.40, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80",
+        "total_price": 6.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:14",
+        "location": "Leeds",
+        "customer_name": "Irene Benson",
+        "items": "Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Regular Chai latte - 2.30",
+        "total_price": 6.9,
+        "payment_method": "CARD",
+        "card_id": "1.25348E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:16",
+        "location": "Leeds",
+        "customer_name": "Ronald Childress",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 6.4,
+        "payment_method": "CARD",
+        "card_id": "3.29571E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:17",
+        "location": "Leeds",
+        "customer_name": "Carol Eldridge",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80",
+        "total_price": 7.4,
+        "payment_method": "CARD",
+        "card_id": "8.03831E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:19",
+        "location": "Leeds",
+        "customer_name": "Armando Medina",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 8.4,
+        "payment_method": "CARD",
+        "card_id": "9.32732E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:21",
+        "location": "Leeds",
+        "customer_name": "Julia Shock",
+        "items": "Large Iced americano - 2.50, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50",
+        "total_price": 5.7,
+        "payment_method": "CARD",
+        "card_id": "9.73214E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:22",
+        "location": "Leeds",
+        "customer_name": "Wilfred Atkins",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:24",
+        "location": "Leeds",
+        "customer_name": "Duane Gheen",
+        "items": "Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Large Chai latte - 2.60, Regular Filter coffee - 1.50",
+        "total_price": 7.4,
+        "payment_method": "CARD",
+        "card_id": "7.51452E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:25",
+        "location": "Leeds",
+        "customer_name": "Mary Bushey",
+        "items": "Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60",
+        "total_price": 5.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:27",
+        "location": "Leeds",
+        "customer_name": "Christine Korczynski",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50",
+        "total_price": 9.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:29",
+        "location": "Leeds",
+        "customer_name": "Penelope Black",
+        "items": "Regular Iced americano - 2.15, Regular Filter coffee - 1.50, Regular Iced americano - 2.15",
+        "total_price": 5.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:30",
+        "location": "Leeds",
+        "customer_name": "Jasmine Norman",
+        "items": "Regular Chai latte - 2.30, Large Chai latte - 2.60, Regular Chai latte - 2.30",
+        "total_price": 7.2,
+        "payment_method": "CARD",
+        "card_id": "7.34294E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:32",
+        "location": "Leeds",
+        "customer_name": "Allison Henry",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CARD",
+        "card_id": "4.20343E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:33",
+        "location": "Leeds",
+        "customer_name": "Gilbert Larkin",
+        "items": "Regular Chai latte - 2.30, Regular Iced americano - 2.15, Large Chai latte - 2.60",
+        "total_price": 7.05,
+        "payment_method": "CARD",
+        "card_id": "9.54516E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:35",
+        "location": "Leeds",
+        "customer_name": "Raymond Gilliam",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Chai latte - 2.30",
+        "total_price": 8.4,
+        "payment_method": "CARD",
+        "card_id": "9.40591E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:37",
+        "location": "Leeds",
+        "customer_name": "Kathy Chacon",
+        "items": "Large Filter coffee - 1.80, Large Iced americano - 2.50, Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 10.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:38",
+        "location": "Leeds",
+        "customer_name": "Leon Underwood",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "8.48643E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:40",
+        "location": "Leeds",
+        "customer_name": "Richard Taylor",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 3.8,
+        "payment_method": "CARD",
+        "card_id": "1.81926E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:42",
+        "location": "Leeds",
+        "customer_name": "Etta Muir",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Regular Chai latte - 2.30, Regular Chai latte - 2.30",
+        "total_price": 9.45,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:43",
+        "location": "Leeds",
+        "customer_name": "Steven Adame",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30",
+        "total_price": 4.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:45",
+        "location": "Leeds",
+        "customer_name": "Juan Kean",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 5.5,
+        "payment_method": "CARD",
+        "card_id": "7.04899E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:46",
+        "location": "Leeds",
+        "customer_name": "Carlos Weber",
+        "items": "Large Iced americano - 2.50, Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Iced americano - 2.50, Regular Iced americano - 2.15, Large Chai latte - 2.60",
+        "total_price": 13.05,
+        "payment_method": "CARD",
+        "card_id": "3.5708E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:48",
+        "location": "Leeds",
+        "customer_name": "Holly Balde",
+        "items": "Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Large Hot Chocolate - 1.70",
+        "total_price": 8.55,
+        "payment_method": "CARD",
+        "card_id": "5.66552E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:50",
+        "location": "Leeds",
+        "customer_name": "Gwendolyn Woodlock",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 3.9,
+        "payment_method": "CARD",
+        "card_id": "2.15187E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:51",
+        "location": "Leeds",
+        "customer_name": "Sheila Fredericks",
+        "items": "Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.9,
+        "payment_method": "CARD",
+        "card_id": "8.20532E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:53",
+        "location": "Leeds",
+        "customer_name": "William Harper",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50",
+        "total_price": 5.3,
+        "payment_method": "CARD",
+        "card_id": "3.10316E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:54",
+        "location": "Leeds",
+        "customer_name": "Christopher Licudine",
+        "items": "Large Iced americano - 2.50, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50",
+        "total_price": 5.5,
+        "payment_method": "CARD",
+        "card_id": "9.92975E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:56",
+        "location": "Leeds",
+        "customer_name": "Steven Jackson",
+        "items": "Large Chai latte - 2.60, Large Chai latte - 2.60, Large Hot Chocolate - 1.70, Regular Iced americano - 2.15",
+        "total_price": 9.05,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:58",
+        "location": "Leeds",
+        "customer_name": "Malka Craig",
+        "items": "Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 7.7,
+        "payment_method": "CARD",
+        "card_id": "4.71145E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "09:59",
+        "location": "Leeds",
+        "customer_name": "James Martinez",
+        "items": "Regular Iced americano - 2.15, Regular Chai latte - 2.30, Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 8.05,
+        "payment_method": "CARD",
+        "card_id": "1.96121E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:01",
+        "location": "Leeds",
+        "customer_name": "Amy Robel",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:02",
+        "location": "Leeds",
+        "customer_name": "Brian Lingerfelt",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:03",
+        "location": "Leeds",
+        "customer_name": "Carmen Barbieri",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "3.12035E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:04",
+        "location": "Leeds",
+        "customer_name": "Gregory Cesar",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "1.48894E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:05",
+        "location": "Leeds",
+        "customer_name": "Joe Villarreal",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 4.8,
+        "payment_method": "CARD",
+        "card_id": "5.16596E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:06",
+        "location": "Leeds",
+        "customer_name": "Tommy Wendelin",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "2.93891E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:07",
+        "location": "Leeds",
+        "customer_name": "Jacques Parker",
+        "items": "Large Hot Chocolate - 1.70, Large Iced americano - 2.50, Regular Hot Chocolate - 1.40",
+        "total_price": 5.6,
+        "payment_method": "CARD",
+        "card_id": "1.012E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:08",
+        "location": "Leeds",
+        "customer_name": "Jo Hodges",
+        "items": "Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 2.8,
+        "payment_method": "CARD",
+        "card_id": "7.69791E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:09",
+        "location": "Leeds",
+        "customer_name": "Antoinette Foster",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.77394E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:11",
+        "location": "Leeds",
+        "customer_name": "Latasha Taylor",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Regular Chai latte - 2.30",
+        "total_price": 5.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:12",
+        "location": "Leeds",
+        "customer_name": "Eleanor Schauman",
+        "items": "Large Iced americano - 2.50, Regular Iced americano - 2.15, Large Hot Chocolate - 1.70",
+        "total_price": 6.35,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:13",
+        "location": "Leeds",
+        "customer_name": "Geneva Lopez",
+        "items": "Large Hot Chocolate - 1.70, Regular Chai latte - 2.30, Large Filter coffee - 1.80",
+        "total_price": 5.8,
+        "payment_method": "CARD",
+        "card_id": "1.46853E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:14",
+        "location": "Leeds",
+        "customer_name": "David Rogillio",
+        "items": "Large Iced americano - 2.50, Large Iced americano - 2.50, Large Hot Chocolate - 1.70",
+        "total_price": 6.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:15",
+        "location": "Leeds",
+        "customer_name": "Terrence Pera",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "7.72664E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:16",
+        "location": "Leeds",
+        "customer_name": "Roy Marcos",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 5.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:17",
+        "location": "Leeds",
+        "customer_name": "Lawrence Ortmann",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 8.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:18",
+        "location": "Leeds",
+        "customer_name": "Antonio Lardizabal",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Large Iced americano - 2.50",
+        "total_price": 8.0,
+        "payment_method": "CARD",
+        "card_id": "3.57718E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:19",
+        "location": "Leeds",
+        "customer_name": "Erwin Stocks",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CARD",
+        "card_id": "3.16915E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:20",
+        "location": "Leeds",
+        "customer_name": "Michael Mcadoo",
+        "items": "Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "3.7877E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:21",
+        "location": "Leeds",
+        "customer_name": "Juanita Berry",
+        "items": "Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 3.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:22",
+        "location": "Leeds",
+        "customer_name": "Patricia Salyards",
+        "items": "Large Chai latte - 2.60, Regular Iced americano - 2.15, Large Chai latte - 2.60, Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 11.25,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:23",
+        "location": "Leeds",
+        "customer_name": "Albert Brunet",
+        "items": "Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30, Large Iced americano - 2.50, Regular Chai latte - 2.30",
+        "total_price": 10.4,
+        "payment_method": "CARD",
+        "card_id": "1.08341E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:24",
+        "location": "Leeds",
+        "customer_name": "Richard Medeiros",
+        "items": "Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 5.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:25",
+        "location": "Leeds",
+        "customer_name": "Christopher Troendle",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CARD",
+        "card_id": "8.08656E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:27",
+        "location": "Leeds",
+        "customer_name": "Mary Martinez",
+        "items": "Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30, Large Iced americano - 2.50",
+        "total_price": 10.5,
+        "payment_method": "CARD",
+        "card_id": "1.41506E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:28",
+        "location": "Leeds",
+        "customer_name": "Allison Yost",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "2.54946E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:29",
+        "location": "Leeds",
+        "customer_name": "Michael Cote",
+        "items": "Regular Iced americano - 2.15, Large Iced americano - 2.50, Regular Iced americano - 2.15, Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70",
+        "total_price": 11.4,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:30",
+        "location": "Leeds",
+        "customer_name": "Marion Whitten",
+        "items": "Regular Chai latte - 2.30, Regular Iced americano - 2.15",
+        "total_price": 4.45,
+        "payment_method": "CARD",
+        "card_id": "6.66727E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:31",
+        "location": "Leeds",
+        "customer_name": "Jeffrey Scott",
+        "items": "Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70",
+        "total_price": 5.65,
+        "payment_method": "CARD",
+        "card_id": "6.09592E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:32",
+        "location": "Leeds",
+        "customer_name": "Carol Garcia",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Regular Chai latte - 2.30",
+        "total_price": 6.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:33",
+        "location": "Leeds",
+        "customer_name": "Jennifer Dawson",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "5.26902E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:34",
+        "location": "Leeds",
+        "customer_name": "Robert Lang",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "3.16408E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:35",
+        "location": "Leeds",
+        "customer_name": "Selma Ness",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:36",
+        "location": "Leeds",
+        "customer_name": "Mary Bolden",
+        "items": "Large Iced americano - 2.50, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 5.3,
+        "payment_method": "CARD",
+        "card_id": "1.92121E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:37",
+        "location": "Leeds",
+        "customer_name": "Bertha Veach",
+        "items": "Large Filter coffee - 1.80, Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:38",
+        "location": "Leeds",
+        "customer_name": "Fernando Rupert",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Regular Chai latte - 2.30, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.6,
+        "payment_method": "CARD",
+        "card_id": "9.26152E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:39",
+        "location": "Leeds",
+        "customer_name": "Angela Bailey",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Large Iced americano - 2.50, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50",
+        "total_price": 10.8,
+        "payment_method": "CARD",
+        "card_id": "7.68501E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:40",
+        "location": "Leeds",
+        "customer_name": "Joseph Padmore",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:41",
+        "location": "Leeds",
+        "customer_name": "Sue Ramsey",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "3.47543E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:43",
+        "location": "Leeds",
+        "customer_name": "Teresa Franciscus",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Filter coffee - 1.80, Regular Hot Chocolate - 1.40",
+        "total_price": 4.8,
+        "payment_method": "CARD",
+        "card_id": "7.065E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:44",
+        "location": "Leeds",
+        "customer_name": "Timothy Fox",
+        "items": "Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 5.1,
+        "payment_method": "CARD",
+        "card_id": "7.97071E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:45",
+        "location": "Leeds",
+        "customer_name": "Samantha Wilson",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:46",
+        "location": "Leeds",
+        "customer_name": "Joseph Fowlkes",
+        "items": "Regular Iced americano - 2.15, Regular Filter coffee - 1.50",
+        "total_price": 3.65,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:47",
+        "location": "Leeds",
+        "customer_name": "Floyd Byrd",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40, Large Chai latte - 2.60",
+        "total_price": 5.3,
+        "payment_method": "CARD",
+        "card_id": "6.25487E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:48",
+        "location": "Leeds",
+        "customer_name": "Rosie Bowman",
+        "items": "Regular Iced americano - 2.15, Large Filter coffee - 1.80",
+        "total_price": 3.95,
+        "payment_method": "CARD",
+        "card_id": "8.48503E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:49",
+        "location": "Leeds",
+        "customer_name": "David Veal",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "9.43949E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:50",
+        "location": "Leeds",
+        "customer_name": "Rebecca Nelson",
+        "items": "Large Chai latte - 2.60, Regular Chai latte - 2.30, Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 9.2,
+        "payment_method": "CARD",
+        "card_id": "2.64131E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:51",
+        "location": "Leeds",
+        "customer_name": "Tyler Street",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:52",
+        "location": "Leeds",
+        "customer_name": "Charles Yazzie",
+        "items": "Large Hot Chocolate - 1.70, Regular Chai latte - 2.30, Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.6,
+        "payment_method": "CARD",
+        "card_id": "1.36466E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:53",
+        "location": "Leeds",
+        "customer_name": "Frankie Dawkins",
+        "items": "Large Iced americano - 2.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:54",
+        "location": "Leeds",
+        "customer_name": "Nancy Milliren",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CARD",
+        "card_id": "5.9073E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:55",
+        "location": "Leeds",
+        "customer_name": "James Reynolds",
+        "items": "Large Chai latte - 2.60, Large Iced americano - 2.50, Regular Filter coffee - 1.50, Large Iced americano - 2.50",
+        "total_price": 9.1,
+        "payment_method": "CARD",
+        "card_id": "7.09587E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:56",
+        "location": "Leeds",
+        "customer_name": "Mark Barnett",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:57",
+        "location": "Leeds",
+        "customer_name": "Blanche Miller",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "10:59",
+        "location": "Leeds",
+        "customer_name": "Ferne Dziuk",
+        "items": "Large Filter coffee - 1.80, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 3.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:00",
+        "location": "Leeds",
+        "customer_name": "Ruth Mckenzie",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "4.46628E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:04",
+        "location": "Leeds",
+        "customer_name": "Betty Dean",
+        "items": "Large Chai latte - 2.60, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 6.5,
+        "payment_method": "CARD",
+        "card_id": "7.69737E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:08",
+        "location": "Leeds",
+        "customer_name": "Grace Sanders",
+        "items": "Large Iced americano - 2.50, Regular Chai latte - 2.30",
+        "total_price": 4.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:12",
+        "location": "Leeds",
+        "customer_name": "Frank Sutherland",
+        "items": "Regular Chai latte - 2.30, Large Chai latte - 2.60, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 8.8,
+        "payment_method": "CARD",
+        "card_id": "6.37227E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:16",
+        "location": "Leeds",
+        "customer_name": "Vincent Holifeild",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Large Iced americano - 2.50",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "7.90712E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:20",
+        "location": "Leeds",
+        "customer_name": "Edna Holton",
+        "items": "Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70",
+        "total_price": 3.4,
+        "payment_method": "CARD",
+        "card_id": "5.74761E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:24",
+        "location": "Leeds",
+        "customer_name": "John Howarth",
+        "items": "Regular Hot Chocolate - 1.40, Regular Hot Chocolate - 1.40, Large Chai latte - 2.60",
+        "total_price": 5.4,
+        "payment_method": "CARD",
+        "card_id": "1.54125E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:28",
+        "location": "Leeds",
+        "customer_name": "Doris Garnett",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CARD",
+        "card_id": "7.4863E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:32",
+        "location": "Leeds",
+        "customer_name": "Tony Pineda",
+        "items": "Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Large Chai latte - 2.60, Large Filter coffee - 1.80",
+        "total_price": 8.1,
+        "payment_method": "CARD",
+        "card_id": "7.15684E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:36",
+        "location": "Leeds",
+        "customer_name": "Larry Solomon",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Large Iced americano - 2.50, Regular Iced americano - 2.15",
+        "total_price": 8.45,
+        "payment_method": "CARD",
+        "card_id": "6.05496E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:40",
+        "location": "Leeds",
+        "customer_name": "Roberto Yopp",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "1.18644E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:44",
+        "location": "Leeds",
+        "customer_name": "Ronald Burgos",
+        "items": "Large Iced americano - 2.50, Regular Iced americano - 2.15",
+        "total_price": 4.65,
+        "payment_method": "CARD",
+        "card_id": "4.52289E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:48",
+        "location": "Leeds",
+        "customer_name": "Elisabeth Duby",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "8.74434E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:52",
+        "location": "Leeds",
+        "customer_name": "Kevin Robinett",
+        "items": "Large Filter coffee - 1.80, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.7,
+        "payment_method": "CARD",
+        "card_id": "1.53542E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "11:56",
+        "location": "Leeds",
+        "customer_name": "Lincoln Dubie",
+        "items": "Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80",
+        "total_price": 5.5,
+        "payment_method": "CARD",
+        "card_id": "1.62386E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:00",
+        "location": "Leeds",
+        "customer_name": "Lisa Marmo",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 2.9,
+        "payment_method": "CARD",
+        "card_id": "8.11032E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:01",
+        "location": "Leeds",
+        "customer_name": "George Muni",
+        "items": "Regular Iced americano - 2.15, Regular Iced americano - 2.15, Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Filter coffee - 1.50",
+        "total_price": 10.4,
+        "payment_method": "CARD",
+        "card_id": "1.97226E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:03",
+        "location": "Leeds",
+        "customer_name": "Marjorie Rohrer",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:05",
+        "location": "Leeds",
+        "customer_name": "Henry Mizell",
+        "items": "Large Iced americano - 2.50, Regular Chai latte - 2.30, Large Chai latte - 2.60",
+        "total_price": 7.4,
+        "payment_method": "CARD",
+        "card_id": "9.80877E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:06",
+        "location": "Leeds",
+        "customer_name": "Joyce Peterson",
+        "items": "Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 6.5,
+        "payment_method": "CARD",
+        "card_id": "3.23112E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:08",
+        "location": "Leeds",
+        "customer_name": "Lawrence Weyrick",
+        "items": "Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:10",
+        "location": "Leeds",
+        "customer_name": "Kenneth Barnes",
+        "items": "Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 3.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:11",
+        "location": "Leeds",
+        "customer_name": "Herbert Yancik",
+        "items": "Regular Filter coffee - 1.50, Regular Iced americano - 2.15, Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.25,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:13",
+        "location": "Leeds",
+        "customer_name": "Connie Bacich",
+        "items": "Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70, Regular Chai latte - 2.30",
+        "total_price": 11.1,
+        "payment_method": "CARD",
+        "card_id": "2.01728E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:15",
+        "location": "Leeds",
+        "customer_name": "Henry Hodges",
+        "items": "Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Large Iced americano - 2.50, Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 11.7,
+        "payment_method": "CARD",
+        "card_id": "9.57215E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:16",
+        "location": "Leeds",
+        "customer_name": "Kathleen Pace",
+        "items": "Large Filter coffee - 1.80, Regular Hot Chocolate - 1.40",
+        "total_price": 3.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:18",
+        "location": "Leeds",
+        "customer_name": "Lorie Williams",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Regular Iced americano - 2.15, Regular Chai latte - 2.30, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70",
+        "total_price": 11.45,
+        "payment_method": "CARD",
+        "card_id": "7.721E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:20",
+        "location": "Leeds",
+        "customer_name": "Catherine Thompson",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30, Large Iced americano - 2.50",
+        "total_price": 6.6,
+        "payment_method": "CARD",
+        "card_id": "5.40304E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:21",
+        "location": "Leeds",
+        "customer_name": "Mark Smith",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "5.63308E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:23",
+        "location": "Leeds",
+        "customer_name": "Johnny Mermis",
+        "items": "Large Iced americano - 2.50, Regular Iced americano - 2.15, Regular Iced americano - 2.15, Large Hot Chocolate - 1.70, Regular Iced americano - 2.15",
+        "total_price": 10.65,
+        "payment_method": "CARD",
+        "card_id": "3.59105E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:25",
+        "location": "Leeds",
+        "customer_name": "Cindy Cepero",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40",
+        "total_price": 8.9,
+        "payment_method": "CARD",
+        "card_id": "9.79749E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:26",
+        "location": "Leeds",
+        "customer_name": "Stewart Gibby",
+        "items": "Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Large Chai latte - 2.60",
+        "total_price": 13.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:28",
+        "location": "Leeds",
+        "customer_name": "Mary Mazurek",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 8.6,
+        "payment_method": "CARD",
+        "card_id": "6.82183E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:30",
+        "location": "Leeds",
+        "customer_name": "Jo Mimbs",
+        "items": "Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40",
+        "total_price": 5.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:31",
+        "location": "Leeds",
+        "customer_name": "Edgar Latouche",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80",
+        "total_price": 3.1,
+        "payment_method": "CARD",
+        "card_id": "4.63948E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:33",
+        "location": "Leeds",
+        "customer_name": "Edward Kuhr",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 5.7,
+        "payment_method": "CARD",
+        "card_id": "2.98905E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:35",
+        "location": "Leeds",
+        "customer_name": "Donald Johnson",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30, Large Hot Chocolate - 1.70, Large Iced americano - 2.50",
+        "total_price": 9.7,
+        "payment_method": "CARD",
+        "card_id": "9.2975E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:36",
+        "location": "Leeds",
+        "customer_name": "Margarita Beaulieu",
+        "items": "Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80",
+        "total_price": 5.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:38",
+        "location": "Leeds",
+        "customer_name": "Patricia Mares",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "6.96993E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:40",
+        "location": "Leeds",
+        "customer_name": "Rosemary Lee",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "2.84066E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:41",
+        "location": "Leeds",
+        "customer_name": "Chester Brown",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "7.60861E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:43",
+        "location": "Leeds",
+        "customer_name": "Charles Maze",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CARD",
+        "card_id": "4.95603E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:45",
+        "location": "Leeds",
+        "customer_name": "Dee Miles",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:46",
+        "location": "Leeds",
+        "customer_name": "Irene Basham",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:48",
+        "location": "Leeds",
+        "customer_name": "Carmen Welch",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Filter coffee - 1.80, Regular Iced americano - 2.15",
+        "total_price": 5.55,
+        "payment_method": "CARD",
+        "card_id": "2.9106E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:50",
+        "location": "Leeds",
+        "customer_name": "David Greene",
+        "items": "Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:51",
+        "location": "Leeds",
+        "customer_name": "Donald Fullbright",
+        "items": "Regular Hot Chocolate - 1.40, Regular Filter coffee - 1.50, Large Chai latte - 2.60",
+        "total_price": 5.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:53",
+        "location": "Leeds",
+        "customer_name": "Brent Judon",
+        "items": "Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60, Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Large Speciality Tea - English breakfast - 1.60, Regular Filter coffee - 1.50",
+        "total_price": 9.65,
+        "payment_method": "CARD",
+        "card_id": "4.91954E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:55",
+        "location": "Leeds",
+        "customer_name": "Wesley Loving",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 2.8,
+        "payment_method": "CARD",
+        "card_id": "4.16729E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:56",
+        "location": "Leeds",
+        "customer_name": "Charlene Leigh",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "8.52965E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "12:58",
+        "location": "Leeds",
+        "customer_name": "Kenneth Gibson",
+        "items": "Large Filter coffee - 1.80, Regular Iced americano - 2.15, Regular Chai latte - 2.30, Regular Iced americano - 2.15",
+        "total_price": 8.4,
+        "payment_method": "CARD",
+        "card_id": "8.22687E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:00",
+        "location": "Leeds",
+        "customer_name": "Stephen Silva",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:00",
+        "location": "Leeds",
+        "customer_name": "James Willis",
+        "items": "Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Large Iced americano - 2.50, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 7.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:01",
+        "location": "Leeds",
+        "customer_name": "Samuel Mccullin",
+        "items": "Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Regular Iced americano - 2.15",
+        "total_price": 5.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:02",
+        "location": "Leeds",
+        "customer_name": "Thomas Rivera",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Iced americano - 2.15, Regular Filter coffee - 1.50",
+        "total_price": 5.25,
+        "payment_method": "CARD",
+        "card_id": "1.34081E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:03",
+        "location": "Leeds",
+        "customer_name": "Denise Burns",
+        "items": "Regular Iced americano - 2.15, Large Chai latte - 2.60, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30, Regular Filter coffee - 1.50",
+        "total_price": 10.15,
+        "payment_method": "CARD",
+        "card_id": "6.79559E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:04",
+        "location": "Leeds",
+        "customer_name": "Nina Gilmore",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 8.0,
+        "payment_method": "CARD",
+        "card_id": "5.18796E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:05",
+        "location": "Leeds",
+        "customer_name": "Frank Bernacchi",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CARD",
+        "card_id": "6.659E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:05",
+        "location": "Leeds",
+        "customer_name": "Denise Benham",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 8.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:06",
+        "location": "Leeds",
+        "customer_name": "Darlene Barnes",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:07",
+        "location": "Leeds",
+        "customer_name": "Rhonda Phillips",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:08",
+        "location": "Leeds",
+        "customer_name": "Craig Youtsey",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:09",
+        "location": "Leeds",
+        "customer_name": "Kathleen Marra",
+        "items": "Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 9.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:10",
+        "location": "Leeds",
+        "customer_name": "Alice Adams",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:10",
+        "location": "Leeds",
+        "customer_name": "Donna Alkire",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Large Hot Chocolate - 1.70",
+        "total_price": 8.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:11",
+        "location": "Leeds",
+        "customer_name": "Susan Stater",
+        "items": "Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:12",
+        "location": "Leeds",
+        "customer_name": "Emmanuel Spates",
+        "items": "Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70",
+        "total_price": 7.45,
+        "payment_method": "CARD",
+        "card_id": "6.60665E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:13",
+        "location": "Leeds",
+        "customer_name": "Jessica Sutton",
+        "items": "Large Iced americano - 2.50, Large Speciality Tea - English breakfast - 1.60, Regular Iced americano - 2.15, Regular Chai latte - 2.30",
+        "total_price": 8.55,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:14",
+        "location": "Leeds",
+        "customer_name": "Celesta Beddo",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CARD",
+        "card_id": "1.42817E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:15",
+        "location": "Leeds",
+        "customer_name": "Sharon Joseph",
+        "items": "Regular Hot Chocolate - 1.40, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 7.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:15",
+        "location": "Leeds",
+        "customer_name": "William Brown",
+        "items": "Large Chai latte - 2.60, Large Speciality Tea - English breakfast - 1.60, Large Hot Chocolate - 1.70, Regular Chai latte - 2.30",
+        "total_price": 8.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:16",
+        "location": "Leeds",
+        "customer_name": "Maurine Rodriguez",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:17",
+        "location": "Leeds",
+        "customer_name": "Robert Alexander",
+        "items": "Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 4.3,
+        "payment_method": "CARD",
+        "card_id": "6.78621E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:18",
+        "location": "Leeds",
+        "customer_name": "Karen Winston",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:19",
+        "location": "Leeds",
+        "customer_name": "Eleanor Blue",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "9.73748E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:20",
+        "location": "Leeds",
+        "customer_name": "Jason Real",
+        "items": "Large Filter coffee - 1.80, Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 8.35,
+        "payment_method": "CARD",
+        "card_id": "4.9125E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:20",
+        "location": "Leeds",
+        "customer_name": "Robert King",
+        "items": "Regular Hot Chocolate - 1.40, Large Chai latte - 2.60, Regular Filter coffee - 1.50",
+        "total_price": 5.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:21",
+        "location": "Leeds",
+        "customer_name": "William Ryan",
+        "items": "Regular Chai latte - 2.30, Regular Iced americano - 2.15",
+        "total_price": 4.45,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:22",
+        "location": "Leeds",
+        "customer_name": "Brenda Cotton",
+        "items": "Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60, Large Filter coffee - 1.80",
+        "total_price": 5.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:23",
+        "location": "Leeds",
+        "customer_name": "Jerry Anderson",
+        "items": "Regular Filter coffee - 1.50, Regular Iced americano - 2.15, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 5.25,
+        "payment_method": "CARD",
+        "card_id": "5.37403E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:24",
+        "location": "Leeds",
+        "customer_name": "Todd Ceja",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CARD",
+        "card_id": "5.40975E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:25",
+        "location": "Leeds",
+        "customer_name": "Roger Hoang",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 3.8,
+        "payment_method": "CARD",
+        "card_id": "3.1006E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:25",
+        "location": "Leeds",
+        "customer_name": "Gladys Jefferies",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 3.8,
+        "payment_method": "CARD",
+        "card_id": "9.70823E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:26",
+        "location": "Leeds",
+        "customer_name": "Clarence Hunt",
+        "items": "Large Hot Chocolate - 1.70, Large Chai latte - 2.60",
+        "total_price": 4.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:27",
+        "location": "Leeds",
+        "customer_name": "Carol Milford",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "1.76739E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:28",
+        "location": "Leeds",
+        "customer_name": "Claudia Cleveland",
+        "items": "Large Filter coffee - 1.80, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Chai latte - 2.60",
+        "total_price": 9.1,
+        "payment_method": "CARD",
+        "card_id": "8.88098E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:29",
+        "location": "Leeds",
+        "customer_name": "Marian Tesmar",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "8.04726E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:30",
+        "location": "Leeds",
+        "customer_name": "Debbie Lee",
+        "items": "Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Iced americano - 2.50",
+        "total_price": 5.8,
+        "payment_method": "CARD",
+        "card_id": "3.5469E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:30",
+        "location": "Leeds",
+        "customer_name": "Susan Buttrey",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 4.8,
+        "payment_method": "CARD",
+        "card_id": "3.10375E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:31",
+        "location": "Leeds",
+        "customer_name": "Pamela Vincent",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "1.86707E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:32",
+        "location": "Leeds",
+        "customer_name": "Rebecca Johnson",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "5.18764E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:33",
+        "location": "Leeds",
+        "customer_name": "Kristen Woods",
+        "items": "Regular Chai latte - 2.30, Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40",
+        "total_price": 5.0,
+        "payment_method": "CARD",
+        "card_id": "2.89715E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:34",
+        "location": "Leeds",
+        "customer_name": "Regina Everett",
+        "items": "Large Iced americano - 2.50, Large Iced americano - 2.50",
+        "total_price": 5.0,
+        "payment_method": "CARD",
+        "card_id": "5.99543E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:35",
+        "location": "Leeds",
+        "customer_name": "Floyd Wilson",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "5.1239E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:35",
+        "location": "Leeds",
+        "customer_name": "Charlie Taylor",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 4.0,
+        "payment_method": "CARD",
+        "card_id": "3.26431E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:36",
+        "location": "Leeds",
+        "customer_name": "Katie Liriano",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Chai latte - 2.30",
+        "total_price": 3.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:37",
+        "location": "Leeds",
+        "customer_name": "Juan Gulbrandsen",
+        "items": "Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.9,
+        "payment_method": "CARD",
+        "card_id": "4.03118E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:38",
+        "location": "Leeds",
+        "customer_name": "Jacqueline Lowe",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CARD",
+        "card_id": "6.07544E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:39",
+        "location": "Leeds",
+        "customer_name": "Daniel Atwood",
+        "items": "Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 6.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:40",
+        "location": "Leeds",
+        "customer_name": "Frances Mcfarland",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 5.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:40",
+        "location": "Leeds",
+        "customer_name": "Horace Munoz",
+        "items": "Regular Iced americano - 2.15, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 9.25,
+        "payment_method": "CARD",
+        "card_id": "1.79726E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:41",
+        "location": "Leeds",
+        "customer_name": "Yvonne Hill",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "3.83979E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:42",
+        "location": "Leeds",
+        "customer_name": "Janet Morris",
+        "items": "Large Iced americano - 2.50, Large Chai latte - 2.60",
+        "total_price": 5.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:43",
+        "location": "Leeds",
+        "customer_name": "Ashley Chavarria",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "7.87125E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:44",
+        "location": "Leeds",
+        "customer_name": "Patrick Morris",
+        "items": "Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60, Large Iced americano - 2.50, Regular Hot Chocolate - 1.40, Large Chai latte - 2.60",
+        "total_price": 9.6,
+        "payment_method": "CARD",
+        "card_id": "1.55053E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:45",
+        "location": "Leeds",
+        "customer_name": "Katherine Bennett",
+        "items": "Regular Iced americano - 2.15, Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 7.05,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:45",
+        "location": "Leeds",
+        "customer_name": "Rita Jenkins",
+        "items": "Large Filter coffee - 1.80, Large Hot Chocolate - 1.70, Large Iced americano - 2.50",
+        "total_price": 6.0,
+        "payment_method": "CARD",
+        "card_id": "1.71733E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:46",
+        "location": "Leeds",
+        "customer_name": "Ida Powe",
+        "items": "Large Chai latte - 2.60, Regular Iced americano - 2.15, Regular Iced americano - 2.15",
+        "total_price": 6.9,
+        "payment_method": "CARD",
+        "card_id": "1.8831E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:47",
+        "location": "Leeds",
+        "customer_name": "David Middleton",
+        "items": "Regular Hot Chocolate - 1.40, Regular Filter coffee - 1.50",
+        "total_price": 2.9,
+        "payment_method": "CARD",
+        "card_id": "3.14295E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:48",
+        "location": "Leeds",
+        "customer_name": "Laurie Saechao",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 7.0,
+        "payment_method": "CARD",
+        "card_id": "2.52227E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:49",
+        "location": "Leeds",
+        "customer_name": "Wanda Tolar",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 5.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:50",
+        "location": "Leeds",
+        "customer_name": "Marion Tanner",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:50",
+        "location": "Leeds",
+        "customer_name": "James Cochran",
+        "items": "Large Iced americano - 2.50, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 6.4,
+        "payment_method": "CARD",
+        "card_id": "4.87701E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:51",
+        "location": "Leeds",
+        "customer_name": "Joanne Pelletier",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Chai latte - 2.60",
+        "total_price": 10.3,
+        "payment_method": "CARD",
+        "card_id": "4.64654E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:52",
+        "location": "Leeds",
+        "customer_name": "Nancy Viejo",
+        "items": "Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 5.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:53",
+        "location": "Leeds",
+        "customer_name": "Helen Byrd",
+        "items": "Regular Chai latte - 2.30, Large Chai latte - 2.60",
+        "total_price": 4.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:54",
+        "location": "Leeds",
+        "customer_name": "Allen Ousley",
+        "items": "Regular Iced americano - 2.15, Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60, Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 9.35,
+        "payment_method": "CARD",
+        "card_id": "5.53293E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:55",
+        "location": "Leeds",
+        "customer_name": "Ronald Malton",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "1.00171E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:55",
+        "location": "Leeds",
+        "customer_name": "Chelsey Davis",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "4.55447E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:56",
+        "location": "Leeds",
+        "customer_name": "Mike Holeman",
+        "items": "Large Filter coffee - 1.80, Large Hot Chocolate - 1.70",
+        "total_price": 3.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:57",
+        "location": "Leeds",
+        "customer_name": "Pamela Presnall",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60, Large Iced americano - 2.50",
+        "total_price": 7.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:58",
+        "location": "Leeds",
+        "customer_name": "David Tinsley",
+        "items": "Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 3.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "13:59",
+        "location": "Leeds",
+        "customer_name": "Sheri Loveman",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "1.52249E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:00",
+        "location": "Leeds",
+        "customer_name": "Courtney Campbell",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 5.4,
+        "payment_method": "CARD",
+        "card_id": "3.70873E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:01",
+        "location": "Leeds",
+        "customer_name": "Mary Walter",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70",
+        "total_price": 4.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:02",
+        "location": "Leeds",
+        "customer_name": "Patrick Dishman",
+        "items": "Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Regular Chai latte - 2.30, Large Iced americano - 2.50",
+        "total_price": 10.65,
+        "payment_method": "CARD",
+        "card_id": "7.06292E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:02",
+        "location": "Leeds",
+        "customer_name": "John Boyer",
+        "items": "Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70",
+        "total_price": 3.4,
+        "payment_method": "CARD",
+        "card_id": "2.03589E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:03",
+        "location": "Leeds",
+        "customer_name": "Mary Cote",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70",
+        "total_price": 8.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:04",
+        "location": "Leeds",
+        "customer_name": "Sandra Frank",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CARD",
+        "card_id": "1.0607E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:05",
+        "location": "Leeds",
+        "customer_name": "Napoleon Mau",
+        "items": "Regular Chai latte - 2.30, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 3.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:06",
+        "location": "Leeds",
+        "customer_name": "Sharlene Brooks",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.4494E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:07",
+        "location": "Leeds",
+        "customer_name": "Abigail Artis",
+        "items": "Regular Chai latte - 2.30, Regular Chai latte - 2.30, Large Hot Chocolate - 1.70",
+        "total_price": 6.3,
+        "payment_method": "CARD",
+        "card_id": "2.05419E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:08",
+        "location": "Leeds",
+        "customer_name": "Tracey Wilson",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:09",
+        "location": "Leeds",
+        "customer_name": "Laura Green",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80",
+        "total_price": 9.7,
+        "payment_method": "CARD",
+        "card_id": "4.97454E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:10",
+        "location": "Leeds",
+        "customer_name": "Richard Velasquez",
+        "items": "Regular Hot Chocolate - 1.40, Regular Hot Chocolate - 1.40, Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "3.13624E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:11",
+        "location": "Leeds",
+        "customer_name": "Ted Griffith",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30, Regular Chai latte - 2.30",
+        "total_price": 6.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:12",
+        "location": "Leeds",
+        "customer_name": "Rose Ratliff",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "7.40446E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:13",
+        "location": "Leeds",
+        "customer_name": "John Johnson",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "2.78968E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:14",
+        "location": "Leeds",
+        "customer_name": "Kenneth Clausen",
+        "items": "Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 6.1,
+        "payment_method": "CARD",
+        "card_id": "5.34532E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:15",
+        "location": "Leeds",
+        "customer_name": "Rodney Gates",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Speciality Tea - English breakfast - 1.60, Regular Hot Chocolate - 1.40, Large Chai latte - 2.60",
+        "total_price": 7.2,
+        "payment_method": "CARD",
+        "card_id": "1.99439E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:16",
+        "location": "Leeds",
+        "customer_name": "Roberto Castro",
+        "items": "Large Iced americano - 2.50, Regular Filter coffee - 1.50",
+        "total_price": 4.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:17",
+        "location": "Leeds",
+        "customer_name": "Craig Hammond",
+        "items": "Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Large Chai latte - 2.60",
+        "total_price": 5.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:18",
+        "location": "Leeds",
+        "customer_name": "Alexandria Jones",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Large Filter coffee - 1.80",
+        "total_price": 8.3,
+        "payment_method": "CARD",
+        "card_id": "5.10577E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:19",
+        "location": "Leeds",
+        "customer_name": "Mary Baldwin",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60, Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 7.5,
+        "payment_method": "CARD",
+        "card_id": "8.32555E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:20",
+        "location": "Leeds",
+        "customer_name": "Joshua Stclair",
+        "items": "Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70",
+        "total_price": 6.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:21",
+        "location": "Leeds",
+        "customer_name": "Mildred Kaiser",
+        "items": "Large Chai latte - 2.60, Regular Iced americano - 2.15, Regular Filter coffee - 1.50",
+        "total_price": 6.25,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:21",
+        "location": "Leeds",
+        "customer_name": "Ronald Engle",
+        "items": "Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30, Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80",
+        "total_price": 8.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:22",
+        "location": "Leeds",
+        "customer_name": "Daniel Riggs",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "6.11604E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:23",
+        "location": "Leeds",
+        "customer_name": "Deborah Allen",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Large Hot Chocolate - 1.70",
+        "total_price": 4.6,
+        "payment_method": "CARD",
+        "card_id": "8.71994E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:24",
+        "location": "Leeds",
+        "customer_name": "Mark Rocha",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80, Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "1.5255E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:25",
+        "location": "Leeds",
+        "customer_name": "Pam Craven",
+        "items": "Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 3.8,
+        "payment_method": "CARD",
+        "card_id": "6.81132E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:26",
+        "location": "Leeds",
+        "customer_name": "James Estrada",
+        "items": "Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 3.6,
+        "payment_method": "CARD",
+        "card_id": "5.80423E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:27",
+        "location": "Leeds",
+        "customer_name": "Michael Morren",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Iced americano - 2.15",
+        "total_price": 3.75,
+        "payment_method": "CARD",
+        "card_id": "7.64852E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:28",
+        "location": "Leeds",
+        "customer_name": "Augustine Merritt",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "8.83032E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:29",
+        "location": "Leeds",
+        "customer_name": "Reta Billups",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.24295E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:30",
+        "location": "Leeds",
+        "customer_name": "Joel Welter",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CARD",
+        "card_id": "1.94548E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:31",
+        "location": "Leeds",
+        "customer_name": "Sharon Anderson",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "9.13273E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:32",
+        "location": "Leeds",
+        "customer_name": "Enrique Melton",
+        "items": "Regular Filter coffee - 1.50, Regular Iced americano - 2.15, Large Chai latte - 2.60",
+        "total_price": 6.25,
+        "payment_method": "CARD",
+        "card_id": "6.80969E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:33",
+        "location": "Leeds",
+        "customer_name": "Laura Holt",
+        "items": "Regular Iced americano - 2.15, Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70, Large Chai latte - 2.60",
+        "total_price": 9.85,
+        "payment_method": "CARD",
+        "card_id": "3.3416E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:34",
+        "location": "Leeds",
+        "customer_name": "Dallas Galloway",
+        "items": "Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70, Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 9.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:35",
+        "location": "Leeds",
+        "customer_name": "Pamela Tibbles",
+        "items": "Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50",
+        "total_price": 6.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:36",
+        "location": "Leeds",
+        "customer_name": "Robert Dodge",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:37",
+        "location": "Leeds",
+        "customer_name": "Kimberly Kahn",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:38",
+        "location": "Leeds",
+        "customer_name": "Catherine Hernandez",
+        "items": "Large Iced americano - 2.50, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50",
+        "total_price": 7.2,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:39",
+        "location": "Leeds",
+        "customer_name": "Kristi Rojas",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:40",
+        "location": "Leeds",
+        "customer_name": "Timothy Belisle",
+        "items": "Large Chai latte - 2.60, Large Hot Chocolate - 1.70",
+        "total_price": 4.3,
+        "payment_method": "CARD",
+        "card_id": "6.93226E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:40",
+        "location": "Leeds",
+        "customer_name": "Roger May",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:41",
+        "location": "Leeds",
+        "customer_name": "Sarah Schuller",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 4.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:42",
+        "location": "Leeds",
+        "customer_name": "Robert Cordova",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "3.80331E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:43",
+        "location": "Leeds",
+        "customer_name": "Arnulfo Risch",
+        "items": "Large Iced americano - 2.50, Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 6.8,
+        "payment_method": "CARD",
+        "card_id": "9.76044E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:44",
+        "location": "Leeds",
+        "customer_name": "Justine Reynolds",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "5.25861E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:45",
+        "location": "Leeds",
+        "customer_name": "James Webb",
+        "items": "Large Iced americano - 2.50, Large Iced americano - 2.50, Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60",
+        "total_price": 11.5,
+        "payment_method": "CARD",
+        "card_id": "9.25435E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:46",
+        "location": "Leeds",
+        "customer_name": "Roland Smith",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Hot Chocolate - 1.70, Regular Chai latte - 2.30, Large Hot Chocolate - 1.70",
+        "total_price": 7.3,
+        "payment_method": "CARD",
+        "card_id": "4.56314E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:47",
+        "location": "Leeds",
+        "customer_name": "Maya Woodyard",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "5.58731E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:48",
+        "location": "Leeds",
+        "customer_name": "Jamie Roth",
+        "items": "Large Filter coffee - 1.80, Regular Iced americano - 2.15",
+        "total_price": 3.95,
+        "payment_method": "CARD",
+        "card_id": "2.72357E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:49",
+        "location": "Leeds",
+        "customer_name": "Bill Houghtaling",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "5.13648E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:50",
+        "location": "Leeds",
+        "customer_name": "Sheryl Rotenberry",
+        "items": "Large Iced americano - 2.50, Regular Hot Chocolate - 1.40",
+        "total_price": 3.9,
+        "payment_method": "CARD",
+        "card_id": "4.75293E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:51",
+        "location": "Leeds",
+        "customer_name": "Samuel Mcginnis",
+        "items": "Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 5.2,
+        "payment_method": "CARD",
+        "card_id": "5.38063E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:52",
+        "location": "Leeds",
+        "customer_name": "Ramon Silva",
+        "items": "Large Iced americano - 2.50, Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 7.9,
+        "payment_method": "CARD",
+        "card_id": "6.71966E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:53",
+        "location": "Leeds",
+        "customer_name": "Glen Chandler",
+        "items": "Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Regular Iced americano - 2.15, Regular Iced americano - 2.15",
+        "total_price": 10.3,
+        "payment_method": "CARD",
+        "card_id": "3.15358E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:54",
+        "location": "Leeds",
+        "customer_name": "James Mendez",
+        "items": "Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 3.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:55",
+        "location": "Leeds",
+        "customer_name": "Scott Smithers",
+        "items": "Regular Hot Chocolate - 1.40, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:56",
+        "location": "Leeds",
+        "customer_name": "Bradley Miners",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60",
+        "total_price": 7.2,
+        "payment_method": "CARD",
+        "card_id": "3.429E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:57",
+        "location": "Leeds",
+        "customer_name": "Ramiro Sutton",
+        "items": "Regular Chai latte - 2.30, Regular Filter coffee - 1.50",
+        "total_price": 3.8,
+        "payment_method": "CARD",
+        "card_id": "3.36023E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:58",
+        "location": "Leeds",
+        "customer_name": "Sheila Green",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CARD",
+        "card_id": "6.30875E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:59",
+        "location": "Leeds",
+        "customer_name": "Glenda Goodwin",
+        "items": "Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 3.9,
+        "payment_method": "CARD",
+        "card_id": "9.58766E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "14:59",
+        "location": "Leeds",
+        "customer_name": "Timothy Pease",
+        "items": "Regular Filter coffee - 1.50, Large Iced americano - 2.50, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70",
+        "total_price": 8.5,
+        "payment_method": "CARD",
+        "card_id": "8.81951E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:00",
+        "location": "Leeds",
+        "customer_name": "Jerome Wright",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Iced americano - 2.50, Large Iced americano - 2.50, Large Chai latte - 2.60, Regular Iced americano - 2.15",
+        "total_price": 11.05,
+        "payment_method": "CARD",
+        "card_id": "7.03433E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:01",
+        "location": "Leeds",
+        "customer_name": "Tammie Hubbard",
+        "items": "Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 3.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:02",
+        "location": "Leeds",
+        "customer_name": "Ryan Csaszar",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Iced americano - 2.15",
+        "total_price": 3.75,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:03",
+        "location": "Leeds",
+        "customer_name": "Donna Hall",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Regular Iced americano - 2.15",
+        "total_price": 6.25,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:04",
+        "location": "Leeds",
+        "customer_name": "Olga Wallis",
+        "items": "Regular Chai latte - 2.30, Large Filter coffee - 1.80, Regular Hot Chocolate - 1.40, Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 8.9,
+        "payment_method": "CARD",
+        "card_id": "4.90015E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:05",
+        "location": "Leeds",
+        "customer_name": "Dawn Decker",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70",
+        "total_price": 7.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:06",
+        "location": "Leeds",
+        "customer_name": "Richard Cudney",
+        "items": "Large Iced americano - 2.50, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Chai latte - 2.60, Large Chai latte - 2.60, Large Hot Chocolate - 1.70",
+        "total_price": 13.0,
+        "payment_method": "CARD",
+        "card_id": "5.15008E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:07",
+        "location": "Leeds",
+        "customer_name": "Ernest Brush",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Regular Chai latte - 2.30",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "8.85568E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:07",
+        "location": "Leeds",
+        "customer_name": "Mary Vian",
+        "items": "Regular Hot Chocolate - 1.40",
+        "total_price": 1.4,
+        "payment_method": "CARD",
+        "card_id": "1.82218E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:08",
+        "location": "Leeds",
+        "customer_name": "Jean Elston",
+        "items": "Large Hot Chocolate - 1.70, Large Chai latte - 2.60, Large Filter coffee - 1.80",
+        "total_price": 6.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:09",
+        "location": "Leeds",
+        "customer_name": "Laura Coffey",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CARD",
+        "card_id": "3.38978E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:10",
+        "location": "Leeds",
+        "customer_name": "Edward Tuohy",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:11",
+        "location": "Leeds",
+        "customer_name": "Brenda Albanese",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "8.99131E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:12",
+        "location": "Leeds",
+        "customer_name": "Susan Liotta",
+        "items": "Large Iced americano - 2.50, Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 5.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:13",
+        "location": "Leeds",
+        "customer_name": "Mireya Whitford",
+        "items": "Regular Chai latte - 2.30, Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 6.8,
+        "payment_method": "CARD",
+        "card_id": "2.2333E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:14",
+        "location": "Leeds",
+        "customer_name": "Robert Middleton",
+        "items": "Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 8.4,
+        "payment_method": "CARD",
+        "card_id": "6.65059E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:14",
+        "location": "Leeds",
+        "customer_name": "James Horton",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40",
+        "total_price": 2.7,
+        "payment_method": "CARD",
+        "card_id": "1.36138E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:15",
+        "location": "Leeds",
+        "customer_name": "Juanita Dotson",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60, Large Iced americano - 2.50, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 6.7,
+        "payment_method": "CARD",
+        "card_id": "6.40195E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:16",
+        "location": "Leeds",
+        "customer_name": "Erika Kitanik",
+        "items": "Large Iced americano - 2.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "7.29866E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:17",
+        "location": "Leeds",
+        "customer_name": "Vera Anton",
+        "items": "Regular Iced americano - 2.15, Regular Hot Chocolate - 1.40",
+        "total_price": 3.55,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:18",
+        "location": "Leeds",
+        "customer_name": "Linda Jordan",
+        "items": "Large Chai latte - 2.60, Large Hot Chocolate - 1.70, Regular Filter coffee - 1.50",
+        "total_price": 5.8,
+        "payment_method": "CARD",
+        "card_id": "4.58826E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:19",
+        "location": "Leeds",
+        "customer_name": "Hector Wood",
+        "items": "Large Filter coffee - 1.80, Regular Iced americano - 2.15, Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Iced americano - 2.50",
+        "total_price": 10.4,
+        "payment_method": "CARD",
+        "card_id": "6.85268E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:20",
+        "location": "Leeds",
+        "customer_name": "Timothy Mulvey",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 6.0,
+        "payment_method": "CARD",
+        "card_id": "4.26237E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:21",
+        "location": "Leeds",
+        "customer_name": "Sandra Perez",
+        "items": "Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Filter coffee - 1.50, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Large Filter coffee - 1.80",
+        "total_price": 10.7,
+        "payment_method": "CARD",
+        "card_id": "8.58453E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:22",
+        "location": "Leeds",
+        "customer_name": "Kimberly Grieb",
+        "items": "Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Regular Iced americano - 2.15, Large Chai latte - 2.60",
+        "total_price": 8.3,
+        "payment_method": "CARD",
+        "card_id": "2.59826E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:22",
+        "location": "Leeds",
+        "customer_name": "Martha Armstrong",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 2.9,
+        "payment_method": "CARD",
+        "card_id": "8.00603E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:23",
+        "location": "Leeds",
+        "customer_name": "Jack Robles",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60, Regular Filter coffee - 1.50",
+        "total_price": 5.6,
+        "payment_method": "CARD",
+        "card_id": "9.52177E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:24",
+        "location": "Leeds",
+        "customer_name": "Eddie Cash",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:25",
+        "location": "Leeds",
+        "customer_name": "Shirley Reed",
+        "items": "Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60, Regular Hot Chocolate - 1.40",
+        "total_price": 4.8,
+        "payment_method": "CARD",
+        "card_id": "7.59812E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:26",
+        "location": "Leeds",
+        "customer_name": "Michael Christopher",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60, Large Hot Chocolate - 1.70, Large Filter coffee - 1.80, Large Iced americano - 2.50, Large Filter coffee - 1.80",
+        "total_price": 11.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:27",
+        "location": "Leeds",
+        "customer_name": "Steven Harris",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "2.24073E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:28",
+        "location": "Leeds",
+        "customer_name": "Marjorie Garcia",
+        "items": "Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 3.6,
+        "payment_method": "CARD",
+        "card_id": "6.13739E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:29",
+        "location": "Leeds",
+        "customer_name": "Bruce Murray",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Regular Filter coffee - 1.50",
+        "total_price": 6.1,
+        "payment_method": "CARD",
+        "card_id": "3.75811E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:29",
+        "location": "Leeds",
+        "customer_name": "Cynthia Franco",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "2.37147E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:30",
+        "location": "Leeds",
+        "customer_name": "Thelma Jones",
+        "items": "Large Iced americano - 2.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "5.8091E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:31",
+        "location": "Leeds",
+        "customer_name": "Deborah Behanna",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:32",
+        "location": "Leeds",
+        "customer_name": "Lisa Payton",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.98688E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:33",
+        "location": "Leeds",
+        "customer_name": "Janelle Carr",
+        "items": "Large Filter coffee - 1.80, Regular Filter coffee - 1.50, Regular Iced americano - 2.15, Large Chai latte - 2.60, Large Hot Chocolate - 1.70, Large Iced americano - 2.50",
+        "total_price": 12.25,
+        "payment_method": "CARD",
+        "card_id": "9.71095E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:34",
+        "location": "Leeds",
+        "customer_name": "Cruz Reyna",
+        "items": "Regular Iced americano - 2.15, Regular Iced americano - 2.15, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 5.6,
+        "payment_method": "CARD",
+        "card_id": "3.08997E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:35",
+        "location": "Leeds",
+        "customer_name": "James Victor",
+        "items": "Large Iced americano - 2.50, Regular Hot Chocolate - 1.40, Regular Chai latte - 2.30, Large Filter coffee - 1.80",
+        "total_price": 8.0,
+        "payment_method": "CARD",
+        "card_id": "2.17788E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:36",
+        "location": "Leeds",
+        "customer_name": "Isaac Pesqueira",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CARD",
+        "card_id": "6.99791E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:36",
+        "location": "Leeds",
+        "customer_name": "William Richardson",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Chai latte - 2.30",
+        "total_price": 3.6,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:37",
+        "location": "Leeds",
+        "customer_name": "Corey Schultz",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:38",
+        "location": "Leeds",
+        "customer_name": "Louis Tooks",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 5.7,
+        "payment_method": "CARD",
+        "card_id": "3.82256E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:39",
+        "location": "Leeds",
+        "customer_name": "Dave Stull",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 4.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:40",
+        "location": "Leeds",
+        "customer_name": "Charles Cruz",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 2.8,
+        "payment_method": "CARD",
+        "card_id": "4.30605E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:41",
+        "location": "Leeds",
+        "customer_name": "Marc Huckins",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.16729E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:42",
+        "location": "Leeds",
+        "customer_name": "Scott Kittler",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:43",
+        "location": "Leeds",
+        "customer_name": "Jacob Kirkpatrick",
+        "items": "Large Chai latte - 2.60, Large Chai latte - 2.60",
+        "total_price": 5.2,
+        "payment_method": "CARD",
+        "card_id": "4.62923E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:43",
+        "location": "Leeds",
+        "customer_name": "Carlos Pharis",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "6.16948E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:44",
+        "location": "Leeds",
+        "customer_name": "Joey Narine",
+        "items": "Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 5.1,
+        "payment_method": "CARD",
+        "card_id": "3.75091E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:45",
+        "location": "Leeds",
+        "customer_name": "Earl Hall",
+        "items": "Large Iced americano - 2.50, Large Filter coffee - 1.80",
+        "total_price": 4.3,
+        "payment_method": "CARD",
+        "card_id": "4.76105E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:46",
+        "location": "Leeds",
+        "customer_name": "Lester Graham",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Regular Hot Chocolate - 1.40",
+        "total_price": 2.7,
+        "payment_method": "CARD",
+        "card_id": "1.40739E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:47",
+        "location": "Leeds",
+        "customer_name": "Patrick Allen",
+        "items": "Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70, Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 7.8,
+        "payment_method": "CARD",
+        "card_id": "3.2445E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:48",
+        "location": "Leeds",
+        "customer_name": "Nancy Sheehan",
+        "items": "Regular Filter coffee - 1.50",
+        "total_price": 1.5,
+        "payment_method": "CARD",
+        "card_id": "9.09862E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:49",
+        "location": "Leeds",
+        "customer_name": "Samantha Morris",
+        "items": "Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 9.05,
+        "payment_method": "CARD",
+        "card_id": "8.72902E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:50",
+        "location": "Leeds",
+        "customer_name": "Martha Walsh",
+        "items": "Large Filter coffee - 1.80",
+        "total_price": 1.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:51",
+        "location": "Leeds",
+        "customer_name": "Lewis Campos",
+        "items": "Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70",
+        "total_price": 3.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:51",
+        "location": "Leeds",
+        "customer_name": "Heather Klein",
+        "items": "Large Iced americano - 2.50, Large Chai latte - 2.60",
+        "total_price": 5.1,
+        "payment_method": "CARD",
+        "card_id": "6.15502E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:52",
+        "location": "Leeds",
+        "customer_name": "Sarah Ellis",
+        "items": "Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 3.1,
+        "payment_method": "CARD",
+        "card_id": "3.43395E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:53",
+        "location": "Leeds",
+        "customer_name": "Chante Hamilton",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Regular Speciality Tea - English breakfast - 1.30, Regular Chai latte - 2.30, Large Iced americano - 2.50, Regular Hot Chocolate - 1.40",
+        "total_price": 9.1,
+        "payment_method": "CARD",
+        "card_id": "1.99985E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:54",
+        "location": "Leeds",
+        "customer_name": "Sally Garcia",
+        "items": "Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50, Regular Chai latte - 2.30",
+        "total_price": 6.8,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:55",
+        "location": "Leeds",
+        "customer_name": "Norris Sigala",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CARD",
+        "card_id": "4.20646E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:56",
+        "location": "Leeds",
+        "customer_name": "Natasha Rosiles",
+        "items": "Large Iced americano - 2.50, Regular Hot Chocolate - 1.40",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:57",
+        "location": "Leeds",
+        "customer_name": "Henry Sellers",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Large Filter coffee - 1.80, Regular Iced americano - 2.15, Large Filter coffee - 1.80",
+        "total_price": 9.85,
+        "payment_method": "CARD",
+        "card_id": "6.11791E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:58",
+        "location": "Leeds",
+        "customer_name": "Donovan Shanholtz",
+        "items": "Large Iced americano - 2.50, Large Iced americano - 2.50, Regular Hot Chocolate - 1.40",
+        "total_price": 6.4,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:58",
+        "location": "Leeds",
+        "customer_name": "Adrienne Mullenix",
+        "items": "Large Filter coffee - 1.80, Regular Chai latte - 2.30, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70",
+        "total_price": 7.6,
+        "payment_method": "CARD",
+        "card_id": "9.44335E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "15:59",
+        "location": "Leeds",
+        "customer_name": "William Pope",
+        "items": "Regular Speciality Tea - English breakfast - 1.30",
+        "total_price": 1.3,
+        "payment_method": "CARD",
+        "card_id": "7.38052E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:00",
+        "location": "Leeds",
+        "customer_name": "Vanessa Bell",
+        "items": "Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40",
+        "total_price": 3.7,
+        "payment_method": "CARD",
+        "card_id": "5.65667E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:02",
+        "location": "Leeds",
+        "customer_name": "Lois Springer",
+        "items": "Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 7.9,
+        "payment_method": "CARD",
+        "card_id": "7.37086E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:04",
+        "location": "Leeds",
+        "customer_name": "Sheila Hardy",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Iced americano - 2.50, Regular Chai latte - 2.30",
+        "total_price": 6.1,
+        "payment_method": "CARD",
+        "card_id": "2.58742E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:05",
+        "location": "Leeds",
+        "customer_name": "Thomas Lewis",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "9.15262E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:07",
+        "location": "Leeds",
+        "customer_name": "Manuel Moore",
+        "items": "Large Iced americano - 2.50, Regular Filter coffee - 1.50",
+        "total_price": 4.0,
+        "payment_method": "CARD",
+        "card_id": "3.37459E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:09",
+        "location": "Leeds",
+        "customer_name": "Louise Yates",
+        "items": "Regular Filter coffee - 1.50, Large Iced americano - 2.50",
+        "total_price": 4.0,
+        "payment_method": "CARD",
+        "card_id": "8.7758E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:11",
+        "location": "Leeds",
+        "customer_name": "Shannon Hyatt",
+        "items": "Regular Iced americano - 2.15, Large Speciality Tea - English breakfast - 1.60, Regular Chai latte - 2.30",
+        "total_price": 6.05,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:12",
+        "location": "Leeds",
+        "customer_name": "Josephina Sotelo",
+        "items": "Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 1.6,
+        "payment_method": "CARD",
+        "card_id": "4.3966E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:14",
+        "location": "Leeds",
+        "customer_name": "Isaura Kenney",
+        "items": "Regular Filter coffee - 1.50, Regular Filter coffee - 1.50, Large Chai latte - 2.60, Regular Chai latte - 2.30",
+        "total_price": 7.9,
+        "payment_method": "CARD",
+        "card_id": "7.98086E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:16",
+        "location": "Leeds",
+        "customer_name": "Elizebeth Murdock",
+        "items": "Large Iced americano - 2.50",
+        "total_price": 2.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:18",
+        "location": "Leeds",
+        "customer_name": "Guy Mccormick",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CARD",
+        "card_id": "6.67717E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:19",
+        "location": "Leeds",
+        "customer_name": "Candace Dickerson",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60, Large Filter coffee - 1.80, Large Filter coffee - 1.80, Large Filter coffee - 1.80",
+        "total_price": 9.5,
+        "payment_method": "CARD",
+        "card_id": "5.72014E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:21",
+        "location": "Leeds",
+        "customer_name": "Pauline Gregoire",
+        "items": "Regular Filter coffee - 1.50, Large Chai latte - 2.60",
+        "total_price": 4.1,
+        "payment_method": "CARD",
+        "card_id": "9.73439E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:23",
+        "location": "Leeds",
+        "customer_name": "Zachary Willis",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:25",
+        "location": "Leeds",
+        "customer_name": "Brandie Cahill",
+        "items": "Large Filter coffee - 1.80, Large Chai latte - 2.60, Regular Chai latte - 2.30, Large Chai latte - 2.60",
+        "total_price": 9.3,
+        "payment_method": "CARD",
+        "card_id": "1.80857E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:27",
+        "location": "Leeds",
+        "customer_name": "Samuel Jenkins",
+        "items": "Regular Filter coffee - 1.50, Large Hot Chocolate - 1.70",
+        "total_price": 3.2,
+        "payment_method": "CARD",
+        "card_id": "3.4189E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:28",
+        "location": "Leeds",
+        "customer_name": "Barbara Herrera",
+        "items": "Large Hot Chocolate - 1.70, Large Chai latte - 2.60, Regular Chai latte - 2.30",
+        "total_price": 6.6,
+        "payment_method": "CARD",
+        "card_id": "8.37066E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:30",
+        "location": "Leeds",
+        "customer_name": "Louise Cobar",
+        "items": "Regular Chai latte - 2.30",
+        "total_price": 2.3,
+        "payment_method": "CARD",
+        "card_id": "4.46654E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:32",
+        "location": "Leeds",
+        "customer_name": "Ryan Hawkins",
+        "items": "Large Filter coffee - 1.80, Regular Iced americano - 2.15, Large Chai latte - 2.60, Regular Speciality Tea - English breakfast - 1.30, Regular Filter coffee - 1.50",
+        "total_price": 9.35,
+        "payment_method": "CARD",
+        "card_id": "3.24613E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:34",
+        "location": "Leeds",
+        "customer_name": "Joshua Barrera",
+        "items": "Large Hot Chocolate - 1.70",
+        "total_price": 1.7,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:35",
+        "location": "Leeds",
+        "customer_name": "Neil Brown",
+        "items": "Regular Chai latte - 2.30, Regular Chai latte - 2.30, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 8.5,
+        "payment_method": "CARD",
+        "card_id": "2.40729E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:37",
+        "location": "Leeds",
+        "customer_name": "Terry Wiggins",
+        "items": "Regular Chai latte - 2.30, Large Chai latte - 2.60",
+        "total_price": 4.9,
+        "payment_method": "CARD",
+        "card_id": "4.79276E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:39",
+        "location": "Leeds",
+        "customer_name": "Tabitha Thomas",
+        "items": "Regular Hot Chocolate - 1.40, Regular Filter coffee - 1.50, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 4.5,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:41",
+        "location": "Leeds",
+        "customer_name": "Marcos Warner",
+        "items": "Large Chai latte - 2.60, Large Iced americano - 2.50",
+        "total_price": 5.1,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:42",
+        "location": "Leeds",
+        "customer_name": "Tony Mills",
+        "items": "Large Hot Chocolate - 1.70, Regular Hot Chocolate - 1.40, Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Large Iced americano - 2.50",
+        "total_price": 8.5,
+        "payment_method": "CARD",
+        "card_id": "5.71108E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:44",
+        "location": "Leeds",
+        "customer_name": "Raquel Watson",
+        "items": "Large Speciality Tea - English breakfast - 1.60, Large Filter coffee - 1.80, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 5.0,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:46",
+        "location": "Leeds",
+        "customer_name": "Ryan Lynch",
+        "items": "Regular Iced americano - 2.15",
+        "total_price": 2.15,
+        "payment_method": "CARD",
+        "card_id": "5.15242E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:48",
+        "location": "Leeds",
+        "customer_name": "Danny Whatley",
+        "items": "Regular Speciality Tea - English breakfast - 1.30, Large Chai latte - 2.60",
+        "total_price": 3.9,
+        "payment_method": "CASH",
+        "card_id": "N/A"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:49",
+        "location": "Leeds",
+        "customer_name": "Tina Dame",
+        "items": "Large Chai latte - 2.60, Regular Filter coffee - 1.50, Large Iced americano - 2.50, Large Filter coffee - 1.80",
+        "total_price": 8.4,
+        "payment_method": "CARD",
+        "card_id": "1.01358E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:51",
+        "location": "Leeds",
+        "customer_name": "Allison Hobart",
+        "items": "Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60, Large Chai latte - 2.60",
+        "total_price": 7.2,
+        "payment_method": "CARD",
+        "card_id": "9.09752E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:53",
+        "location": "Leeds",
+        "customer_name": "Jessica White",
+        "items": "Regular Hot Chocolate - 1.40, Large Hot Chocolate - 1.70",
+        "total_price": 3.1,
+        "payment_method": "CARD",
+        "card_id": "5.03699E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:55",
+        "location": "Leeds",
+        "customer_name": "Lester Duff",
+        "items": "Large Chai latte - 2.60, Regular Chai latte - 2.30, Large Hot Chocolate - 1.70, Regular Speciality Tea - English breakfast - 1.30, Large Speciality Tea - English breakfast - 1.60",
+        "total_price": 9.5,
+        "payment_method": "CARD",
+        "card_id": "5.30741E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:56",
+        "location": "Leeds",
+        "customer_name": "Jimmy Phillips",
+        "items": "Regular Filter coffee - 1.50, Regular Hot Chocolate - 1.40, Regular Iced americano - 2.15, Large Filter coffee - 1.80, Large Hot Chocolate - 1.70, Large Iced americano - 2.50",
+        "total_price": 11.05,
+        "payment_method": "CARD",
+        "card_id": "7.04364E+15"
+    },
+    {
+        "date": "28/03/2025",
+        "time": "16:58",
+        "location": "Leeds",
+        "customer_name": "Roberta Moore",
+        "items": "Large Chai latte - 2.60",
+        "total_price": 2.6,
+        "payment_method": "CARD",
+        "card_id": "8.45235E+15"
+    }
+]
