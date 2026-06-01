@@ -16,9 +16,11 @@ def db_import(transactions_list):
 
     cursor = conn.cursor()
 
-    for items in transactions_list:
+    for transaction in transactions_list:
 
-        # Insert order
+        # -------------------------
+        # INSERT ORDER (ONCE)
+        # -------------------------
         cursor.execute("""
             INSERT INTO orders (
                 customer_name,
@@ -30,37 +32,59 @@ def db_import(transactions_list):
             VALUES (%s, %s, %s, %s, %s)
             RETURNING order_id;
         """, (
-            items['customer_name'],
+            transaction['customer_name'],
             'none',
             '0',
-            0,
-            0
+            1,
+            1
         ))
 
         order_id = cursor.fetchone()[0]
 
-        # Split items
-        item_raw_list = items["items"].split(", ")
+        # -------------------------
+        # SPLIT ITEMS
+        # -------------------------
+        item_raw_list = transaction["items"].split(", ")
 
         for item in item_raw_list:
+
             itemised = item.split(" - ")
 
-            product_name = itemised[0]
+            product_name = itemised[0].strip()
 
-            # Get product_id
+            print(f"Product name: {repr(product_name)}")
+
+            # -------------------------
+            # FIND PRODUCT
+            # -------------------------
             cursor.execute("""
                 SELECT product_id
                 FROM products
-                WHERE product_name = %s;
+                WHERE name = %s;
             """, (product_name,))
 
-            product_id = cursor.fetchone()[0]
+            result = cursor.fetchone()
 
-            # INSERT EACH ITEM (IMPORTANT FIX)
+            if result is None:
+                print(f"⚠ Product not found: {product_name}")
+                continue
+
+            product_id = result[0]
+
+            # -------------------------
+            # INSERT ORDER ITEM
+            # -------------------------
             cursor.execute("""
-                INSERT INTO order_items (order_id, product_id)
-                VALUES (%s, %s);
-            """, (order_id, product_id))
-
-    conn.commit()
+                INSERT INTO order_items (
+                    order_id,
+                    product_id,
+                    quantity
+                )
+                VALUES (%s, %s, %s);
+            """, (
+                order_id,
+                product_id,
+                1
+            ))
+            conn.commit()
     conn.close()
