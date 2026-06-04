@@ -4,6 +4,7 @@ import os
 
 def db_import(transactions_list):
 
+
     load_dotenv()
 
     conn = psycopg2.connect(
@@ -18,9 +19,7 @@ def db_import(transactions_list):
 
     for transaction in transactions_list:
 
-        # -------------------------
-        # INSERT ORDER (ONCE)
-        # -------------------------
+        ### INSERT ORDER
         cursor.execute("""
             INSERT INTO orders (
                 customer_name,
@@ -41,22 +40,18 @@ def db_import(transactions_list):
 
         order_id = cursor.fetchone()[0]
 
-        # -------------------------
-        # SPLIT ITEMS
-        # -------------------------
+        ###SPLIT ITEMS
         item_raw_list = transaction["items"].split(", ")
 
-        for item in item_raw_list:
+        items_dict = {}
 
+        for item in item_raw_list:
             itemised = item.split(" - ")
 
             product_name = itemised[0].strip()
 
-            print(f"Product name: {repr(product_name)}")
+            ###check if product is in the DB
 
-            # -------------------------
-            # FIND PRODUCT
-            # -------------------------
             cursor.execute("""
                 SELECT product_id
                 FROM products
@@ -65,26 +60,52 @@ def db_import(transactions_list):
 
             result = cursor.fetchone()
 
+            ####If the item is not in the DB, insert it
+            if result is None:
+                cursor.execute(
+                    """
+                    INSERT INTO products (
+                        name,
+                        price,
+                        quantity
+                    )
+                    VALUES (%s, %s, %s);
+                    """,
+                    (
+                        product_name,
+                        0,
+                        10
+                    )
+                )
+            items_dict[product_name] = items_dict.get(product_name, 0) + 1
+
+        ###loop through the dictionary made for each order
+        for product_name, quantity in items_dict.items():
+
+            cursor.execute("""
+            SELECT product_id
+            FROM products
+            WHERE name = %s;
+            """, (product_name,))
+
+            result = cursor.fetchone()
+            
             if result is None:
                 print(f"⚠ Product not found: {product_name}")
                 continue
-
-            product_id = result[0]
-
-            # -------------------------
-            # INSERT ORDER ITEM
-            # -------------------------
-            cursor.execute("""
-                INSERT INTO order_items (
+            else:
+                product_id = result[0]
+                cursor.execute("""
+                    INSERT INTO order_items (
+                        order_id,
+                        product_id,
+                        quantity
+                    )
+                    VALUES (%s, %s, %s);
+                """, (
                     order_id,
                     product_id,
-                    quantity
-                )
-                VALUES (%s, %s, %s);
-            """, (
-                order_id,
-                product_id,
-                1
-            ))
-            conn.commit()
+                    items_dict[product_name]
+                ))
+                conn.commit()
     conn.close()
