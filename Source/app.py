@@ -6,4 +6,5 @@ import db
 
 transaction_list = utils.export()
 
-db.db_import(transaction_list)
+conn = db.db_open()
+db.db_import(conn, transaction_list)
