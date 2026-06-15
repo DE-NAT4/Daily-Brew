@@ -1,0 +1,18 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: 'Creates Bucket Deployment Stack'
+
+Resources:
+  LambdaDeploymentBucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: 'daily-brew-deployment-bucket'
+      
+      VersioningConfiguration:
+        Status: Enabled
+
+Outputs:
+  DeploymentBucketName:
+    Description: 'The name of the deployment bucket'
+    Value: !Ref LambdaDeploymentBucket
+    Export:
+      Name: !Sub "${AWS::StackName}-BucketName"
