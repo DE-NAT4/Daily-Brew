@@ -4,19 +4,20 @@ import time
 redshift_data = boto3.client('redshift-data')
 
 CLUSTER_ID = "redshiftcluster-zzvcloxeu2tl"
-DATABASE = "your_database"
-DB_USER = "your_db_user"
+#DATABASE = "your_database"
+#DB_USER = "your_db_user"
 
 
-def run_sql(sql):
+def run_sql(sql, dbusername, DATABASE):
     """Run a single SQL statement"""
     response = redshift_data.execute_statement(
         ClusterIdentifier=CLUSTER_ID,
         Database=DATABASE,
-        DbUser=DB_USER,
+        DbUser=dbusername,
         Sql=sql
     )
     return response["Id"]
+
 
 def wait_for_statement(statement_id):
     while True:
@@ -30,7 +31,7 @@ def wait_for_statement(statement_id):
 
         time.sleep(1)
 
-def createdb():
+def createdb(dbname, dbuser):
     statements = [
 
         """
@@ -43,7 +44,7 @@ def createdb():
             name varchar(100),
             phone varchar(30)
         );
-        """,
+        """
 
         """
         DROP TABLE IF EXISTS order_items;
@@ -125,7 +126,7 @@ def createdb():
     for sql in statements:
         print("Running:", sql.strip()[:60])
 
-        stmt_id = run_sql(sql)
+        stmt_id = run_sql(sql, dbuser, dbname)
 
         # optional: wait for completion
         wait_for_statement(stmt_id)
