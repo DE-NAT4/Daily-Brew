@@ -55,17 +55,17 @@ CSV uploaded to S3
 
 AWS resources used:
 
-- S3 bucket: `ma-test-raw-csv`
-- Lambda function: `ma-test-etl-lambda`
+- S3 bucket: `daily-brew-group-raw-csv`
+- Lambda function: `daily-brew-group-etl-lambda`
 - Redshift database: `daily_brew_cafe_db`
-- Redshift schema: `ma_test`
+- Redshift schema: `daily_brew_group`
 - Redshift tables:
-  - `ma_test.transactions`
-  - `ma_test.transaction_items`
+  - `daily_brew_group.transactions`
+  - `daily_brew_group.transaction_items`
 
 ## Data Model
 
-### `ma_test.transactions`
+### `daily_brew_group.transactions`
 
 Stores one row per transaction.
 
@@ -78,7 +78,7 @@ Columns:
 - `transaction_date`
 - `transaction_time`
 
-### `ma_test.transaction_items`
+### `daily_brew_group.transaction_items`
 
 Stores one row per item bought in a transaction.
 
@@ -133,13 +133,13 @@ Deploys the CloudFormation stacks from PowerShell.
 A separate schema was created for this solo project so that it does not affect the group tables:
 
 ```sql
-CREATE SCHEMA IF NOT EXISTS ma_test;
+CREATE SCHEMA IF NOT EXISTS daily_brew_group;
 ```
 
-Tables were created in the `ma_test` schema:
+Tables were created in the `daily_brew_group` schema:
 
 ```sql
-CREATE TABLE IF NOT EXISTS ma_test.transactions (
+CREATE TABLE IF NOT EXISTS daily_brew_group.transactions (
     transaction_id VARCHAR(36) PRIMARY KEY,
     branch VARCHAR(100),
     total_amount DECIMAL(10, 2),
@@ -148,7 +148,7 @@ CREATE TABLE IF NOT EXISTS ma_test.transactions (
     transaction_time TIME
 );
 
-CREATE TABLE IF NOT EXISTS ma_test.transaction_items (
+CREATE TABLE IF NOT EXISTS daily_brew_group.transaction_items (
     transaction_item_id VARCHAR(36) PRIMARY KEY,
     transaction_id VARCHAR(36),
     item_name VARCHAR(255),
@@ -158,7 +158,7 @@ CREATE TABLE IF NOT EXISTS ma_test.transaction_items (
 
 ## Test Result
 
-After uploading the raw CSV to `ma-test-raw-csv`, the Lambda successfully loaded:
+After uploading the raw CSV to `daily-brew-group-raw-csv`, the Lambda should load:
 
 - 382 transaction rows
 - 1051 transaction item rows
@@ -178,24 +178,24 @@ Check row counts:
 
 ```sql
 SELECT COUNT(*) AS transaction_count
-FROM ma_test.transactions;
+FROM daily_brew_group.transactions;
 
 SELECT COUNT(*) AS transaction_item_count
-FROM ma_test.transaction_items;
+FROM daily_brew_group.transaction_items;
 ```
 
 Total sales:
 
 ```sql
 SELECT SUM(total_amount) AS total_sales
-FROM ma_test.transactions;
+FROM daily_brew_group.transactions;
 ```
 
 Sales by payment method:
 
 ```sql
 SELECT payment_method, SUM(total_amount) AS total_sales
-FROM ma_test.transactions
+FROM daily_brew_group.transactions
 GROUP BY payment_method
 ORDER BY total_sales DESC;
 ```
@@ -204,7 +204,7 @@ Best-selling items:
 
 ```sql
 SELECT item_name, COUNT(*) AS times_sold
-FROM ma_test.transaction_items
+FROM daily_brew_group.transaction_items
 GROUP BY item_name
 ORDER BY times_sold DESC;
 ```
@@ -213,7 +213,7 @@ Revenue by item:
 
 ```sql
 SELECT item_name, SUM(item_price) AS item_revenue
-FROM ma_test.transaction_items
+FROM daily_brew_group.transaction_items
 GROUP BY item_name
 ORDER BY item_revenue DESC;
 ```
@@ -223,7 +223,7 @@ Sales by hour:
 ```sql
 SELECT EXTRACT(hour FROM transaction_time) AS hour_of_day,
        SUM(total_amount) AS total_sales
-FROM ma_test.transactions
+FROM daily_brew_group.transactions
 GROUP BY hour_of_day
 ORDER BY hour_of_day;
 ```

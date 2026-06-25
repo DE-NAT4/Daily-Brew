@@ -17,8 +17,8 @@ Resources:
       Timeout: 30
       ReservedConcurrentExecutions: 10
       Code:
-        S3Bucket: ma-test-deployment-bucket
-        S3Key: fe4c28e184a98cf359255f676da3c9c2
+        S3Bucket: daily-brew-group-deployment-bucket
+        S3Key: 96b1bbfdefd1719dc52c53f115ba5521
       Tags:
       - Key: Name
         Value:

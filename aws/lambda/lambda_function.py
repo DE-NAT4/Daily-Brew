@@ -17,7 +17,7 @@ redshift_client = boto3.client("redshift-data")
 REDSHIFT_CLUSTER_ID = "redshiftcluster-28evy6tdoci9"
 REDSHIFT_DATABASE = "daily_brew_cafe_db"
 REDSHIFT_USER = "daily_brew_user"
-REDSHIFT_SCHEMA = "ma_test"
+REDSHIFT_SCHEMA = "daily_brew_group"
 
 
 def escape_sql_text(value):

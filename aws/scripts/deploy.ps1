@@ -2,7 +2,7 @@ $ErrorActionPreference = "Stop"
 $PSNativeCommandUseErrorActionPreference = $true
 
 $aws_profile = if ($args[0]) { $args[0] } else { "MohammedAalam" }
-$project_name = if ($args[1]) { $args[1] } else { "ma-test" }
+$project_name = if ($args[1]) { $args[1] } else { "daily-brew-group" }
 $deployment_bucket = "$project_name-deployment-bucket"
 
 Push-Location "$PSScriptRoot\..\cloudformation"
