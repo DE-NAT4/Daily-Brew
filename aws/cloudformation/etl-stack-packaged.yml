@@ -1,0 +1,75 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Daily Brew skeleton ETL Lambda stack
+Parameters:
+  ProjectName:
+    Type: String
+    Description: Project name used as the prefix for resource names
+Resources:
+  EtlLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName:
+        Fn::Sub: ${ProjectName}-etl-lambda
+      Runtime: python3.12
+      Handler: lambda_function.lambda_handler
+      Role:
+        Fn::Sub: arn:aws:iam::${AWS::AccountId}:role/lambda-execution-role
+      Timeout: 30
+      ReservedConcurrentExecutions: 10
+      Code:
+        S3Bucket: ma-test-deployment-bucket
+        S3Key: fe4c28e184a98cf359255f676da3c9c2
+      Tags:
+      - Key: Name
+        Value:
+          Fn::Sub: ${ProjectName}-etl-lambda
+  RawCsvBucket:
+    Type: AWS::S3::Bucket
+    DependsOn:
+    - RawCsvBucketPermission
+    - EtlLambdaFunction
+    Properties:
+      BucketName:
+        Fn::Sub: ${ProjectName}-raw-csv
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+      NotificationConfiguration:
+        LambdaConfigurations:
+        - Event: s3:ObjectCreated:*
+          Function:
+            Fn::GetAtt:
+            - EtlLambdaFunction
+            - Arn
+      Tags:
+      - Key: Name
+        Value:
+          Fn::Sub: ${ProjectName}-raw-csv
+  RawCsvBucketPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName:
+        Ref: EtlLambdaFunction
+      Principal: s3.amazonaws.com
+      SourceArn:
+        Fn::Sub: arn:aws:s3:::${ProjectName}-raw-csv
+  RawCsvBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket:
+        Ref: RawCsvBucket
+      PolicyDocument:
+        Statement:
+        - Sid: AllowSSLRequestsOnly
+          Action: s3:*
+          Principal: '*'
+          Effect: Deny
+          Resource:
+          - Fn::Sub: arn:aws:s3:::${ProjectName}-raw-csv
+          - Fn::Sub: arn:aws:s3:::${ProjectName}-raw-csv/*
+          Condition:
+            Bool:
+              aws:SecureTransport: 'false'

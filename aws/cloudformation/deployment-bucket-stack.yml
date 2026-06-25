@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Daily Brew deployment bucket stack for Lambda deployment files
+
+Parameters:
+  ProjectName:
+    Type: String
+    Description: Project name used as the prefix for resource names
+
+Resources:
+  DeploymentBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub '${ProjectName}-deployment-bucket'
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: True
+        BlockPublicPolicy: True
+        IgnorePublicAcls: True
+        RestrictPublicBuckets: True
+      Tags:
+        - Key: Name
+          Value: !Sub '${ProjectName}-deployment-bucket'
+
+  DeploymentBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref DeploymentBucket
+      PolicyDocument:
+        Statement:
+          - Sid: AllowSSLRequestsOnly
+            Action: s3:*
+            Principal: "*"
+            Effect: Deny
+            Resource:
+              - !Sub 'arn:aws:s3:::${ProjectName}-deployment-bucket'
+              - !Sub 'arn:aws:s3:::${ProjectName}-deployment-bucket/*'
+            Condition:
+              Bool:
+                aws:SecureTransport: "false"
