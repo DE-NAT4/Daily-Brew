@@ -4,8 +4,14 @@ Description: 'Creates the data S3 bucket and the skeleton Lambda function.'
 Resources:
   CsvDataBucket:
     Type: 'AWS::S3::Bucket'
+    DependsOn:
+      - LambdaInvokePermission
     Properties:
       BucketName: 'daily-brew-csv-data-bucket'
+      NotificationConfiguration:
+        LambdaConfigurations:
+          - Event: s3:ObjectCreated:*
+            Function: !GetAtt ETLLambda.Arn
 
   LambdaExecutionRole:
     Type: 'AWS::IAM::Role'
@@ -33,6 +39,14 @@ Resources:
           def lambda_handler(event, context):
               print("hello team")
               return {'statusCode': 200}
+
+  LambdaInvokePermission:
+    Type: 'AWS::Lambda::Permission'
+    Properties:
+      FunctionName: !Ref ETLLambda
+      Action: lambda:InvokeFunction
+      Principal: s3.amazonaws.com
+      SourceArn: !Sub 'arn:aws:s3:::daily-brew-csv-data-bucket'
 
 Outputs:
   LambdaArn:

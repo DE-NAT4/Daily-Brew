@@ -1,0 +1,67 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Daily Brew skeleton ETL Lambda stack
+
+Parameters:
+  ProjectName:
+    Type: String
+    Description: Project name used as the prefix for resource names
+
+Resources:
+  EtlLambdaFunction:
+    Type: AWS::Lambda::Function
+    Properties:
+      FunctionName: !Sub '${ProjectName}-etl-lambda'
+      Runtime: python3.12
+      Handler: lambda_function.lambda_handler
+      Role: !Sub 'arn:aws:iam::${AWS::AccountId}:role/lambda-execution-role'
+      Timeout: 30
+      ReservedConcurrentExecutions: 10
+      Code: ../lambda
+      Tags:
+        - Key: Name
+          Value: !Sub '${ProjectName}-etl-lambda'
+
+  RawCsvBucket:
+    Type: AWS::S3::Bucket
+    DependsOn:
+      - RawCsvBucketPermission
+      - EtlLambdaFunction
+    Properties:
+      BucketName: !Sub '${ProjectName}-raw-csv'
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: True
+        BlockPublicPolicy: True
+        IgnorePublicAcls: True
+        RestrictPublicBuckets: True
+      NotificationConfiguration:
+        LambdaConfigurations:
+          - Event: s3:ObjectCreated:*
+            Function: !GetAtt EtlLambdaFunction.Arn
+      Tags:
+        - Key: Name
+          Value: !Sub '${ProjectName}-raw-csv'
+
+  RawCsvBucketPermission:
+    Type: AWS::Lambda::Permission
+    Properties:
+      Action: lambda:InvokeFunction
+      FunctionName: !Ref EtlLambdaFunction
+      Principal: s3.amazonaws.com
+      SourceArn: !Sub 'arn:aws:s3:::${ProjectName}-raw-csv'
+
+  RawCsvBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref RawCsvBucket
+      PolicyDocument:
+        Statement:
+          - Sid: AllowSSLRequestsOnly
+            Action: s3:*
+            Principal: "*"
+            Effect: Deny
+            Resource:
+              - !Sub 'arn:aws:s3:::${ProjectName}-raw-csv'
+              - !Sub 'arn:aws:s3:::${ProjectName}-raw-csv/*'
+            Condition:
+              Bool:
+                aws:SecureTransport: "false"
