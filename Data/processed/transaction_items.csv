@@ -1,0 +1,1052 @@
+transaction_item_id,transaction_id,item_name,item_price
+e729cb30-0ddd-495a-8f5d-ca46675b28d0,019ca7ae-cb2e-4fea-8d9a-12ed7abc339d,large filter coffee,1.80
+d9f98d9a-bb85-49c5-b38d-585107c0c406,019ca7ae-cb2e-4fea-8d9a-12ed7abc339d,regular chai latte,2.30
+ad49754a-b3a2-44c8-a427-6d064265b2dc,019ca7ae-cb2e-4fea-8d9a-12ed7abc339d,regular hot chocolate,1.40
+e074883a-d516-4eea-a39b-f20f3341c446,019ca7ae-cb2e-4fea-8d9a-12ed7abc339d,large speciality tea - english breakfast,1.60
+798031fa-f21a-49f9-8b51-faa52f749b36,019ca7ae-cb2e-4fea-8d9a-12ed7abc339d,large chai latte,2.60
+901595d3-ef3e-4413-a391-82a4fbedc940,8bfe3299-3994-41a7-9745-17d1d442b935,large chai latte,2.60
+038dc5ca-a29b-43f6-897a-1230469b023d,8bfe3299-3994-41a7-9745-17d1d442b935,large chai latte,2.60
+88fc02c6-8591-4ff2-90b6-6c3fef7ebbf8,8bfe3299-3994-41a7-9745-17d1d442b935,large chai latte,2.60
+c63b4d95-4306-4a21-ac6c-e23001f9c17a,125cb23f-6ab6-480e-a8d4-bbe608274d1f,regular iced americano,2.15
+6fec17f8-c47a-4f4c-bf52-f47b6e69e1ef,125cb23f-6ab6-480e-a8d4-bbe608274d1f,regular chai latte,2.30
+8dba6993-223c-4e09-9159-4e324efe6f94,125cb23f-6ab6-480e-a8d4-bbe608274d1f,regular iced americano,2.15
+d031ebee-93d2-4210-b5b0-71e442eeb7d9,125cb23f-6ab6-480e-a8d4-bbe608274d1f,large iced americano,2.50
+c1b7e4de-b795-4c35-a131-158ace6b6f27,06e54d4b-976e-4e88-ae4f-e792623e5e63,regular speciality tea - english breakfast,1.30
+ed410c9e-2dff-4601-9ff9-89cf71d3aef0,8eb76819-9199-4a29-abb0-d19449f5a71a,regular hot chocolate,1.40
+87e86128-9076-4bc1-9a85-0cd14caa76d8,8eb76819-9199-4a29-abb0-d19449f5a71a,regular chai latte,2.30
+1d2f3023-e391-4d65-b71e-46387a5a3e0a,8eb76819-9199-4a29-abb0-d19449f5a71a,large speciality tea - english breakfast,1.60
+f438f7be-90df-41e7-8435-b71cf78624a7,1d1d2a25-50c6-4f9c-ab1f-feeef47b1f72,regular iced americano,2.15
+1120357b-ad74-4387-80a1-9de8cd644c9a,1d1d2a25-50c6-4f9c-ab1f-feeef47b1f72,regular chai latte,2.30
+ea0f8c2c-396c-47e8-b2f3-528db910b581,01561b64-0905-455b-b295-d9916f0ed141,large chai latte,2.60
+daf9ae04-fd41-4ade-a6df-e20b2e1c1b7e,d93527d1-663a-4c43-ab6c-4c40fb6ea8e3,large filter coffee,1.80
+b1e93683-3838-4e01-a464-f51d1cbbca51,d93527d1-663a-4c43-ab6c-4c40fb6ea8e3,large hot chocolate,1.70
+ca4e89bb-3933-49b8-86d7-b679ee1f16ff,d93527d1-663a-4c43-ab6c-4c40fb6ea8e3,large filter coffee,1.80
+92df22c8-f6f5-413f-b9d1-59cee3f00f33,d93527d1-663a-4c43-ab6c-4c40fb6ea8e3,large iced americano,2.50
+571d5b99-0d27-4090-b93d-98d85ccf16fe,1f5dc458-af15-4832-a31d-dc928c0862f4,regular hot chocolate,1.40
+b3936e64-6a98-4d03-8720-fa91f9edd0e5,1f5dc458-af15-4832-a31d-dc928c0862f4,regular hot chocolate,1.40
+1426cc3e-d5a1-4001-890f-d550466683de,1f5dc458-af15-4832-a31d-dc928c0862f4,regular hot chocolate,1.40
+a38df915-2459-4b64-8981-88dae46819ad,1f5dc458-af15-4832-a31d-dc928c0862f4,large filter coffee,1.80
+5e7dcafb-47da-471b-b27a-c99add5b3e19,b3ca6032-ff0b-4145-9f0f-4e85cd2e8522,large hot chocolate,1.70
+50f90a94-cd29-49bf-acb6-da485e8ce95b,b3ca6032-ff0b-4145-9f0f-4e85cd2e8522,large speciality tea - english breakfast,1.60
+e00cd3bd-94ce-43ee-a44f-b5f0d07e6853,b3ca6032-ff0b-4145-9f0f-4e85cd2e8522,regular speciality tea - english breakfast,1.30
+7e0f422e-b7f7-44bf-93fb-f8742882692b,b3ca6032-ff0b-4145-9f0f-4e85cd2e8522,regular chai latte,2.30
+596822d6-93c4-46bc-a871-7354ea1e2d92,a3d4447a-15d2-4fa3-b213-e1ce39f6bff5,large speciality tea - english breakfast,1.60
+cf4608b7-335d-4174-b6d2-4813c0011987,a3d4447a-15d2-4fa3-b213-e1ce39f6bff5,large hot chocolate,1.70
+42e7a6b7-4a3c-4697-97c9-95b45087642d,a3d4447a-15d2-4fa3-b213-e1ce39f6bff5,regular filter coffee,1.50
+cd114464-2af6-4213-a78b-9ec2eb36b954,a3d4447a-15d2-4fa3-b213-e1ce39f6bff5,large speciality tea - english breakfast,1.60
+2d8a9637-4454-41de-ac02-96e6943e8716,3eb7814e-924c-43bf-abe5-cd8a9419f8a8,regular filter coffee,1.50
+802b97cc-5d4f-4bb5-901e-516e8e698bcf,3eb7814e-924c-43bf-abe5-cd8a9419f8a8,regular filter coffee,1.50
+6ce8ccdd-1789-480f-810a-32fba5bdaa8d,3eb7814e-924c-43bf-abe5-cd8a9419f8a8,regular speciality tea - english breakfast,1.30
+e126a8a6-f78e-4c91-b5ca-c101df34947b,3eb7814e-924c-43bf-abe5-cd8a9419f8a8,regular speciality tea - english breakfast,1.30
+9debd556-c5e6-4c63-8ffd-759ea7c60ce3,3eb7814e-924c-43bf-abe5-cd8a9419f8a8,large filter coffee,1.80
+5a54c465-e9a1-4c6a-93cc-8606f29099d0,80be0e7e-faa8-48f1-bdd3-aec689d910b5,large speciality tea - english breakfast,1.60
+1f72afbe-1005-4785-a090-d8992736cb19,80be0e7e-faa8-48f1-bdd3-aec689d910b5,regular speciality tea - english breakfast,1.30
+05d84e42-6d1f-4dfe-b265-8c339480980b,80be0e7e-faa8-48f1-bdd3-aec689d910b5,regular chai latte,2.30
+eea8ff5f-0df3-436a-bb5a-802cdc24140c,80be0e7e-faa8-48f1-bdd3-aec689d910b5,large speciality tea - english breakfast,1.60
+b231b2fc-48bf-46aa-945e-45ad08df807d,80be0e7e-faa8-48f1-bdd3-aec689d910b5,large speciality tea - english breakfast,1.60
+b38d36d7-8293-479a-b6b5-a8d66e927769,441a5cf4-940f-4991-8169-04c560918b3a,large iced americano,2.50
+b98358e9-9c9b-46a3-b696-b62cf52a0765,441a5cf4-940f-4991-8169-04c560918b3a,large hot chocolate,1.70
+8bd519d8-6260-4eef-958c-26e6e00fce8f,441a5cf4-940f-4991-8169-04c560918b3a,regular filter coffee,1.50
+2112aaca-3b64-4e09-9088-127b5f1b305d,42aca0fe-9f83-43bd-bb64-068ef390cded,regular speciality tea - english breakfast,1.30
+cc89a2ac-c2df-47ea-ba09-e3d2f5fa4bfd,37793e8f-81f2-4cd5-9c7a-cbbf2393c813,regular filter coffee,1.50
+8d92c416-cd1c-473d-bb4a-477db7340d81,37793e8f-81f2-4cd5-9c7a-cbbf2393c813,large filter coffee,1.80
+69e2ffcf-ee89-4013-a12a-326d08ece43c,37793e8f-81f2-4cd5-9c7a-cbbf2393c813,large chai latte,2.60
+4b8e7a68-8c3a-4d00-ae54-fa001f46719b,37793e8f-81f2-4cd5-9c7a-cbbf2393c813,regular filter coffee,1.50
+ff8507eb-70a2-4886-81ce-6b39d2e795c3,dfc5e9bd-ed61-4c93-9194-0bc9f4fbbd26,regular filter coffee,1.50
+55553462-d54b-490d-8442-0c97f58a61b8,dfc5e9bd-ed61-4c93-9194-0bc9f4fbbd26,large speciality tea - english breakfast,1.60
+36e087b8-037f-4a80-ba38-1d6d4ed43e37,dfc5e9bd-ed61-4c93-9194-0bc9f4fbbd26,large chai latte,2.60
+19f4057c-9df1-472e-ab33-1de1cca66d21,4622cd5a-0be4-4d95-9586-2c7874654326,regular chai latte,2.30
+5aa894c3-75dd-467f-ab39-588f2b9e7364,4622cd5a-0be4-4d95-9586-2c7874654326,large filter coffee,1.80
+6ede004d-1e83-4823-9bff-549718a55b0e,4622cd5a-0be4-4d95-9586-2c7874654326,large filter coffee,1.80
+05c21574-3cd1-4b2d-92e6-28366cb075e8,4622cd5a-0be4-4d95-9586-2c7874654326,large hot chocolate,1.70
+4a510484-2daf-41c2-abf3-349f7888fb89,4622cd5a-0be4-4d95-9586-2c7874654326,regular filter coffee,1.50
+5cc4642f-9af0-434a-b7c7-bbd36791d3db,abc74aef-2305-4e08-a09f-0422e4e4713f,regular iced americano,2.15
+5be4c400-3dae-49ac-b324-67e12cecfd93,abc74aef-2305-4e08-a09f-0422e4e4713f,regular filter coffee,1.50
+93b42a07-489d-4d5d-b134-da0d38af2107,abc74aef-2305-4e08-a09f-0422e4e4713f,regular iced americano,2.15
+fa5e1c0f-1a70-4513-9ebf-444d41e68c3d,40b55b02-9641-4a52-94ab-cfd8879440f8,regular chai latte,2.30
+8e104b5a-40f5-4810-860d-fa60dff6260b,40b55b02-9641-4a52-94ab-cfd8879440f8,large chai latte,2.60
+454b3189-327c-4c1f-88a9-f3bde9ceb57e,40b55b02-9641-4a52-94ab-cfd8879440f8,regular chai latte,2.30
+8e004230-32f1-4c16-8405-fcca147ec35a,eea389d3-9595-4f7a-982d-d5d5aac970a9,regular hot chocolate,1.40
+4658f9bd-f521-4ab4-9dd9-a8c6ceb6b92d,9515614a-0aa2-4ffe-9891-c70141cad525,regular chai latte,2.30
+008b9bcc-d9fe-4fde-8b8a-ebe8ca3d5529,9515614a-0aa2-4ffe-9891-c70141cad525,regular iced americano,2.15
+6bd1035f-3e66-4b53-8313-e6091ef525db,9515614a-0aa2-4ffe-9891-c70141cad525,large chai latte,2.60
+946d24e5-2356-497f-a886-b611ee19c6fe,8328d235-8e43-4301-89e8-040a30327dc4,regular filter coffee,1.50
+a6122855-5237-48c1-a980-8f0524956241,8328d235-8e43-4301-89e8-040a30327dc4,regular chai latte,2.30
+28ab781e-4803-451e-9128-2a89ca504722,8328d235-8e43-4301-89e8-040a30327dc4,regular chai latte,2.30
+cc5a1ae4-d13b-4463-903c-2bd88fa6b1f7,8328d235-8e43-4301-89e8-040a30327dc4,regular chai latte,2.30
+da717b2b-f722-4fb6-a678-65c870c6daa6,823ff29e-ec8d-4452-8873-bc0119d232cb,large filter coffee,1.80
+a893b899-3dc0-401e-b7cb-163605ccf910,823ff29e-ec8d-4452-8873-bc0119d232cb,large iced americano,2.50
+f7cf9767-1212-491e-9f70-21126b385780,823ff29e-ec8d-4452-8873-bc0119d232cb,large hot chocolate,1.70
+f837942b-d310-480d-a13c-587406ace7d8,823ff29e-ec8d-4452-8873-bc0119d232cb,large speciality tea - english breakfast,1.60
+5c69dde7-725e-45ff-b178-1efe3eea6fc6,823ff29e-ec8d-4452-8873-bc0119d232cb,regular filter coffee,1.50
+c56881f9-92e3-4a5d-b9d5-c1f86d26964d,823ff29e-ec8d-4452-8873-bc0119d232cb,large speciality tea - english breakfast,1.60
+4d3a466e-a336-4f2e-ae0f-cb784d396e26,37dfa9a2-5e59-43ff-9f85-896482750092,regular filter coffee,1.50
+16446a75-8f83-4f35-a258-6372d56bf183,c238edec-fa0e-4ab3-97fe-2698d0fa0597,regular filter coffee,1.50
+07898bbf-7640-45e6-bf58-adc4931a6f23,c238edec-fa0e-4ab3-97fe-2698d0fa0597,regular chai latte,2.30
+0dfd391e-1d62-4832-bcd2-189cab99647e,b78f8fe3-d8f6-44a0-a12c-4d3fe42f17ae,regular speciality tea - english breakfast,1.30
+d5cee36f-a2b2-42da-9be8-fb7ecd6543b9,b78f8fe3-d8f6-44a0-a12c-4d3fe42f17ae,regular hot chocolate,1.40
+71cce82e-3a68-486f-b697-62a1166fdb80,b78f8fe3-d8f6-44a0-a12c-4d3fe42f17ae,regular iced americano,2.15
+ed60289e-c54e-4def-b2e1-9861bd9015cc,b78f8fe3-d8f6-44a0-a12c-4d3fe42f17ae,regular chai latte,2.30
+9ae2d6fc-4d01-416b-ac5b-c1f522255aa4,b78f8fe3-d8f6-44a0-a12c-4d3fe42f17ae,regular chai latte,2.30
+0f612bd7-b610-49c8-8df8-378199e93f57,aee477e9-bb20-4dcd-95ec-4836da942150,large filter coffee,1.80
+7f79b74b-83d0-4f2f-93a0-94abb0269489,aee477e9-bb20-4dcd-95ec-4836da942150,regular chai latte,2.30
+1282acab-2dc8-469c-9255-7cfa68a3a9c6,296d53f0-98ec-4cb9-ae95-bbf252c7f103,large speciality tea - english breakfast,1.60
+fce7ad4f-5f93-4cc1-91a2-a1e400ed2423,296d53f0-98ec-4cb9-ae95-bbf252c7f103,regular hot chocolate,1.40
+cc127b1c-a7af-4749-a2b9-a7d78749a064,296d53f0-98ec-4cb9-ae95-bbf252c7f103,large iced americano,2.50
+ce0a2f33-6eb1-434f-af34-8f273661821c,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,large iced americano,2.50
+03f58e6b-1eca-4e71-8d48-42ac8b3fc132,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,large filter coffee,1.80
+fb0295fe-d311-49c6-8970-e75220f46c3a,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,regular filter coffee,1.50
+21cc891e-ad5a-43cc-bde6-42397d92d356,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,large iced americano,2.50
+f566c8b3-9072-40e0-bca5-3eae3574808d,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,regular iced americano,2.15
+ae2b23f8-70eb-41b2-82ee-2b06e430cbda,96c2c0c4-a005-4479-80f5-f49fdf2b2b1c,large chai latte,2.60
+e2c3a5eb-b328-4dc2-96ee-08201fccccda,ab603209-1499-4d46-991c-325e71fd4ffb,large filter coffee,1.80
+1f81b726-ee18-483e-80a7-cd2966213baf,ab603209-1499-4d46-991c-325e71fd4ffb,regular filter coffee,1.50
+ce0bc8d1-a11d-4219-9013-617487982005,ab603209-1499-4d46-991c-325e71fd4ffb,regular hot chocolate,1.40
+64e8ecd1-ab71-477b-aa9b-75cfdeeaea68,ab603209-1499-4d46-991c-325e71fd4ffb,regular iced americano,2.15
+bc9c9532-6f5e-4cf1-8c01-10611cfd38ea,ab603209-1499-4d46-991c-325e71fd4ffb,large hot chocolate,1.70
+6e9af3ab-710c-45d7-981f-bcab11d58528,8ddce62c-2d10-45bc-962b-dbcd23fb7e33,regular speciality tea - english breakfast,1.30
+23bec276-38b2-4cad-a83a-82645dad61e4,8ddce62c-2d10-45bc-962b-dbcd23fb7e33,large chai latte,2.60
+83cbd9bf-4980-4034-b53b-ebf3079fe485,b5e220ad-c107-48d9-8534-18a5c892f3cf,regular chai latte,2.30
+23a85356-5c8c-4a1d-bb06-5e31ef6a064b,b5e220ad-c107-48d9-8534-18a5c892f3cf,large speciality tea - english breakfast,1.60
+fe9be967-5416-43ad-bff7-3050f7b8f4ec,0086bb59-6973-4511-b1bd-106223c2e72a,regular chai latte,2.30
+08fe7312-15fb-4536-bb41-2720eaaa58fd,0086bb59-6973-4511-b1bd-106223c2e72a,regular filter coffee,1.50
+fd75a091-4518-41ea-9c3e-3459093a44c1,0086bb59-6973-4511-b1bd-106223c2e72a,regular filter coffee,1.50
+de78d3da-953b-4c35-a7d3-02eb8c467c2a,c82686f6-cb35-4f79-a3ad-1d628fc7a1d4,large iced americano,2.50
+520ca7f5-2e54-4228-b55a-748421c761b1,c82686f6-cb35-4f79-a3ad-1d628fc7a1d4,regular filter coffee,1.50
+e469fdcb-6310-41e2-9176-cca030e585f9,c82686f6-cb35-4f79-a3ad-1d628fc7a1d4,regular filter coffee,1.50
+013c993a-b2a7-4293-810f-5ae972aef0d5,53d421af-a90b-41c7-ae53-24ad4e4434f4,large chai latte,2.60
+4da62f76-343a-4297-af84-b5ecd598c1cb,53d421af-a90b-41c7-ae53-24ad4e4434f4,large chai latte,2.60
+bafaf2e2-f8f0-4270-9f2b-6784506dab01,53d421af-a90b-41c7-ae53-24ad4e4434f4,large hot chocolate,1.70
+8d4e1e19-43d8-4c8e-95f8-fcec5f6da852,53d421af-a90b-41c7-ae53-24ad4e4434f4,regular iced americano,2.15
+e6dea683-aa40-4f4b-95c2-c88cf1cdaf6a,229ed31b-9130-49b7-8b84-208e9e0611ad,regular filter coffee,1.50
+f548a51d-7027-4351-b257-8dba9db4d140,229ed31b-9130-49b7-8b84-208e9e0611ad,large filter coffee,1.80
+4e6dee49-77ec-457b-8482-4d39ca7b6801,229ed31b-9130-49b7-8b84-208e9e0611ad,large filter coffee,1.80
+afae665c-2d04-4698-8cf4-a18056b12545,229ed31b-9130-49b7-8b84-208e9e0611ad,large chai latte,2.60
+6d64d07d-a566-402c-afb5-6280b5c1d540,c5bb9b2e-d655-4130-9b17-4038ecffd373,regular iced americano,2.15
+3ebef500-30ac-4709-b11d-a2c3307eab9a,c5bb9b2e-d655-4130-9b17-4038ecffd373,regular chai latte,2.30
+7245d387-5585-4eef-856c-17e5c9778dca,c5bb9b2e-d655-4130-9b17-4038ecffd373,large filter coffee,1.80
+ef1a4d30-7a68-4b39-852e-f7c99eb9466e,c5bb9b2e-d655-4130-9b17-4038ecffd373,large filter coffee,1.80
+7969bc20-4c3c-4ec9-a229-ddbb40ca4b3e,39979427-da8f-4b79-b35f-8968566661ef,regular iced americano,2.15
+81c38b1f-497f-4a4b-9464-19cffc996aa9,6fd8233d-739a-4138-9aa2-45271fa00b4a,large iced americano,2.50
+39e57bfc-207b-4126-9521-eb2678d33237,13864272-506c-47c3-9d90-6bf6f8ecf81a,large speciality tea - english breakfast,1.60
+95a4a91a-c004-41fc-ae92-1877fb419afa,af70e2e7-5c32-4cba-9fe9-4696be958fd4,regular chai latte,2.30
+2d4c2b6c-7239-42cd-9c1f-1bf3157c0af6,af70e2e7-5c32-4cba-9fe9-4696be958fd4,large filter coffee,1.80
+5d73a127-c6c9-4f82-b419-c658461b3116,e297c7bc-92b3-4a67-8f11-3977c0952fb0,large hot chocolate,1.70
+1e5438d0-34e9-40e3-95ab-2c105808e983,e297c7bc-92b3-4a67-8f11-3977c0952fb0,large filter coffee,1.80
+236a346e-1a6f-454a-a72e-7b520fd7a506,e297c7bc-92b3-4a67-8f11-3977c0952fb0,regular speciality tea - english breakfast,1.30
+ae5771ed-f9e3-420b-9fd3-3a20a0df3cf1,5d18174b-ae1d-467a-a0af-dea9e1372c09,regular chai latte,2.30
+7be1a2e4-a5a1-4aa9-9497-18f012c69345,9f6dee17-fa07-4fc2-b918-30ec32df62c6,large hot chocolate,1.70
+9a04e63d-9a8f-43a7-babd-ac04629658c8,9f6dee17-fa07-4fc2-b918-30ec32df62c6,large iced americano,2.50
+9e483eb2-ab43-4c0a-8fe9-59b71783474b,9f6dee17-fa07-4fc2-b918-30ec32df62c6,regular hot chocolate,1.40
+0af869b6-75b8-47c7-b1f9-025e53451b9c,dfd927da-909a-4670-999b-ca88508640c0,regular filter coffee,1.50
+df3f58b1-1814-4607-abe2-7195067b1e44,dfd927da-909a-4670-999b-ca88508640c0,regular speciality tea - english breakfast,1.30
+0218d198-e43f-48bb-b025-1560123cf97e,3e11ca07-38b6-4588-96d4-696ba8d85323,regular chai latte,2.30
+62641ae0-5d96-4d9a-b82f-44809afffdb7,64e95c2b-26cb-49ee-a6eb-b0293ded6678,large hot chocolate,1.70
+44795e06-d956-4b10-ac12-43a8ef3b7af9,64e95c2b-26cb-49ee-a6eb-b0293ded6678,large filter coffee,1.80
+e46f3de8-9638-4f54-b108-f0d19f67ffd7,64e95c2b-26cb-49ee-a6eb-b0293ded6678,regular chai latte,2.30
+1e712ac3-4c39-442a-b4e2-9cedd968c60d,774e0f9f-d508-4012-86b1-037869012ff8,large iced americano,2.50
+9c7f4a4c-b3f6-4066-93b7-ed7b76eab4ef,774e0f9f-d508-4012-86b1-037869012ff8,regular iced americano,2.15
+6ae14ddb-86c8-4cb5-9794-dabcbd8536f6,774e0f9f-d508-4012-86b1-037869012ff8,large hot chocolate,1.70
+522e83e1-900e-401b-b96d-918a485bc40c,f03f75dd-00fb-4f52-b44a-3f936f176b6d,large hot chocolate,1.70
+b1c2c6cf-a391-451a-b4f8-4ae725d4491d,f03f75dd-00fb-4f52-b44a-3f936f176b6d,regular chai latte,2.30
+7af0bddc-a893-4f92-9f73-a0ee3950061f,f03f75dd-00fb-4f52-b44a-3f936f176b6d,large filter coffee,1.80
+01f40a1d-5499-4a45-93ae-1edf604c8077,7748e23f-69e4-4020-ba45-2e0157ad545c,large iced americano,2.50
+715bde19-fb7c-46a9-bdbb-d983d5ecb71c,7748e23f-69e4-4020-ba45-2e0157ad545c,large iced americano,2.50
+c6cc2a47-1883-4be9-a218-7cdcd5494d9b,7748e23f-69e4-4020-ba45-2e0157ad545c,large hot chocolate,1.70
+85493914-6e41-4d27-8e33-bc218879bd17,cf19b1d4-40ae-42fe-b2cb-e7cdfd4302fe,large chai latte,2.60
+166090af-ee17-4117-8ad3-87878759d527,c57d3dcf-714c-4135-a599-d6446f254536,large hot chocolate,1.70
+4a883812-505c-447c-b1ea-b2e54ed09e2b,c57d3dcf-714c-4135-a599-d6446f254536,large filter coffee,1.80
+b4aea908-7e3e-443c-8dd9-979f4e6362c6,c57d3dcf-714c-4135-a599-d6446f254536,large filter coffee,1.80
+4e8c97e3-c026-43e6-82fc-5a99ec6093a5,55a8d7d2-c9ca-45cb-863a-44551342ad4a,large filter coffee,1.80
+bed7faba-0220-44dc-b1a6-13e3d1581a6b,55a8d7d2-c9ca-45cb-863a-44551342ad4a,regular chai latte,2.30
+b2f96475-470b-47e1-9a3b-dd82641c0b98,55a8d7d2-c9ca-45cb-863a-44551342ad4a,regular hot chocolate,1.40
+a8521ef2-89e4-4061-960a-a0eaea0dfd10,55a8d7d2-c9ca-45cb-863a-44551342ad4a,large iced americano,2.50
+deb18aaf-ad06-4dae-b89d-1e6930579aeb,d7ef1512-fbfc-4349-86c8-148ca277f440,regular chai latte,2.30
+6bb06e6d-8cce-4eae-86f4-71ebd91e096c,d7ef1512-fbfc-4349-86c8-148ca277f440,regular filter coffee,1.50
+5d49af22-db03-4a2e-812c-8373ec22e978,d7ef1512-fbfc-4349-86c8-148ca277f440,large hot chocolate,1.70
+1df6120e-691e-442e-9c1a-90076291cd17,d7ef1512-fbfc-4349-86c8-148ca277f440,large iced americano,2.50
+b03d656e-259a-4962-aba4-ff8a68d39c5c,b240da30-4055-459b-806e-46698fbab6e6,large iced americano,2.50
+e4d4499e-086f-4b79-9313-d2096a2ea448,f4754eda-7f57-44bb-806b-b0dca13e6835,regular filter coffee,1.50
+f3305fff-96ba-4c04-84ce-84214f235033,f4754eda-7f57-44bb-806b-b0dca13e6835,regular hot chocolate,1.40
+332eaec4-f4ab-4f2c-98af-389f1d748d38,f4754eda-7f57-44bb-806b-b0dca13e6835,large iced americano,2.50
+b92dab1d-e5d8-407d-a049-ae69737b071a,f4754eda-7f57-44bb-806b-b0dca13e6835,regular speciality tea - english breakfast,1.30
+a47fd20a-9885-484f-9d06-c01a97890ce4,2d4cd496-4458-4c25-9e3a-abef877ea7b2,large filter coffee,1.80
+ec9da13f-13a0-4c21-8e25-f3beeee29e97,2d4cd496-4458-4c25-9e3a-abef877ea7b2,large filter coffee,1.80
+017a156a-00a3-4da8-aa6d-d71d1a00ce15,f38b3028-23d8-4cd7-a1e9-b73b6e59784a,large chai latte,2.60
+d02b8d28-957d-4116-8d48-dc7af4da6c8b,f38b3028-23d8-4cd7-a1e9-b73b6e59784a,regular iced americano,2.15
+f4ac070c-0492-4628-af4a-8bb8bb0d00a3,f38b3028-23d8-4cd7-a1e9-b73b6e59784a,large chai latte,2.60
+93e71fed-97c4-4390-b26e-dc258bfc3bd0,f38b3028-23d8-4cd7-a1e9-b73b6e59784a,regular chai latte,2.30
+b8039751-7237-4aef-809b-e7f5de9e3bb5,f38b3028-23d8-4cd7-a1e9-b73b6e59784a,large speciality tea - english breakfast,1.60
+e71e0ecf-15fb-46c0-abb6-074c8de69730,a9e627a7-b1c7-413a-999d-3acfd04788c9,large hot chocolate,1.70
+d7fa1748-46af-436b-aaad-7f6c4bd2d4e3,a9e627a7-b1c7-413a-999d-3acfd04788c9,large speciality tea - english breakfast,1.60
+68d3ab17-4621-42df-aedf-f6412dff8fba,a9e627a7-b1c7-413a-999d-3acfd04788c9,regular chai latte,2.30
+7656eaa0-db34-45c0-a96d-e9176ac98e51,a9e627a7-b1c7-413a-999d-3acfd04788c9,large iced americano,2.50
+06fc5b31-ec61-4adf-87b8-67a92d8c1de1,a9e627a7-b1c7-413a-999d-3acfd04788c9,regular chai latte,2.30
+a664551e-0d6e-4646-8c8d-c206cf675f60,6e387bb2-0416-41c9-85f1-bd0e2df3811e,large chai latte,2.60
+889b8c5d-ab5f-4ad2-a284-23609294c577,6e387bb2-0416-41c9-85f1-bd0e2df3811e,large chai latte,2.60
+7b6c0bd0-846c-4bf6-851b-3823f2fe3cff,593ac1b6-b96e-40a6-aa65-9b9ff1308f44,large hot chocolate,1.70
+706fa6ed-a888-4754-a213-68f0046259d4,d4810b12-19db-4794-9f55-18f5405ee96f,regular filter coffee,1.50
+9b9841c9-9bf7-48a7-a5af-f90220ad3420,d4810b12-19db-4794-9f55-18f5405ee96f,regular hot chocolate,1.40
+e1fe3e92-13fc-4011-a71d-f6ecf5f35a45,d4810b12-19db-4794-9f55-18f5405ee96f,regular chai latte,2.30
+5dd5fa9d-a9fa-4573-bf8b-b2680aba3a50,d4810b12-19db-4794-9f55-18f5405ee96f,regular filter coffee,1.50
+362d9ab0-f559-4c47-ace6-4384a6582681,d4810b12-19db-4794-9f55-18f5405ee96f,regular speciality tea - english breakfast,1.30
+8d343a5b-6a6e-461e-bfd6-917e608fe8f0,d4810b12-19db-4794-9f55-18f5405ee96f,large iced americano,2.50
+55dfe6d7-cb06-4f11-a076-f0071281a62e,a7736244-17bb-4402-87f1-08de8ceb4167,large chai latte,2.60
+4264da67-0999-4c66-9d70-81aba20302ea,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,regular iced americano,2.15
+4939c5a9-4694-4e92-8104-932657c75421,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,large iced americano,2.50
+49e70f12-f5c6-417b-bcac-a5ac02c85e5a,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,regular iced americano,2.15
+034824c3-0706-4193-8bc9-e0c598b58809,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,regular filter coffee,1.50
+43e65b1a-6050-4841-9366-a513e2b450cd,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,regular hot chocolate,1.40
+4b4ae22d-f1e7-4422-9811-dc63663dbb0a,20ba7742-c5ad-4f74-a61c-7a3c1592efe8,large hot chocolate,1.70
+5ab1cb38-a2f7-4c5b-a85c-13b23b245c46,134580fc-0c02-4535-be25-993345a49cbc,regular chai latte,2.30
+cf3186aa-3caf-4573-b998-779f4c089fe5,134580fc-0c02-4535-be25-993345a49cbc,regular iced americano,2.15
+34eb1573-9aef-4ed6-83a8-80197bfb5db1,1cd542ac-6966-4c53-a2e6-aa98ec8d7637,regular iced americano,2.15
+7de17ca2-161e-43a8-ac00-aaf00e199cf3,1cd542ac-6966-4c53-a2e6-aa98ec8d7637,large filter coffee,1.80
+69c67e1d-c910-4712-92bd-9b21ce4ca20b,1cd542ac-6966-4c53-a2e6-aa98ec8d7637,large hot chocolate,1.70
+6835cace-4af0-4345-abf4-616a67a3993a,0e2f4e55-2ccc-4d1c-880c-28dcc3e5d9c3,large filter coffee,1.80
+9f20c012-c358-48dd-ab48-33da0d1ed948,0e2f4e55-2ccc-4d1c-880c-28dcc3e5d9c3,large chai latte,2.60
+bbe6337f-b1ee-42e2-9a13-da8408a94a31,0e2f4e55-2ccc-4d1c-880c-28dcc3e5d9c3,regular chai latte,2.30
+62919b66-e84a-46fc-aac6-89973c5685e3,b40ef1b4-89e3-49de-b0c4-cfd6be32256d,regular filter coffee,1.50
+54f5d0de-51cf-47b9-8731-aebb02d9af22,e5898ab8-0459-4d96-bace-0a03003f30c6,regular chai latte,2.30
+f75debd6-9722-48ae-805a-9dd59f960a76,7d5728a1-e679-4d94-b6f8-480152b24e00,regular chai latte,2.30
+15d26402-ecc3-4bf8-adc2-df848b5915bd,bf898010-237f-4395-a071-d2bb5b433640,large iced americano,2.50
+4ce1268a-551f-42b6-a5c8-5c449be8e781,bf898010-237f-4395-a071-d2bb5b433640,regular speciality tea - english breakfast,1.30
+6adc882c-95a8-4633-9f42-4a42108095f7,bf898010-237f-4395-a071-d2bb5b433640,regular filter coffee,1.50
+78aba9a6-a2ca-4570-8cac-af6a3a2aaa95,03323b79-0fae-4d5d-a35c-d2e0b456571b,large filter coffee,1.80
+33137f47-5449-47e3-ad87-fe3c0bd854ee,03323b79-0fae-4d5d-a35c-d2e0b456571b,regular hot chocolate,1.40
+e6c14ea3-bdf1-42bb-96b3-b2f12f319f70,03323b79-0fae-4d5d-a35c-d2e0b456571b,large speciality tea - english breakfast,1.60
+ddf944e3-7244-4490-9130-44e15c33a849,67c0a5a7-56bc-4c2c-8254-aa7d18081707,regular filter coffee,1.50
+73f21eb2-56ef-48dc-b72c-4ed82290902b,67c0a5a7-56bc-4c2c-8254-aa7d18081707,regular filter coffee,1.50
+03507033-45f9-4b91-a499-c1f8b531c5ae,67c0a5a7-56bc-4c2c-8254-aa7d18081707,regular chai latte,2.30
+9dc10782-ca07-42b7-b21a-078cae7795fb,67c0a5a7-56bc-4c2c-8254-aa7d18081707,regular speciality tea - english breakfast,1.30
+2713e49e-7ef9-45b2-9765-748f01126c5d,664a81fd-276d-439d-8f06-135296a20eb8,regular chai latte,2.30
+828aafb3-2c10-4351-a12f-a24a74e29d66,664a81fd-276d-439d-8f06-135296a20eb8,regular filter coffee,1.50
+334a9371-4012-4691-b870-c5d585e25834,664a81fd-276d-439d-8f06-135296a20eb8,large iced americano,2.50
+65d43bd3-71c3-4f65-a78a-597c4dd33def,664a81fd-276d-439d-8f06-135296a20eb8,regular filter coffee,1.50
+b3a68c1d-8dd1-4459-8069-17a35d6a67a3,664a81fd-276d-439d-8f06-135296a20eb8,regular filter coffee,1.50
+8ee3cc62-2691-4f5c-9ce6-2fe3fd5a2496,664a81fd-276d-439d-8f06-135296a20eb8,regular filter coffee,1.50
+bfe8b060-0f42-470b-a833-406b6a03a280,e6581e89-4f5f-455c-b0fe-9ecaeff8b4c1,regular hot chocolate,1.40
+6d1185e1-6436-49b5-a947-01aece209171,2e9d1267-93c2-4983-95c7-4f2e78111927,large chai latte,2.60
+c67f4636-e7a2-4071-b0d6-6df61d0a56e7,64001926-2690-4945-bcff-1b5822a40ab3,large speciality tea - english breakfast,1.60
+bb5d1bc6-ea6b-44b9-a959-0a7209987307,64001926-2690-4945-bcff-1b5822a40ab3,large filter coffee,1.80
+66fe5adf-f133-4454-8e22-0e72b05a759d,64001926-2690-4945-bcff-1b5822a40ab3,regular hot chocolate,1.40
+70502c72-bf66-4872-9452-1242438883c8,06cf678e-0de5-4f92-89d4-a88b4707b55c,large chai latte,2.60
+fb41fd6b-dfa2-48b0-8169-fb51e5508418,06cf678e-0de5-4f92-89d4-a88b4707b55c,large iced americano,2.50
+8eb4202a-31ff-4de7-9905-bef29d4fa1ec,87e13e08-c212-463b-ac47-b1417026df75,regular iced americano,2.15
+0b4f6048-964b-4540-a443-05adc9cb76ab,ddb4cec1-6f1e-4c0c-88ae-8cd0f48fed15,regular iced americano,2.15
+df9a659b-c258-4f4c-a3ba-0713cbdff120,ddb4cec1-6f1e-4c0c-88ae-8cd0f48fed15,regular filter coffee,1.50
+a102493b-6a92-46a3-aa94-c4db2d693e13,60ab50c0-120f-4dbe-bdd2-8f0e1728d7c1,regular speciality tea - english breakfast,1.30
+a6d3c8b4-e8f5-4294-8406-626d175ef073,60ab50c0-120f-4dbe-bdd2-8f0e1728d7c1,regular hot chocolate,1.40
+616e3be9-7689-4a85-baf8-6d227e47f76e,60ab50c0-120f-4dbe-bdd2-8f0e1728d7c1,large chai latte,2.60
+61a010b4-5ad8-400f-9263-2f7404a8ca59,b1d81d30-5548-4647-99d9-b98bae5f33d6,regular iced americano,2.15
+9856d083-6179-45f7-9972-8419c3434eac,b1d81d30-5548-4647-99d9-b98bae5f33d6,large filter coffee,1.80
+a65bba67-76d9-46aa-a540-9957e38ba3b9,0333ab7e-014c-4650-8038-31ab84c5a254,regular chai latte,2.30
+dc2555d2-c8e9-4971-bbf3-93fdd17052d7,0333ab7e-014c-4650-8038-31ab84c5a254,large filter coffee,1.80
+860eba53-a3c3-44fc-8d90-92d5fc8f13e3,c7ba01df-3f54-4cad-bf5a-a9371dcd0928,large chai latte,2.60
+34dddbe5-6399-4844-b5b5-6c37dcb2332d,c7ba01df-3f54-4cad-bf5a-a9371dcd0928,regular chai latte,2.30
+479da663-a27c-449a-ac4c-e157cd50a807,c7ba01df-3f54-4cad-bf5a-a9371dcd0928,large filter coffee,1.80
+fab7b7d2-036e-459f-8107-45c15bfd5613,c7ba01df-3f54-4cad-bf5a-a9371dcd0928,large iced americano,2.50
+62cb7802-481a-4417-a2d7-ec6ba9fc6308,51c2a62e-ccd1-4413-a6e3-d836c97d90c4,regular hot chocolate,1.40
+1faaf638-1a34-4f1c-9f4d-0b6fc436721e,bccd328e-3952-4d2a-aebf-678bd2f053f5,large hot chocolate,1.70
+e36a8537-00bc-4ca1-8fd7-e73c1dda57f2,bccd328e-3952-4d2a-aebf-678bd2f053f5,regular chai latte,2.30
+6d8662de-f7c9-4cf4-b483-6844cee96583,bccd328e-3952-4d2a-aebf-678bd2f053f5,regular speciality tea - english breakfast,1.30
+73842536-1eb6-4b15-a0da-c089eba30d4e,bccd328e-3952-4d2a-aebf-678bd2f053f5,regular speciality tea - english breakfast,1.30
+78bb7da1-56c5-4938-8cce-31c8fd372332,92b569be-31dc-4d1d-a400-b574e20ceb8c,large iced americano,2.50
+e868352e-e5dd-4e65-820c-307ba22caca8,92b569be-31dc-4d1d-a400-b574e20ceb8c,large speciality tea - english breakfast,1.60
+8881bd73-a9c6-4e54-81d5-4b6c2637e130,d8241817-d849-45b9-933c-be02f6570174,regular hot chocolate,1.40
+4dad14f1-0952-47be-915d-0d5053ebc4ca,861743e6-129e-4949-b631-8484a8dd2f98,large chai latte,2.60
+7c3a7610-a338-4879-b9cc-0e2399a48988,861743e6-129e-4949-b631-8484a8dd2f98,large iced americano,2.50
+fa16370c-2e64-4d2b-aa79-ff45bf92c0d5,861743e6-129e-4949-b631-8484a8dd2f98,regular filter coffee,1.50
+606625fd-c3ca-4f9c-b74b-c9d436b8a0e6,861743e6-129e-4949-b631-8484a8dd2f98,large iced americano,2.50
+a4806c4c-f92e-4328-9cec-15c007cf147e,f61593bb-e92e-44a9-a472-cefde81febb3,large chai latte,2.60
+02f41e99-d278-4d53-a695-057360384412,3cd0014a-4311-47c7-a3c3-a277cfeb0d9a,large iced americano,2.50
+7ab5e572-a210-4199-b4ff-ed197b697a96,b17628fc-d566-4dec-be5f-b35c23c954c5,large filter coffee,1.80
+9dfba08f-26b7-4fc5-8fb2-fa7a446e44a3,b17628fc-d566-4dec-be5f-b35c23c954c5,regular speciality tea - english breakfast,1.30
+aab286c4-2f38-4648-85d8-da4172cad290,716e30ff-c39c-449a-9b91-ceaca4a87b60,regular iced americano,2.15
+c3e36468-aa10-452a-bd5b-ec7dea8c25e9,3ae6a1c8-2a92-4451-b519-bed5ce85a86c,large chai latte,2.60
+8beb3e3b-3a9d-4f7b-997d-2b508962c5ea,3ae6a1c8-2a92-4451-b519-bed5ce85a86c,large speciality tea - english breakfast,1.60
+4fac3af8-83bb-4eec-9b7b-732f2b5beace,3ae6a1c8-2a92-4451-b519-bed5ce85a86c,regular chai latte,2.30
+80e75b06-1f53-433e-86aa-5859c20ba467,8f7c06b1-6965-4cc8-9fe8-434ecfb22682,large iced americano,2.50
+c8488fa8-7901-4dd5-bb80-69f23c9df91a,8f7c06b1-6965-4cc8-9fe8-434ecfb22682,regular chai latte,2.30
+b54980a3-d70a-43b7-a826-d6551c8e6948,70e5c0fb-8d09-40ca-8db9-2b6b19e24f56,regular chai latte,2.30
+082009f0-2f6b-4536-93c2-0037b09f3234,70e5c0fb-8d09-40ca-8db9-2b6b19e24f56,large chai latte,2.60
+3dfbda69-0107-4c4f-b02e-d77b57fbdd96,70e5c0fb-8d09-40ca-8db9-2b6b19e24f56,regular hot chocolate,1.40
+1a45ca08-adb4-4b1b-8b77-44ebc7768783,70e5c0fb-8d09-40ca-8db9-2b6b19e24f56,large iced americano,2.50
+1fffbf31-5c6b-42ac-a45d-249e7a16403b,8bbff19c-3d81-4853-a9ab-eb75227dd3fd,regular speciality tea - english breakfast,1.30
+370af948-94bb-46a9-938f-808d6334f2e6,8bbff19c-3d81-4853-a9ab-eb75227dd3fd,large speciality tea - english breakfast,1.60
+c6ec58e1-72d9-4e5b-9f11-8ae0048fa591,8bbff19c-3d81-4853-a9ab-eb75227dd3fd,regular speciality tea - english breakfast,1.30
+ad29f292-00aa-4750-8fef-3dbe7285ea2e,8bbff19c-3d81-4853-a9ab-eb75227dd3fd,large iced americano,2.50
+200097e1-d330-4d5e-9fde-c5a3267a9ff2,4255e311-18ef-46dc-bd12-fadd04cb8373,large hot chocolate,1.70
+ecbe18e5-19c6-4b30-9a27-7b5494328d1f,4255e311-18ef-46dc-bd12-fadd04cb8373,large hot chocolate,1.70
+c68b8adb-7822-4140-846a-2e8faf15d91b,c1adf145-5dc4-4b37-83bc-dfe7f10a3e3c,regular hot chocolate,1.40
+9a7be44b-afc1-49cb-a722-dce43e9c85b8,c1adf145-5dc4-4b37-83bc-dfe7f10a3e3c,regular hot chocolate,1.40
+cdf94003-3b07-4f88-9a4c-70a767d4b63c,c1adf145-5dc4-4b37-83bc-dfe7f10a3e3c,large chai latte,2.60
+1b24e2a6-f8aa-407a-838f-444e85b367df,e063c7bc-f662-40a8-91a0-6474cc31cf3f,large filter coffee,1.80
+d38edc82-12d6-43a3-b34d-7733397d99f9,0f9ea1e8-1a52-4967-ac54-c9778d07d5f9,regular hot chocolate,1.40
+dbabef19-7b99-483c-a46d-db275be9db6c,0f9ea1e8-1a52-4967-ac54-c9778d07d5f9,regular chai latte,2.30
+87930e8b-16d3-442d-809d-74b7e755735b,0f9ea1e8-1a52-4967-ac54-c9778d07d5f9,large chai latte,2.60
+3e7b32c0-e355-4741-80c1-94f971241450,0f9ea1e8-1a52-4967-ac54-c9778d07d5f9,large filter coffee,1.80
+7aebfa62-0675-46a9-abcb-53624dbd2673,8c05185b-2b16-4ea4-ae6e-d408d24aedc0,regular chai latte,2.30
+97ccf634-7f13-4102-b1ef-34b061594d3c,8c05185b-2b16-4ea4-ae6e-d408d24aedc0,regular filter coffee,1.50
+8dfec874-251d-4f35-87a2-7670b109a8bd,8c05185b-2b16-4ea4-ae6e-d408d24aedc0,large iced americano,2.50
+801ff155-e3f2-4d97-abcf-c53e108a1bc6,8c05185b-2b16-4ea4-ae6e-d408d24aedc0,regular iced americano,2.15
+b2e12712-d21e-498a-b26f-641fe5bf5852,b70a00e6-b06a-495c-ad41-e8d2de4dde08,large speciality tea - english breakfast,1.60
+78884b33-aa48-4087-9184-a129aea0cc3c,121364c6-e1c1-4630-8791-bf6e180de590,large iced americano,2.50
+191e6893-e7d4-473f-becf-fc56c8df0cae,121364c6-e1c1-4630-8791-bf6e180de590,regular iced americano,2.15
+32c9f49a-e46f-41fe-9a78-dc9195757d76,64bbee89-a1fd-4fb8-8862-b08cab16ff8c,large speciality tea - english breakfast,1.60
+9a37b2db-82b7-4caf-9097-ee6379a5b3c4,4f5ef18b-81ab-4349-83dc-d461e184e10f,large filter coffee,1.80
+f30f39af-9b33-40b1-98e3-89392fdb5089,4f5ef18b-81ab-4349-83dc-d461e184e10f,regular speciality tea - english breakfast,1.30
+9447b6c9-4821-45c4-bb4b-72f589fdcc35,4f5ef18b-81ab-4349-83dc-d461e184e10f,large speciality tea - english breakfast,1.60
+aa94914f-0f83-4d8a-9450-a56fdea87260,27f2da49-f963-4678-963a-f474a4c7b1b8,regular chai latte,2.30
+39074c73-1b80-45b4-baf0-2d2963f3d687,27f2da49-f963-4678-963a-f474a4c7b1b8,regular hot chocolate,1.40
+c4c2f4ee-d4b3-40fc-810d-60b86a65fb2f,27f2da49-f963-4678-963a-f474a4c7b1b8,large filter coffee,1.80
+71a96544-6e7e-461c-bf30-aa788fcfc927,afd24d2b-d42a-4640-9884-9a3b9173934a,regular speciality tea - english breakfast,1.30
+29e0109f-9cc1-4ca9-88cb-3f923e597a98,afd24d2b-d42a-4640-9884-9a3b9173934a,large speciality tea - english breakfast,1.60
+76e97c0b-a127-4d9a-bceb-bc1afe75a1da,0c6ba219-a32b-47ad-b53d-c3d29d9ac2b9,regular iced americano,2.15
+83ea351e-1cd2-41d2-9ec7-44231663bdf0,0c6ba219-a32b-47ad-b53d-c3d29d9ac2b9,regular iced americano,2.15
+15048462-9cac-4f92-9e3a-bc0d8a674c63,0c6ba219-a32b-47ad-b53d-c3d29d9ac2b9,regular chai latte,2.30
+0eb3617c-ae39-4f16-995c-54e58ab3926b,0c6ba219-a32b-47ad-b53d-c3d29d9ac2b9,regular chai latte,2.30
+8dd892ef-ea87-4f95-a8a2-80cbb531b7c1,0c6ba219-a32b-47ad-b53d-c3d29d9ac2b9,regular filter coffee,1.50
+ddc9316e-6eb3-49d8-9d0e-f7846ef670f8,24356eed-c169-411c-ae6e-c6ca1c192d28,regular speciality tea - english breakfast,1.30
+a46ac320-1a62-45f3-9f68-e822e39f5128,24356eed-c169-411c-ae6e-c6ca1c192d28,regular speciality tea - english breakfast,1.30
+71376178-c2c0-4254-8788-01882eb8c78b,24356eed-c169-411c-ae6e-c6ca1c192d28,large speciality tea - english breakfast,1.60
+34ccd29b-3b4c-4f2a-99d1-da251003ef9c,71108a38-02f3-4d35-a349-dd4290ada7be,large iced americano,2.50
+aae0424b-8167-46ef-ada0-568dc8fb3625,71108a38-02f3-4d35-a349-dd4290ada7be,regular chai latte,2.30
+4dfccd8c-f65f-4748-a121-6815a9156b0e,71108a38-02f3-4d35-a349-dd4290ada7be,large chai latte,2.60
+7da04cbe-ba34-4e1b-86f3-9828aa808c7b,4b141eb9-ec2b-4a46-a767-422476e80042,regular filter coffee,1.50
+fffcce0d-b741-4a59-96c5-e65764f6debb,4b141eb9-ec2b-4a46-a767-422476e80042,large filter coffee,1.80
+c476855d-671b-45c5-98b0-24917bf5f8c9,4b141eb9-ec2b-4a46-a767-422476e80042,large speciality tea - english breakfast,1.60
+5ae87481-478f-49d7-bbaa-cec20a088cf0,4b141eb9-ec2b-4a46-a767-422476e80042,large speciality tea - english breakfast,1.60
+28decbfa-85fc-40fc-82fb-54e251401b55,e5ce5675-c58a-417b-bbaf-cd8e2ae42cce,regular chai latte,2.30
+51ec5103-ab7c-489c-b27c-f2baccef183a,e5ce5675-c58a-417b-bbaf-cd8e2ae42cce,large speciality tea - english breakfast,1.60
+9a9826ed-bb01-4163-ae43-b8762a162656,cd1802f4-2959-4235-b49b-9fb61db33136,large filter coffee,1.80
+3e88e50b-843c-401e-91ae-d31c2f516b28,cd1802f4-2959-4235-b49b-9fb61db33136,large filter coffee,1.80
+0be6d9f5-6dca-404d-b6ab-f5dffb95764f,0e7b1683-c5d7-4172-8d09-fa4eec7819e0,regular filter coffee,1.50
+b1a52415-5308-4dcf-96d3-a1d0e80b3c29,0e7b1683-c5d7-4172-8d09-fa4eec7819e0,regular iced americano,2.15
+d852cff7-d7b0-4388-9c88-51686fe25508,0e7b1683-c5d7-4172-8d09-fa4eec7819e0,regular speciality tea - english breakfast,1.30
+3712f404-246f-4f9b-baba-97e6a08e22b3,0e7b1683-c5d7-4172-8d09-fa4eec7819e0,regular speciality tea - english breakfast,1.30
+4fa801b6-524e-4190-9662-b521249b1912,61fefdba-3142-409a-9e17-1d74ad6d0baa,regular chai latte,2.30
+f63eaecf-6fcc-41da-873b-2d5f036ee64f,61fefdba-3142-409a-9e17-1d74ad6d0baa,large hot chocolate,1.70
+910df7f1-dad9-410c-8032-c937f1f8ac1b,61fefdba-3142-409a-9e17-1d74ad6d0baa,large hot chocolate,1.70
+430d2af7-2b62-4248-bdec-ab6a52e14dcb,61fefdba-3142-409a-9e17-1d74ad6d0baa,regular hot chocolate,1.40
+06cf314a-1e36-46e2-b6f3-339a00ea707f,61fefdba-3142-409a-9e17-1d74ad6d0baa,large hot chocolate,1.70
+e6cddaaf-ce94-40f9-8434-d407d3a37478,61fefdba-3142-409a-9e17-1d74ad6d0baa,regular chai latte,2.30
+9be36061-f575-44ff-8a63-cbf3d44d7b17,e7d13f55-c55a-4086-88ce-9a4348d57970,regular chai latte,2.30
+0eddb52d-4e1f-4c2d-ba50-d26ed386df5f,e7d13f55-c55a-4086-88ce-9a4348d57970,large hot chocolate,1.70
+347439c4-a9e8-42e6-ad10-dc75c1ee44c1,e7d13f55-c55a-4086-88ce-9a4348d57970,large iced americano,2.50
+7b4cab1c-306e-4d36-92ba-937c8a5b40b4,e7d13f55-c55a-4086-88ce-9a4348d57970,large chai latte,2.60
+65dece25-6d30-4ed4-9f79-8c5bb128d105,e7d13f55-c55a-4086-88ce-9a4348d57970,large chai latte,2.60
+c282ee21-a5b5-4c81-928c-6d61a4a58217,66197a1f-160a-4864-b2c7-0a6429532adb,large filter coffee,1.80
+1a10db5e-d7c6-451a-a94a-fe5eb2c4d319,66197a1f-160a-4864-b2c7-0a6429532adb,regular hot chocolate,1.40
+0a89b64e-078b-40ff-b8df-e836580ba359,0a56f315-c90d-4ba0-affa-5ab1b8529be8,large hot chocolate,1.70
+b4e88e14-35f1-48c8-b475-f6e1f67c2d5a,0a56f315-c90d-4ba0-affa-5ab1b8529be8,large filter coffee,1.80
+27af13e7-6490-44d6-a287-a782339695da,0a56f315-c90d-4ba0-affa-5ab1b8529be8,regular iced americano,2.15
+5a1a6517-be5a-44a6-88b8-ffa1372074b4,0a56f315-c90d-4ba0-affa-5ab1b8529be8,regular chai latte,2.30
+4e83d3af-a91e-4f57-a7cf-865d4b7d365f,0a56f315-c90d-4ba0-affa-5ab1b8529be8,large filter coffee,1.80
+25efd31c-bd4a-4b19-b0d0-322067513430,0a56f315-c90d-4ba0-affa-5ab1b8529be8,large hot chocolate,1.70
+8b058037-86f4-4728-8351-6aa734e0805e,1199b178-471d-4ee3-b7be-bf2403800e0c,large filter coffee,1.80
+531f6f80-1d26-4ab8-9202-1bae961a088a,1199b178-471d-4ee3-b7be-bf2403800e0c,regular chai latte,2.30
+f70d925a-97d5-40de-b4b9-a1939c20bc19,1199b178-471d-4ee3-b7be-bf2403800e0c,large iced americano,2.50
+b5686aae-90dc-40d6-bf7f-763aa32cca30,ac3a2e09-18c7-4ca2-90d3-ccb758ead97f,large chai latte,2.60
+2ceac1aa-f39c-41d4-b53c-8f1bd095ac5d,ac3a2e09-18c7-4ca2-90d3-ccb758ead97f,regular filter coffee,1.50
+6c0cf24a-3396-4165-a318-0c1b6e3020fb,afcd2681-e60c-4137-bd71-365e91ab3ca8,large iced americano,2.50
+4021439c-b6b3-4d02-af5f-d695c47be3b0,afcd2681-e60c-4137-bd71-365e91ab3ca8,regular iced americano,2.15
+2fc04925-2064-439d-ac65-5aeeff7ccb80,afcd2681-e60c-4137-bd71-365e91ab3ca8,regular iced americano,2.15
+28ee8f47-602b-4971-845d-46df97bc16f8,afcd2681-e60c-4137-bd71-365e91ab3ca8,large hot chocolate,1.70
+8c6dab7c-f5f2-42a8-b406-b493680a4aea,afcd2681-e60c-4137-bd71-365e91ab3ca8,regular iced americano,2.15
+fcc3c7af-18ce-4db9-b3e9-747462d89e33,ca52b7c3-e7bc-46a6-b31d-0e839f698d9a,large filter coffee,1.80
+2900a46a-16da-4782-8d92-cee2507642cc,ca52b7c3-e7bc-46a6-b31d-0e839f698d9a,large chai latte,2.60
+f65c1a87-1309-426d-a7d5-ce3e5c6df124,ca52b7c3-e7bc-46a6-b31d-0e839f698d9a,regular hot chocolate,1.40
+331406e7-a3ac-4ada-8bf1-28198b536f0e,ca52b7c3-e7bc-46a6-b31d-0e839f698d9a,large hot chocolate,1.70
+f62f513a-241e-4fd6-ad05-3efb7d615538,ca52b7c3-e7bc-46a6-b31d-0e839f698d9a,regular hot chocolate,1.40
+859d5541-fb27-4589-8795-fcd96a4285ef,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,regular chai latte,2.30
+f7363a79-d654-407c-9b39-a6f5d86a5136,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,regular chai latte,2.30
+b36e808d-949f-4380-8d9c-10cb21a8ca77,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,regular chai latte,2.30
+1729d157-9e60-4518-a0bb-6ebb1b208448,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,regular chai latte,2.30
+2989736e-1e9f-41cf-b6db-faba94010ced,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,large hot chocolate,1.70
+0060bcb6-9009-4a99-9c84-e2600b06f331,4f70a9bb-44b6-45d7-8d49-b3b986a92d22,large chai latte,2.60
+060368bc-b173-43f2-bcb1-f5780f5ee26d,e3551172-2082-4f82-8508-19b5d0344dfd,large speciality tea - english breakfast,1.60
+c1276902-d95a-43fa-957b-ef2da32ee5f0,e3551172-2082-4f82-8508-19b5d0344dfd,large chai latte,2.60
+3be69a3b-208b-4e95-b209-ded9352e23e7,e3551172-2082-4f82-8508-19b5d0344dfd,large filter coffee,1.80
+df0d2412-92ae-4bea-a0b0-34fbd4aeaab5,e3551172-2082-4f82-8508-19b5d0344dfd,large chai latte,2.60
+e409f326-acd8-4540-b5d7-80f8e62ddc60,51469ae8-aabd-4fc6-98a8-b6bca197011f,large chai latte,2.60
+05038c75-28d3-49fb-ab4e-e3738fdffb9a,51469ae8-aabd-4fc6-98a8-b6bca197011f,regular speciality tea - english breakfast,1.30
+45519d32-9511-4839-82cf-14313297241a,51469ae8-aabd-4fc6-98a8-b6bca197011f,regular hot chocolate,1.40
+fc95c870-1494-4e98-8496-6fb36fc95df1,4d42e166-6f7e-45a4-b0a4-4e653d46c915,regular speciality tea - english breakfast,1.30
+5f7762c7-b7b6-4f10-9c32-6ceadef46792,4d42e166-6f7e-45a4-b0a4-4e653d46c915,large filter coffee,1.80
+48f59eaf-91ef-40e8-9fa8-726ecf5b3814,164e217b-8fe2-4872-9a9e-07287c6ec5bc,regular speciality tea - english breakfast,1.30
+8319a1d5-9140-4c12-ac7d-c62def49962e,164e217b-8fe2-4872-9a9e-07287c6ec5bc,large filter coffee,1.80
+16e215f6-cc40-43c6-a4fc-a8c7ac46c5e3,164e217b-8fe2-4872-9a9e-07287c6ec5bc,large chai latte,2.60
+ed6c3000-1891-46d4-8e03-35a5b9605cab,5f3a0909-daa5-4d67-b105-b60cfa4cefe2,large speciality tea - english breakfast,1.60
+83303a48-4287-4f7b-b5da-e6a7fc51fda3,5f3a0909-daa5-4d67-b105-b60cfa4cefe2,large chai latte,2.60
+9e820c26-f41f-4175-83d8-0b188a594880,5f3a0909-daa5-4d67-b105-b60cfa4cefe2,regular speciality tea - english breakfast,1.30
+a4e8aa17-e8c4-444c-a052-1c1a79fab3a3,5f3a0909-daa5-4d67-b105-b60cfa4cefe2,large hot chocolate,1.70
+c3577448-da57-41c7-8682-4cd7ad55e063,5f3a0909-daa5-4d67-b105-b60cfa4cefe2,large iced americano,2.50
+71c7e1c4-4b3d-44f4-a171-99077a388093,aa255138-d0aa-4f99-9010-faf19ff2baa7,large chai latte,2.60
+ef5ac24c-7eb4-4cd8-8960-972662e8c084,aa255138-d0aa-4f99-9010-faf19ff2baa7,regular speciality tea - english breakfast,1.30
+93afbf4e-8e2d-429b-b4d0-3b6d6afadee8,aa255138-d0aa-4f99-9010-faf19ff2baa7,large filter coffee,1.80
+5154db04-13fd-454b-9420-e1052586f81d,35cb0568-fba5-4ccf-aacb-897e8fb311ba,regular iced americano,2.15
+4795d96d-4d65-45b4-b948-11c3b0ef8d4f,665a5c74-7223-4c1d-b357-df92922e2d4f,large speciality tea - english breakfast,1.60
+bd0f59b3-d25e-4736-b8ee-418d5d07ee7a,182a6078-9707-4fa5-9dae-c38087be4eaa,regular iced americano,2.15
+0fa3bb3e-2369-4bf2-8692-111fd99d6be7,9af3e83e-d432-484b-a761-692c2b604eae,regular speciality tea - english breakfast,1.30
+190e617e-ab55-445b-afec-1e1594f4e3de,a6c82c14-8adb-48de-9ff2-6bdb014d78b4,large chai latte,2.60
+b06ac8e6-e037-447f-878e-3b6e4fd689c7,8c0b6fd2-59f4-4884-990d-3c5661aabf1a,regular speciality tea - english breakfast,1.30
+7b516a2e-073d-4ed1-8d28-bb48e3157c33,8c0b6fd2-59f4-4884-990d-3c5661aabf1a,large chai latte,2.60
+e0d4b0ed-f372-4eb6-b4af-85146c4911e1,ebef1f27-4039-4336-8097-566eec94c695,large speciality tea - english breakfast,1.60
+ac7f9e66-97d7-4946-aa77-1588df67e1f9,ebef1f27-4039-4336-8097-566eec94c695,large filter coffee,1.80
+6bf89599-d9d1-4028-8b57-fd3221da41c7,ebef1f27-4039-4336-8097-566eec94c695,regular iced americano,2.15
+22fabc6a-ffe8-4870-a14f-5085394abe15,27db4a61-cf7f-44b6-8382-efee96682ea5,regular hot chocolate,1.40
+1bfdd762-b597-4a03-8870-4bf0e8a18e1a,27db4a61-cf7f-44b6-8382-efee96682ea5,large speciality tea - english breakfast,1.60
+3db6b241-e8bc-4536-8aa1-9536a75b1467,811109de-35d7-4a5d-bccc-ee250f861e38,regular hot chocolate,1.40
+3a841c72-4762-4f5b-8595-0caa78770025,811109de-35d7-4a5d-bccc-ee250f861e38,regular filter coffee,1.50
+19f26cd2-07ba-4a02-be30-d659a8ab2ec2,811109de-35d7-4a5d-bccc-ee250f861e38,large chai latte,2.60
+372a2b9e-cbaf-41b1-912a-4c55d0a361f0,518423b7-8131-4f9d-a514-2ec8b0620373,regular hot chocolate,1.40
+a7624cf1-ef9d-4d6c-a156-cabe96984552,518423b7-8131-4f9d-a514-2ec8b0620373,large speciality tea - english breakfast,1.60
+355d4183-4d05-4565-b5a6-fbf395357918,518423b7-8131-4f9d-a514-2ec8b0620373,regular hot chocolate,1.40
+b7daeaf0-4419-42bd-b41a-771829832e63,518423b7-8131-4f9d-a514-2ec8b0620373,regular iced americano,2.15
+1d104dca-3c55-4b66-9373-3fcc242b6f72,518423b7-8131-4f9d-a514-2ec8b0620373,large speciality tea - english breakfast,1.60
+ef9cc697-035f-4569-a15f-05d16f8828e2,518423b7-8131-4f9d-a514-2ec8b0620373,regular filter coffee,1.50
+c41f4600-1fc2-4c11-9f57-80cee438dfaf,4bd6cd29-c135-4051-9add-3ab473ff83a1,regular speciality tea - english breakfast,1.30
+0257963d-33ca-4e18-a78f-00bfb9b6289d,4bd6cd29-c135-4051-9add-3ab473ff83a1,regular filter coffee,1.50
+52af4eea-a120-4e12-bd5b-631fc554c6f0,a6811eb4-d384-4dea-b818-68434a2ae19e,large chai latte,2.60
+c1e54853-b348-4bd0-84a6-2bd39b693739,a568ede9-099b-49f1-9d94-61548dc12673,large filter coffee,1.80
+dc30683a-f534-41ff-a391-5c1ed90e924a,a568ede9-099b-49f1-9d94-61548dc12673,regular iced americano,2.15
+c4c27487-c84d-4f2e-acf5-ac0735c5621c,a568ede9-099b-49f1-9d94-61548dc12673,regular chai latte,2.30
+dbd02119-4df6-4f9c-b6fb-e0526394c2cc,a568ede9-099b-49f1-9d94-61548dc12673,regular iced americano,2.15
+a742432e-3bd9-42c6-927b-0f7255bf4223,57c857da-ddd9-474d-9d87-470ff7412eaa,regular iced americano,2.15
+60b3fbee-7c33-4480-b815-56d6be85d243,9af25525-9dc4-47af-9068-a4675f7ebdfa,regular chai latte,2.30
+30954179-a988-41f5-b96c-fd0b297435c2,9af25525-9dc4-47af-9068-a4675f7ebdfa,large hot chocolate,1.70
+f5d91a98-82c2-4361-b20b-282b78cdf7af,9af25525-9dc4-47af-9068-a4675f7ebdfa,large iced americano,2.50
+ed8ff612-b98a-4645-b7f1-dfd4e8da621a,9af25525-9dc4-47af-9068-a4675f7ebdfa,regular speciality tea - english breakfast,1.30
+9a14e26d-d5bb-4c1e-88bd-be3074902ad1,608f3925-5233-4f8a-a636-da039b145b65,regular hot chocolate,1.40
+23cd16ea-a03b-4c9f-a9b6-a55bb6a28242,608f3925-5233-4f8a-a636-da039b145b65,regular iced americano,2.15
+a1fdd383-cb12-4fc5-8175-c21cf619027e,608f3925-5233-4f8a-a636-da039b145b65,regular iced americano,2.15
+78cb584f-5a80-47ff-8b2a-8e6d509ac08e,0539a4e0-396c-4bb5-9e8e-543e6b06cfd6,large speciality tea - english breakfast,1.60
+88156daa-2b6a-424b-b974-f8ab551f5594,0539a4e0-396c-4bb5-9e8e-543e6b06cfd6,regular iced americano,2.15
+52a476cb-662e-4165-b354-8c89c28a7681,0539a4e0-396c-4bb5-9e8e-543e6b06cfd6,regular filter coffee,1.50
+378299e3-8276-4ad4-8f4f-07e9e54e9e32,e32e8962-7ae7-4eb9-a950-b8a31a1a4b11,regular iced americano,2.15
+202bd588-9d8c-41cf-a390-3adada299d0e,e32e8962-7ae7-4eb9-a950-b8a31a1a4b11,large chai latte,2.60
+3b357a3a-f522-4acc-9d75-7bfb780db501,e32e8962-7ae7-4eb9-a950-b8a31a1a4b11,large speciality tea - english breakfast,1.60
+8e5d2500-d4e6-493b-9d86-239f96b849d7,e32e8962-7ae7-4eb9-a950-b8a31a1a4b11,regular chai latte,2.30
+d137d241-97ce-4506-bcde-d29949ca3ec2,e32e8962-7ae7-4eb9-a950-b8a31a1a4b11,regular filter coffee,1.50
+4030ddf5-86df-4a14-b9f7-0b5da0b265c1,1944923d-7dc3-4f20-877d-485e20bd6820,large speciality tea - english breakfast,1.60
+999743c6-7aa9-44e0-a40f-bc3d342cab60,1944923d-7dc3-4f20-877d-485e20bd6820,large filter coffee,1.80
+5ddd30bc-1b5e-4fff-86ae-305d42274cbc,1944923d-7dc3-4f20-877d-485e20bd6820,large filter coffee,1.80
+78d81552-d7c3-4670-b3f1-4107c345dd0b,1944923d-7dc3-4f20-877d-485e20bd6820,regular filter coffee,1.50
+1bbf7b9c-3436-4d8b-b061-834e1219c262,1944923d-7dc3-4f20-877d-485e20bd6820,regular speciality tea - english breakfast,1.30
+56889825-769d-474d-bfbd-e46bed749357,1fcdcb3a-4b94-43ca-a52f-136a013c65b3,regular hot chocolate,1.40
+e7faa8e6-3a44-41d2-8c89-a6b413d1e9c7,4382741f-1193-4d10-9386-78d84bbeddd6,large filter coffee,1.80
+f51cfab3-7628-4f74-acd1-b39d31500995,4382741f-1193-4d10-9386-78d84bbeddd6,large chai latte,2.60
+a234f4f4-7bcd-46c1-810e-418daa6d4133,4382741f-1193-4d10-9386-78d84bbeddd6,large speciality tea - english breakfast,1.60
+fd7ba902-ee9b-4c82-b007-b64a4d2b6818,4382741f-1193-4d10-9386-78d84bbeddd6,regular chai latte,2.30
+6fe226a7-3f4e-4b1f-b70c-e01ff9a5f272,612d90cf-332a-4cf1-be52-8069ad5b4bf6,large hot chocolate,1.70
+78055582-471a-4373-be1e-7c10863a95b9,79fc10fd-56a8-4562-b6e7-06833057f515,regular filter coffee,1.50
+97d61f50-f80e-475b-a34e-55a35de9b824,66dee775-e762-4879-9b4f-4b9a29102ce3,large filter coffee,1.80
+b69956ba-7da2-4d9d-b8bf-6dcf5aea748a,9c7fd1cd-af2c-47d9-a5ff-d333f311d565,regular chai latte,2.30
+bc1fb18a-e206-4123-8593-d468c4037cf7,9c7fd1cd-af2c-47d9-a5ff-d333f311d565,large hot chocolate,1.70
+783f353f-c0c4-4f4d-be0f-04c57de09aa6,9c7fd1cd-af2c-47d9-a5ff-d333f311d565,regular hot chocolate,1.40
+9055a14d-cd87-4df2-8bf5-811848842a2c,9c7fd1cd-af2c-47d9-a5ff-d333f311d565,large speciality tea - english breakfast,1.60
+d763b33b-2d61-4e14-a9db-d79955a1519a,9c7fd1cd-af2c-47d9-a5ff-d333f311d565,regular chai latte,2.30
+29508acf-9c91-4f0c-b671-279f7965a310,5deeb82b-751d-4e8a-bc8b-5bab9fd4ac09,large filter coffee,1.80
+03ffdcf7-eb9b-4b3c-8d6b-94cfcd2304e2,c0c76565-eabe-4507-b989-5fc608a5e9d8,regular filter coffee,1.50
+111b0e07-08f9-47cb-a7f3-e24949226d80,c0c76565-eabe-4507-b989-5fc608a5e9d8,regular filter coffee,1.50
+c6f28967-dea4-4cc7-b04c-79c6744fe0b8,c0c76565-eabe-4507-b989-5fc608a5e9d8,large hot chocolate,1.70
+c5c2d78d-0cea-42d4-9a57-2ed506993e32,c0c76565-eabe-4507-b989-5fc608a5e9d8,large speciality tea - english breakfast,1.60
+c943685f-7080-4fb3-a34a-6c8fbb5f1201,c0c76565-eabe-4507-b989-5fc608a5e9d8,large hot chocolate,1.70
+f9ab0621-3fc2-4973-8fe2-3d610cec1901,8fbb8d51-93b2-48c6-92e8-420ee14d9453,large hot chocolate,1.70
+b598e136-0ba2-4d3a-b265-95b0011348cb,8fbb8d51-93b2-48c6-92e8-420ee14d9453,large speciality tea - english breakfast,1.60
+2ac3eb3e-8862-4765-a9a2-2aa06243018e,e5bd8895-3c05-4695-b97d-54c4a6342e13,regular iced americano,2.15
+dd1d963f-35b2-4823-bd45-34ec7c6c03d2,e5bd8895-3c05-4695-b97d-54c4a6342e13,large filter coffee,1.80
+aa6adbb6-c101-4196-8330-eba0ec1a85f0,e5bd8895-3c05-4695-b97d-54c4a6342e13,large filter coffee,1.80
+0591424b-9853-45f0-a598-c52ddd35c7da,e5bd8895-3c05-4695-b97d-54c4a6342e13,large hot chocolate,1.70
+3a6e1d8d-c83b-4083-b4ab-5f38681c046f,6b601021-3c58-428f-b5d4-cb9de0c81d60,large iced americano,2.50
+a3275bd8-f53e-4cce-bf49-c5bfe13f3ded,6b601021-3c58-428f-b5d4-cb9de0c81d60,large speciality tea - english breakfast,1.60
+3266e151-c060-4fc3-8c87-560faa4bd75f,6b601021-3c58-428f-b5d4-cb9de0c81d60,regular iced americano,2.15
+4db932a5-a59f-425c-9208-15ff5dd1d5c0,6b601021-3c58-428f-b5d4-cb9de0c81d60,regular chai latte,2.30
+b9564948-7c61-4495-aa34-30dc1c70aa77,cb0a361c-7a68-49c1-a121-31fa60c72671,large iced americano,2.50
+ca219912-b475-42c0-8ceb-a486d955d7f4,4a30984c-f0c6-4909-a10b-56c4e3768395,regular hot chocolate,1.40
+848f2741-c68c-48ff-a34d-90fc564a7995,4a30984c-f0c6-4909-a10b-56c4e3768395,regular hot chocolate,1.40
+645d9975-6aec-4c24-b22f-e4f206c49ccf,4a30984c-f0c6-4909-a10b-56c4e3768395,large filter coffee,1.80
+ddd6acf7-6066-46c5-bea9-89d75347cf25,4a30984c-f0c6-4909-a10b-56c4e3768395,large chai latte,2.60
+15c81735-9785-4d75-a89a-4a206d8fec5e,c702be9d-a33c-43f7-881d-9be97befe6a0,large chai latte,2.60
+5b249a61-71e1-49c4-8402-2be33925abdc,c702be9d-a33c-43f7-881d-9be97befe6a0,large speciality tea - english breakfast,1.60
+c5549ea2-9910-4141-89ad-bb215a21d051,c702be9d-a33c-43f7-881d-9be97befe6a0,large hot chocolate,1.70
+88afc17d-c6b4-45cd-83c9-e1bbc2873006,c702be9d-a33c-43f7-881d-9be97befe6a0,regular chai latte,2.30
+19776d2f-7dbf-4d1f-840d-4c300e3ed001,c160c374-8e18-43af-a24e-ff0326a19bb7,regular speciality tea - english breakfast,1.30
+6b1648f6-c293-48b9-b90e-3bf1c01226bc,621cb42f-bdd8-4993-804d-26ecac57ab38,large filter coffee,1.80
+7e7d7d73-14cc-429b-b377-51d8df747700,621cb42f-bdd8-4993-804d-26ecac57ab38,large iced americano,2.50
+1db1d578-524f-47b0-971d-0cc5940dd363,b5568e44-8d39-4ece-ab9b-0735a32988e2,large filter coffee,1.80
+fdd7b04c-8223-4dc5-949c-f4637f135901,c2154f19-1bd0-48b5-9aca-981fe02bc851,large speciality tea - english breakfast,1.60
+ed3c64df-9d58-4035-a94b-5d058a3c67f5,009088d6-e45c-4e66-b2c9-95b3af47823c,large filter coffee,1.80
+500f33dd-cebb-40a1-8067-c0d64081844b,009088d6-e45c-4e66-b2c9-95b3af47823c,regular iced americano,2.15
+606fba8b-8e19-4e91-bc8f-4918f578cfc7,009088d6-e45c-4e66-b2c9-95b3af47823c,large filter coffee,1.80
+00689a50-e7ab-45e1-a39c-6b3694ddd1a4,009088d6-e45c-4e66-b2c9-95b3af47823c,large chai latte,2.60
+e1f1ef1d-a0a2-4ac7-98d4-037d6e2e8f46,996556c8-3994-4b96-ab7b-61b18d79279b,regular hot chocolate,1.40
+a2f92730-bee6-4c9c-9ff0-3745eb2d59d6,996556c8-3994-4b96-ab7b-61b18d79279b,large chai latte,2.60
+37a0efc8-bc8c-4359-8e89-568b7a9a26cd,996556c8-3994-4b96-ab7b-61b18d79279b,regular filter coffee,1.50
+39de0d62-cb7f-4f50-9483-b63eefdfa5a4,c5dc54e8-1983-491f-a818-f5ba291ab344,regular chai latte,2.30
+f80637c9-0643-446c-a1ba-6448ee1b3291,c5dc54e8-1983-491f-a818-f5ba291ab344,regular iced americano,2.15
+19790b26-a6ed-41ea-a591-b787a66fafbd,0f063a4a-bebf-452d-aab1-3fd9421b8501,large filter coffee,1.80
+d8d7c9ef-f250-4393-8070-1524ad8a5d6b,0f063a4a-bebf-452d-aab1-3fd9421b8501,large speciality tea - english breakfast,1.60
+0cb960ca-846d-4bba-a43a-162c3409affc,0f063a4a-bebf-452d-aab1-3fd9421b8501,large filter coffee,1.80
+38221ae7-21db-4a64-b9e4-d6f40ea07701,ccf0a192-c727-4eab-a0fe-bc6c20c84e30,regular filter coffee,1.50
+a6d1d317-7cd9-4185-92b8-deeb0a499caa,ccf0a192-c727-4eab-a0fe-bc6c20c84e30,regular iced americano,2.15
+10243a23-dc43-4edf-a8a0-e781c451c3c4,ccf0a192-c727-4eab-a0fe-bc6c20c84e30,large speciality tea - english breakfast,1.60
+b8a1acb9-9624-446d-b069-5e71beef2397,aaaa406c-15d6-4b67-a46f-e4517b1d29c7,large iced americano,2.50
+137bc74e-6c10-4c55-93cd-094b1f49589b,4bf41ae6-3c80-40a7-a043-d9036c83ad2a,regular filter coffee,1.50
+6546234a-5f8e-4cb9-a074-7d016f8203c0,4bf41ae6-3c80-40a7-a043-d9036c83ad2a,regular chai latte,2.30
+b6f436e0-8524-4155-8e8e-f772e2384efa,4eec2a5e-770a-4a37-a1f6-70718d6fd85e,regular filter coffee,1.50
+c4dae97c-07a1-47a5-94b3-ab35f7a84ac4,4eec2a5e-770a-4a37-a1f6-70718d6fd85e,regular chai latte,2.30
+ba4629b4-aa21-49f4-8a25-cadccf4bc45a,86e42a02-42fa-453d-886d-dd2e795e8df6,large hot chocolate,1.70
+62c84a52-8cb0-4891-88a1-1ad024a50f2a,86e42a02-42fa-453d-886d-dd2e795e8df6,large chai latte,2.60
+33460f37-1d92-4379-95a4-935a1ffceced,d44c907a-9359-480f-bea8-99de0fce7eef,regular filter coffee,1.50
+83349be6-a8e9-4b05-b7b1-f744e93582ef,2cae0eff-49d6-4098-a469-88dd1152797b,large filter coffee,1.80
+ad7faaae-0e6b-48bf-a44e-998d2ad904d9,2cae0eff-49d6-4098-a469-88dd1152797b,regular hot chocolate,1.40
+c170ff6f-6166-4574-9a00-0916b6232f6a,2cae0eff-49d6-4098-a469-88dd1152797b,large filter coffee,1.80
+2b6d923b-a9fd-4aa4-95ad-6d949f8747c7,2cae0eff-49d6-4098-a469-88dd1152797b,regular filter coffee,1.50
+2a00debc-f519-47bc-96d7-a8496a788237,2cae0eff-49d6-4098-a469-88dd1152797b,large chai latte,2.60
+473f50f1-0f0e-441b-81f7-089b80fe1b42,7dd10617-2853-46a2-96ca-f239c1143776,regular chai latte,2.30
+70a1dd40-b4e9-44e7-bee3-7f2c18b88299,89363921-ed59-4c85-a363-1faa7af08167,large filter coffee,1.80
+8f68150d-00d3-44ee-976e-f42d0b8304f0,89363921-ed59-4c85-a363-1faa7af08167,regular filter coffee,1.50
+51736261-4368-45d4-8de5-4c649ba1d299,89363921-ed59-4c85-a363-1faa7af08167,large iced americano,2.50
+65c0139d-5037-4470-a0d1-a70435d1b1b6,824a4135-c1a7-4de4-bc96-4e1cdd00f3b7,regular filter coffee,1.50
+a5add88a-5fac-4716-ac78-b609858a36d8,824a4135-c1a7-4de4-bc96-4e1cdd00f3b7,regular filter coffee,1.50
+e675d5da-1533-417e-a5b2-380ea254b36a,824a4135-c1a7-4de4-bc96-4e1cdd00f3b7,large filter coffee,1.80
+1d0be8f8-5d6d-404f-94a6-c78f4b283b4d,65a90141-20eb-4a83-b5ce-efff949f302a,regular filter coffee,1.50
+88185c56-c784-4fbb-9386-6bb451c9485d,6d724ba1-4ee5-4b97-b760-963f82503e07,large chai latte,2.60
+da1d9141-44ce-452e-994c-a178287f52bf,9d0420e8-ad42-47a1-929d-538d9efa6be2,regular chai latte,2.30
+7f4ccd59-3fb7-4f11-a21e-e2087015f85a,9d0420e8-ad42-47a1-929d-538d9efa6be2,regular speciality tea - english breakfast,1.30
+abd4d04b-ea83-4677-b60d-8655b00bba57,9d0420e8-ad42-47a1-929d-538d9efa6be2,regular hot chocolate,1.40
+10a8df8a-5246-4d91-be95-2b1b73008f8a,82b83b3d-1654-4e8a-b579-d84298fc52aa,large iced americano,2.50
+11885fff-0d06-4e40-982e-974cdb9eabdf,82b83b3d-1654-4e8a-b579-d84298fc52aa,large iced americano,2.50
+8d827bc0-ec53-4d12-a820-1c4c0b96e31e,7bf641aa-f8a6-442c-8365-a1d692699064,regular chai latte,2.30
+56a469b3-03aa-4850-aeb1-c4713a9cf218,04f7cd49-f9b8-4a3f-8f29-f26027a0e2fc,regular speciality tea - english breakfast,1.30
+1c3f9d90-c9b8-4e1f-a694-543b4921c61a,04f7cd49-f9b8-4a3f-8f29-f26027a0e2fc,regular hot chocolate,1.40
+0561e74b-026a-4a88-9991-831d4f0c896b,04f7cd49-f9b8-4a3f-8f29-f26027a0e2fc,regular speciality tea - english breakfast,1.30
+4777ea80-5254-4182-aa27-e3359e34067e,ad86c198-2706-4744-b4f1-24be202b7d1a,regular speciality tea - english breakfast,1.30
+c822312b-dd08-40c4-8102-b105571eb430,ad86c198-2706-4744-b4f1-24be202b7d1a,regular chai latte,2.30
+a6bcce66-2e0c-474b-8b5b-97c5a6c06f75,74f2a3c0-0c61-43a6-a2ff-1ff33da55db2,large filter coffee,1.80
+88d1d508-8bcf-4ea3-9063-aca29ead8b8a,74f2a3c0-0c61-43a6-a2ff-1ff33da55db2,regular filter coffee,1.50
+4f78717c-fd63-44fe-872a-34cc78862278,74f2a3c0-0c61-43a6-a2ff-1ff33da55db2,large speciality tea - english breakfast,1.60
+8e43f7e4-45c3-4fb6-beb2-967bc0fa4c22,451dad51-ee66-4f24-8405-60522e8a0011,large hot chocolate,1.70
+9734f750-4b8c-497d-bb50-fd6a247821f4,5053161f-1a20-4318-9e11-2ce4f3b3be7f,large hot chocolate,1.70
+8dfc2129-3981-4fb4-b108-5f7e2242d1a5,5053161f-1a20-4318-9e11-2ce4f3b3be7f,regular hot chocolate,1.40
+59ebd950-3528-4c34-b265-25e94e139231,5053161f-1a20-4318-9e11-2ce4f3b3be7f,large filter coffee,1.80
+3b8dba38-286a-4515-a93f-620c28b19d4f,5053161f-1a20-4318-9e11-2ce4f3b3be7f,large speciality tea - english breakfast,1.60
+0618dd13-924a-4652-a680-1823a7a73677,b69b3a4b-bfd0-495a-8790-349edc1ba60f,regular filter coffee,1.50
+a5a4362b-e013-4577-9cce-6508f7f79b00,b69b3a4b-bfd0-495a-8790-349edc1ba60f,regular filter coffee,1.50
+fd038749-ae04-4342-85e5-7b2aac6dbe34,b69b3a4b-bfd0-495a-8790-349edc1ba60f,regular chai latte,2.30
+b298f43e-6e65-4866-8037-05b9ba10b6f4,a3f46226-57c7-4414-8501-32473235d1e2,regular iced americano,2.15
+5b74e4b9-3c63-47f6-add0-27687d9b508e,a3f46226-57c7-4414-8501-32473235d1e2,regular filter coffee,1.50
+ffffa491-b7b7-464a-908f-06f6d7c43a8c,a3f46226-57c7-4414-8501-32473235d1e2,large hot chocolate,1.70
+176da5f3-9a5c-4722-a64f-4d815dfc4b19,a3f46226-57c7-4414-8501-32473235d1e2,regular speciality tea - english breakfast,1.30
+fb7ca46d-5e38-4331-a1f6-3c354db97021,a3f46226-57c7-4414-8501-32473235d1e2,large chai latte,2.60
+f110791c-44df-4e92-a5eb-c11061e14a3c,9c9815ff-de79-4a66-b217-23230f0d8f1a,regular chai latte,2.30
+d5eabbae-56ea-4e18-8447-493af61a7a11,f09530be-56ba-4e53-b6fe-b3ed677b18d8,large iced americano,2.50
+253fa324-c431-4dc0-a08c-5c9f58295ad8,f09530be-56ba-4e53-b6fe-b3ed677b18d8,large chai latte,2.60
+728b7968-6310-4e24-918a-dbe56a2a018f,b49fd00e-953e-4c40-a9d4-e39118b06677,regular filter coffee,1.50
+1e6ce3a2-4442-4673-b40b-e0267a681a9d,55eeacb6-cb60-45a9-933e-564aa823d482,regular filter coffee,1.50
+2ecbfe43-17d8-44bb-8bfb-1c70e7f36369,55eeacb6-cb60-45a9-933e-564aa823d482,large speciality tea - english breakfast,1.60
+8646d7b4-de35-44ae-bac9-980fca3d701f,55eeacb6-cb60-45a9-933e-564aa823d482,large iced americano,2.50
+b203cfa2-bf99-4307-862d-6af6e7129971,55eeacb6-cb60-45a9-933e-564aa823d482,regular hot chocolate,1.40
+202acd68-f8f8-47ee-97d5-44a56b2c3d67,55eeacb6-cb60-45a9-933e-564aa823d482,large chai latte,2.60
+873f85d5-7fb0-4ea9-b5b8-9b5144196b66,db6a3df2-7423-4275-976c-82ea560c349f,regular iced americano,2.15
+9be31c57-17f5-43eb-a6c9-fbf5e02a6ba6,db6a3df2-7423-4275-976c-82ea560c349f,large filter coffee,1.80
+45146549-728a-48a6-915d-96158590c0e7,db6a3df2-7423-4275-976c-82ea560c349f,regular filter coffee,1.50
+42badd4c-3495-4831-932a-0564d3be9aa2,db6a3df2-7423-4275-976c-82ea560c349f,large speciality tea - english breakfast,1.60
+4919717b-8d6b-471d-8035-c2296f400eb5,e65dd893-4bf6-47e0-a5ec-0dd7cb3f7ce4,large filter coffee,1.80
+49ca8eb2-91d5-40d4-8dac-d68dd3f33c8f,e65dd893-4bf6-47e0-a5ec-0dd7cb3f7ce4,large hot chocolate,1.70
+6687233b-034e-4189-a8d0-2e1fd5821b24,e65dd893-4bf6-47e0-a5ec-0dd7cb3f7ce4,large iced americano,2.50
+aaf6f462-032e-46c0-94ac-b8a0a6e7b6e0,f579d6be-d2e9-4471-a928-144c74f0e90c,large chai latte,2.60
+dc1b23a3-9cf7-4e4b-b437-2d9b2ed51799,f579d6be-d2e9-4471-a928-144c74f0e90c,regular iced americano,2.15
+94a7ad1d-0e74-4b2e-a321-c0a577ceded9,f579d6be-d2e9-4471-a928-144c74f0e90c,regular iced americano,2.15
+80c2a256-e9b5-4db2-bef4-760bd06aece0,514f898e-6e32-4d17-80ee-4beee334a52e,regular hot chocolate,1.40
+d5e939ad-2d71-4f62-9a95-177780cf7fb8,514f898e-6e32-4d17-80ee-4beee334a52e,regular filter coffee,1.50
+ba2f6581-58fb-448e-99bc-f833028c1cca,917d2f36-7cc6-4d9e-9096-103e2fa2fcc2,large speciality tea - english breakfast,1.60
+44ceeccb-eb0c-4160-b722-0ffcb4473461,917d2f36-7cc6-4d9e-9096-103e2fa2fcc2,regular filter coffee,1.50
+9a1f7d49-2d7d-4d1f-aa3b-5cd74d4e182a,917d2f36-7cc6-4d9e-9096-103e2fa2fcc2,large speciality tea - english breakfast,1.60
+299829e7-1769-4669-b431-f1c382f3e183,917d2f36-7cc6-4d9e-9096-103e2fa2fcc2,regular chai latte,2.30
+0bf96347-3a1c-4e31-84de-89eb6680eedd,d97ed304-8d9f-47eb-abf4-5b012e0a4125,regular speciality tea - english breakfast,1.30
+433455a8-e1a0-439a-bc39-191eecd96244,d97ed304-8d9f-47eb-abf4-5b012e0a4125,regular filter coffee,1.50
+c0e867f4-cfe3-444f-a04a-0523a8a1e2fe,d97ed304-8d9f-47eb-abf4-5b012e0a4125,regular chai latte,2.30
+675dff40-2629-4663-93aa-e0114ee8fa3c,3312b31c-7b32-443d-bfca-f181fb4a2287,regular speciality tea - english breakfast,1.30
+7deb962a-3d88-4b46-a2dd-ad909542f0f4,3312b31c-7b32-443d-bfca-f181fb4a2287,large chai latte,2.60
+1ee29317-f5ae-41fc-9856-4f9e8c40c1d0,4aaeaf75-7a05-4485-8ac1-f97c9906d17c,large iced americano,2.50
+bc6a0daa-1b1b-4eca-8c03-40f0fa55b09e,4aaeaf75-7a05-4485-8ac1-f97c9906d17c,regular hot chocolate,1.40
+72c6236a-6daf-4346-ad12-502f4116ad4f,4aaeaf75-7a05-4485-8ac1-f97c9906d17c,large iced americano,2.50
+7c4f0448-bcaf-450f-bacd-8eac30151edc,843229dd-fe86-4ed4-ab65-66302cf71fab,large chai latte,2.60
+2edc6e37-81e3-48e7-8355-3b7d19edd165,843229dd-fe86-4ed4-ab65-66302cf71fab,regular filter coffee,1.50
+d26f8ab5-877b-4ec3-8cdd-90d96f17087d,843229dd-fe86-4ed4-ab65-66302cf71fab,large filter coffee,1.80
+e6113eb2-4f24-4699-b823-044e3c62eb59,843229dd-fe86-4ed4-ab65-66302cf71fab,large filter coffee,1.80
+7eea0d5a-5c57-40c0-9d54-0e5e852f7b38,843229dd-fe86-4ed4-ab65-66302cf71fab,large chai latte,2.60
+616daa9c-f4e7-48d5-b680-b3b7e3598dbf,a303e273-2fb2-4d8f-8dbd-f1dc2de100a2,large chai latte,2.60
+d0fc25fe-a93a-4553-97c9-6bf899bfe6a4,a303e273-2fb2-4d8f-8dbd-f1dc2de100a2,large iced americano,2.50
+9f6532d9-be6d-436e-9279-74e31888b75c,def9cdda-4e00-4191-b55a-eea06d821ca9,regular chai latte,2.30
+ac867372-3ba8-4216-9302-093603357287,def9cdda-4e00-4191-b55a-eea06d821ca9,large chai latte,2.60
+5734ee82-9e63-4274-9e32-064ab0f32b5f,ec2b1d5c-40ef-4ae3-95c5-88410254ef77,regular iced americano,2.15
+36caa759-8d71-44ba-ab0b-7ad7031567e0,ec2b1d5c-40ef-4ae3-95c5-88410254ef77,regular chai latte,2.30
+71e09e5e-dd57-405b-8758-bb229ef0613e,ec2b1d5c-40ef-4ae3-95c5-88410254ef77,large speciality tea - english breakfast,1.60
+d55fcac9-e5f1-48ed-be5c-63c316e4d42a,ec2b1d5c-40ef-4ae3-95c5-88410254ef77,regular filter coffee,1.50
+cdf7f1a4-3879-4cd1-a402-edc820871f63,ec2b1d5c-40ef-4ae3-95c5-88410254ef77,large filter coffee,1.80
+0ca2de5a-f980-4231-8bed-4d96a1aa5742,bb217d73-ec89-411d-ade5-b5d2f130b283,large chai latte,2.60
+83f9489e-8dd2-4b17-92ff-393f5a0c6e25,a0f88933-dad9-4b41-99ce-a446eea87ecf,regular filter coffee,1.50
+b7bc0128-537d-4de7-b3e3-1ed50608292c,1bccf9fe-12bf-4cf8-8138-10d06d413f1b,large filter coffee,1.80
+313be4f5-e4ee-4f1e-8efe-b80fbd90917e,1bccf9fe-12bf-4cf8-8138-10d06d413f1b,large hot chocolate,1.70
+0a51076c-b7b0-474b-8670-40904ce4ac70,f0b6acca-3942-4041-bddb-24a77428fd04,large speciality tea - english breakfast,1.60
+46beacfe-5331-464d-9815-7487dc85fc61,f0b6acca-3942-4041-bddb-24a77428fd04,regular speciality tea - english breakfast,1.30
+96318f05-998c-4f6f-80b3-3f6532e0a4eb,f0b6acca-3942-4041-bddb-24a77428fd04,large speciality tea - english breakfast,1.60
+0b7e4ccb-737b-46f1-a8e9-f1d882ec5ba0,f0b6acca-3942-4041-bddb-24a77428fd04,large iced americano,2.50
+fb6f7c34-af6e-45c9-afcf-baa7f6d523ad,3a7dfe1d-7951-4769-9d50-13f7d2d71da4,regular filter coffee,1.50
+2bd58916-5b82-404b-8d16-103d12f7e959,3a7dfe1d-7951-4769-9d50-13f7d2d71da4,large filter coffee,1.80
+d1f516c5-ad7e-47fe-8836-c348d64d1ed3,dda23db5-4968-48e8-9c03-d9b9cd88dd81,regular iced americano,2.15
+7144eea5-11ec-4a7c-ad12-29c6dddf4d38,d0960aa8-b848-45f4-aad5-b054655573b0,regular chai latte,2.30
+c251b70f-a9a2-4c5e-a7f2-84c97cca7804,d0960aa8-b848-45f4-aad5-b054655573b0,large filter coffee,1.80
+675d066d-0095-42b3-8710-de1cd3317a2b,d0960aa8-b848-45f4-aad5-b054655573b0,regular speciality tea - english breakfast,1.30
+5af12796-0ff2-424d-870d-a5f84a42093c,029e34e7-6238-4875-bea4-7589509ecbf5,large speciality tea - english breakfast,1.60
+e536f72f-05b3-406e-8c94-4bbc5bfa4a3b,029e34e7-6238-4875-bea4-7589509ecbf5,regular hot chocolate,1.40
+481f08a1-dba8-43f3-9d14-1bde4e942b5b,029e34e7-6238-4875-bea4-7589509ecbf5,large hot chocolate,1.70
+a5d931d4-a410-4e0d-8c3b-a4751513ff78,e3907ec4-040b-430c-bc25-a99a8173f021,regular chai latte,2.30
+8349ba90-4401-4131-938d-35fcfda37856,e3907ec4-040b-430c-bc25-a99a8173f021,regular hot chocolate,1.40
+1cee55e0-3311-4880-b8c4-c1a89cb6f6ce,e3907ec4-040b-430c-bc25-a99a8173f021,regular iced americano,2.15
+97bab1e4-879a-467e-ba57-dcd8fd89243d,e3907ec4-040b-430c-bc25-a99a8173f021,regular chai latte,2.30
+9b1fe6d5-2f02-4c14-a981-abaf9dae20e3,e3907ec4-040b-430c-bc25-a99a8173f021,large iced americano,2.50
+d4b2e2c9-3872-4b32-9677-a73abcfad5d4,0e237288-2432-4aa1-818f-be457c7a2559,large hot chocolate,1.70
+0b559396-8735-4cc1-97ea-9d81847f3bdc,0e237288-2432-4aa1-818f-be457c7a2559,large hot chocolate,1.70
+e6e12ab0-983b-44ad-9cb6-c4b5089f1b12,2edc46ef-990e-4761-9345-3090a42d27a2,large hot chocolate,1.70
+99c43e1c-3686-4915-a687-400d8daf23ee,2edc46ef-990e-4761-9345-3090a42d27a2,large filter coffee,1.80
+b55d83f6-c32f-4d8a-b50c-7f6a8b84f568,2edc46ef-990e-4761-9345-3090a42d27a2,regular filter coffee,1.50
+ae5f22e6-cb4a-4b72-9efc-0dd791d8ed05,2edc46ef-990e-4761-9345-3090a42d27a2,regular filter coffee,1.50
+b52a0847-823e-4d14-bd88-d505a4fd95a0,2edc46ef-990e-4761-9345-3090a42d27a2,large hot chocolate,1.70
+8e387324-92ae-4c82-ada9-222fdc31fb57,d29ccb77-368a-4dd8-95a2-394db241703c,regular speciality tea - english breakfast,1.30
+06726bdc-fed7-4c8e-a187-638d92a64ae6,74ad73e9-cc85-42fe-99d0-a5b3960f7d2a,regular chai latte,2.30
+8ee3db86-ec54-4a2a-b953-c88e169f9e83,74ad73e9-cc85-42fe-99d0-a5b3960f7d2a,regular speciality tea - english breakfast,1.30
+3b09ecb0-a7dd-4c00-9a67-623f4f84a87f,e2343d8c-6516-4c56-b890-526b699bd6b9,regular chai latte,2.30
+13a4293a-f0f6-460b-a621-466e88d37d03,e22b65b1-f31a-483c-abbb-08f437b9aca2,regular chai latte,2.30
+37b4b420-4005-4c25-aad3-134ac546a932,e22b65b1-f31a-483c-abbb-08f437b9aca2,regular chai latte,2.30
+8746774e-7159-47ae-9137-6b6ebf6f4a40,e22b65b1-f31a-483c-abbb-08f437b9aca2,large hot chocolate,1.70
+dac36f0c-4ee4-4f31-a233-2f846f1e8aad,b73f85f1-186b-4c76-bf92-38ed043a2b33,regular chai latte,2.30
+f05fb0b3-fd3d-472a-9fdc-d8a4c0c64587,942badcd-a759-4750-9e3f-a834acf998e3,regular chai latte,2.30
+e76c6401-8214-4556-9f36-174feaed3508,942badcd-a759-4750-9e3f-a834acf998e3,regular filter coffee,1.50
+0edfbe66-a1ca-4a63-950c-a8101e7a9fc1,942badcd-a759-4750-9e3f-a834acf998e3,regular filter coffee,1.50
+be226b9e-830e-4dff-b9cf-2fc7700f7efb,942badcd-a759-4750-9e3f-a834acf998e3,regular speciality tea - english breakfast,1.30
+6470909e-91f8-4d4d-be2d-f0b10788feaa,942badcd-a759-4750-9e3f-a834acf998e3,regular speciality tea - english breakfast,1.30
+ef814fa2-bcdc-4cb8-9c2f-796b70287775,942badcd-a759-4750-9e3f-a834acf998e3,large filter coffee,1.80
+01b2ec51-fda0-4b2f-814a-d8b30f25a594,f744edbc-2892-420b-a378-a49669d5dae5,regular hot chocolate,1.40
+a3edb207-be46-40d4-a3ba-c3a8ab946bc8,f744edbc-2892-420b-a378-a49669d5dae5,regular hot chocolate,1.40
+35118490-8465-488d-97f1-5d0747d10b76,f744edbc-2892-420b-a378-a49669d5dae5,large chai latte,2.60
+cb0ad46b-a5cf-470b-a928-1e82e0c7dcd6,f744edbc-2892-420b-a378-a49669d5dae5,regular speciality tea - english breakfast,1.30
+2c578503-ad47-4576-9ede-2883d7bf9594,b2537bc0-50b4-45b0-b32a-c11eecfd05b2,regular filter coffee,1.50
+6e950497-1cc9-4321-99f8-163a324d36f5,b2537bc0-50b4-45b0-b32a-c11eecfd05b2,regular chai latte,2.30
+ca924b41-199d-4cd1-998c-92086311cc9d,b2537bc0-50b4-45b0-b32a-c11eecfd05b2,regular chai latte,2.30
+29c920d9-958a-4cff-a3f5-0d689079861c,472a9510-0628-414a-ba37-938e2c4c0aeb,large filter coffee,1.80
+cfa995c8-757a-475d-acb7-83abf167e4e8,472a9510-0628-414a-ba37-938e2c4c0aeb,regular chai latte,2.30
+fa8f881d-4894-4928-af6c-0a06f7fc8c82,ed95ea29-9920-4001-8a23-6d7826fc16a3,regular filter coffee,1.50
+57d90a97-856c-4a63-9f57-92ad727eb43d,4d7f5e01-77b9-44fb-bd8f-e97433c6a556,large filter coffee,1.80
+059cc972-9857-4573-b532-83d0e8b0ae04,4d7f5e01-77b9-44fb-bd8f-e97433c6a556,large filter coffee,1.80
+8fe4b46c-ae61-45cb-9002-a673606110ac,4d7f5e01-77b9-44fb-bd8f-e97433c6a556,large iced americano,2.50
+ab57b485-df3e-4dd9-84eb-f88faac105ad,6513b5b5-50a8-466d-8535-2d862fa20eac,large speciality tea - english breakfast,1.60
+b6c48077-b2aa-4437-86ab-e2401846fd12,6513b5b5-50a8-466d-8535-2d862fa20eac,large speciality tea - english breakfast,1.60
+c34bcabf-a07c-4b63-a55d-95d9c459deb8,6513b5b5-50a8-466d-8535-2d862fa20eac,regular hot chocolate,1.40
+b699c118-9d80-4de1-8e3d-dd76df188687,6513b5b5-50a8-466d-8535-2d862fa20eac,large chai latte,2.60
+a4e94c5b-0c9a-42bf-ba51-9d75dd03d09f,989a4eeb-570c-4273-a7b5-6f51b2455a5a,large iced americano,2.50
+89df79da-dec5-41a6-b241-ed2161594cf0,989a4eeb-570c-4273-a7b5-6f51b2455a5a,regular filter coffee,1.50
+01b0b519-b3aa-4747-8345-3ca26a2676c0,696710da-38fa-42e9-9863-1d0149101ea9,regular filter coffee,1.50
+ba5414e7-9e10-470f-8e12-04e2c5e88857,696710da-38fa-42e9-9863-1d0149101ea9,large hot chocolate,1.70
+a9d7b90f-f216-4183-80a4-a8721d411cdc,696710da-38fa-42e9-9863-1d0149101ea9,large chai latte,2.60
+7a1b1b1b-fb40-4fc8-b86d-b10f067747be,2cab5879-3b95-4823-b785-5f3e6887fa87,regular speciality tea - english breakfast,1.30
+4e75ee3b-7bba-49a8-80fb-b1fd3b446ac0,2cab5879-3b95-4823-b785-5f3e6887fa87,regular filter coffee,1.50
+4acdbe57-5080-48b7-a6a5-9e6d53e7c890,2cab5879-3b95-4823-b785-5f3e6887fa87,regular hot chocolate,1.40
+207ece5c-a750-4f0b-87b5-f1973da0c80d,2cab5879-3b95-4823-b785-5f3e6887fa87,regular chai latte,2.30
+61f21dea-6987-4651-aa1c-5d42a0428a26,2cab5879-3b95-4823-b785-5f3e6887fa87,large filter coffee,1.80
+54ff6acd-2231-4537-9ed8-ef562f220ff6,4d23db7d-b730-476a-a458-78f1da76b60a,regular filter coffee,1.50
+4f50b8e5-0f3f-4551-aa45-d342a758b2fc,4d23db7d-b730-476a-a458-78f1da76b60a,large chai latte,2.60
+45c51c18-3522-4734-b224-59716889a7cf,4d23db7d-b730-476a-a458-78f1da76b60a,large filter coffee,1.80
+caeda32d-d1b9-4d77-8326-dbb6acab3549,4d23db7d-b730-476a-a458-78f1da76b60a,large speciality tea - english breakfast,1.60
+137293a7-7245-45eb-8629-979cf40a3cb1,10fe6f33-8a04-4386-9a7d-0ffa24756bd0,large filter coffee,1.80
+57d4aab0-6e0c-48de-b203-d52098f52782,10fe6f33-8a04-4386-9a7d-0ffa24756bd0,regular filter coffee,1.50
+b8be0ae9-ae8c-471e-9c14-6c4cd9be5f38,10fe6f33-8a04-4386-9a7d-0ffa24756bd0,large hot chocolate,1.70
+c00d6f2c-3443-4a28-993c-ac3e6e8113be,10fe6f33-8a04-4386-9a7d-0ffa24756bd0,large hot chocolate,1.70
+13979e00-e399-4661-9f60-833bcc5f5d8d,141b5ce0-d5f5-42c3-befa-5bd0e168854e,large chai latte,2.60
+67e3cd73-6307-4032-b301-879c37270d54,141b5ce0-d5f5-42c3-befa-5bd0e168854e,regular iced americano,2.15
+57b94635-c26d-4979-9813-17a7ed15027b,141b5ce0-d5f5-42c3-befa-5bd0e168854e,regular filter coffee,1.50
+64a380e4-3984-41f4-a7d3-50181d8e3427,84294ff6-35b2-49bf-976e-75f4b4351c08,large filter coffee,1.80
+38a2ef37-47dc-4c3b-9244-5f3f4be2ede5,84294ff6-35b2-49bf-976e-75f4b4351c08,large speciality tea - english breakfast,1.60
+bbd49813-3e03-4b6b-91d9-d0e95c0e36ca,84294ff6-35b2-49bf-976e-75f4b4351c08,regular chai latte,2.30
+a318a862-d4ba-406a-8292-dde2eaee2bf0,84294ff6-35b2-49bf-976e-75f4b4351c08,regular speciality tea - english breakfast,1.30
+571a0aad-021a-4372-bef7-98916b293ab8,84294ff6-35b2-49bf-976e-75f4b4351c08,large filter coffee,1.80
+7713e9d0-d364-42d8-abe2-acd17fee90db,2813ec69-c589-40ba-9054-9331bbda2845,regular chai latte,2.30
+6b5edb2e-2e61-4fcb-83be-51c814ac0ad1,670401e7-9d85-4242-b5b8-57c1aa8c4565,large speciality tea - english breakfast,1.60
+2947ef57-d7aa-447c-93bc-3a9ed93640a7,670401e7-9d85-4242-b5b8-57c1aa8c4565,regular speciality tea - english breakfast,1.30
+6000e9eb-2353-4312-9c2b-ed0163d18e28,670401e7-9d85-4242-b5b8-57c1aa8c4565,large hot chocolate,1.70
+245aeb82-e8c0-4514-9415-20f539274969,bc584885-bf42-45b5-943f-faac23d08e42,regular chai latte,2.30
+c7c1bb4e-7e1f-4410-b0ad-335e15368eb8,bc584885-bf42-45b5-943f-faac23d08e42,large filter coffee,1.80
+a214beb7-1ce5-4c9a-96df-25fd2eb0d8e2,bc584885-bf42-45b5-943f-faac23d08e42,regular speciality tea - english breakfast,1.30
+5fee3940-45c1-49f8-be30-bb34eedbd29b,bc584885-bf42-45b5-943f-faac23d08e42,regular speciality tea - english breakfast,1.30
+662730e7-adae-4671-a328-4088be541ace,1f46c238-1838-4da7-9746-2b8a9a9438fb,regular filter coffee,1.50
+5756c9a7-0349-499a-9989-a989900bdec2,1f46c238-1838-4da7-9746-2b8a9a9438fb,regular chai latte,2.30
+62930ce0-5566-4b43-98c1-0c7a51aab1ba,d2d58d34-d8dd-4afa-953b-cb248e880eb6,large filter coffee,1.80
+f45ed50e-d59d-41d5-9aa9-51ac0a300308,d2d58d34-d8dd-4afa-953b-cb248e880eb6,large filter coffee,1.80
+0b921ce4-2699-48aa-9609-52d92ea195fa,297506fa-1d77-47ec-9efc-3419a7b8de9c,large speciality tea - english breakfast,1.60
+dbfb4a4a-57a8-4c39-8f2f-d4713613c06b,297506fa-1d77-47ec-9efc-3419a7b8de9c,regular iced americano,2.15
+801d5bfe-6986-433d-b582-9f2a3d3339e9,f2f03f2c-71ac-4aef-a8ca-6a0a6ca2beaf,regular filter coffee,1.50
+1cbfedbf-ca98-498b-a309-ab1523263c46,f2f03f2c-71ac-4aef-a8ca-6a0a6ca2beaf,large chai latte,2.60
+5e2b53c8-a3fb-4e64-8c6e-47308b2790ac,f2f03f2c-71ac-4aef-a8ca-6a0a6ca2beaf,large chai latte,2.60
+7f1dbee9-9014-4076-a5c0-094aa270301d,0bbe83aa-16ae-4ac3-8670-338b4cb56255,regular chai latte,2.30
+51f57f40-51ac-4888-b73e-c60821562370,303bc7fb-e76a-42ce-b2cc-5234462089a3,regular speciality tea - english breakfast,1.30
+7fe550c0-289c-4aa6-ade1-65fb5016649e,0727e545-55b9-4e6f-885a-300f9608c74f,large chai latte,2.60
+ad20c3d3-9eb6-4d39-8e89-2c5454a29e65,2afa98f3-5b52-4aee-8c9b-fc7281acccfb,regular filter coffee,1.50
+a26296dc-601f-4849-a00b-313816cbc665,2afa98f3-5b52-4aee-8c9b-fc7281acccfb,regular iced americano,2.15
+1974df08-f887-4a47-af18-bc67f0dfb8f6,2afa98f3-5b52-4aee-8c9b-fc7281acccfb,large chai latte,2.60
+d31b4c47-f810-4f1b-a64d-d55a14b9770c,3459498f-8665-439a-a6d5-aa3c522572f3,regular iced americano,2.15
+e5b15401-e1ab-4ca1-9e83-231c98defe93,3459498f-8665-439a-a6d5-aa3c522572f3,large hot chocolate,1.70
+fef38c99-df33-430e-ad75-934004835539,3459498f-8665-439a-a6d5-aa3c522572f3,large hot chocolate,1.70
+c6230ad0-5a05-449d-ba37-b06b6e6ff583,3459498f-8665-439a-a6d5-aa3c522572f3,large hot chocolate,1.70
+807d0176-1cf7-414c-af37-5b71cf384850,3459498f-8665-439a-a6d5-aa3c522572f3,large chai latte,2.60
+ccf25b10-9e87-43fa-9e13-1be48bf69c24,8149b026-0cc2-4b25-afa6-e1502c0aa08c,large hot chocolate,1.70
+61e50725-1cb4-451c-ae32-ffd2db003ff4,8149b026-0cc2-4b25-afa6-e1502c0aa08c,large filter coffee,1.80
+c83d660f-9642-4379-819e-947c88015eb9,8149b026-0cc2-4b25-afa6-e1502c0aa08c,large hot chocolate,1.70
+a4801525-1161-4b96-93a7-2c7e953bb40e,8149b026-0cc2-4b25-afa6-e1502c0aa08c,large chai latte,2.60
+7ce2b091-897a-4091-b341-465e82a80196,8149b026-0cc2-4b25-afa6-e1502c0aa08c,regular speciality tea - english breakfast,1.30
+0bcd6013-a5ad-4d80-829a-14b3a5a016c0,8e710201-9cc1-4e09-b0b7-49f7d465308d,regular filter coffee,1.50
+1e6387ea-9473-406b-bf09-c4fb18248a80,8e710201-9cc1-4e09-b0b7-49f7d465308d,large hot chocolate,1.70
+c0d66b43-f06f-42f1-9ce1-2633e934a376,8e710201-9cc1-4e09-b0b7-49f7d465308d,regular filter coffee,1.50
+e77584d2-6f2f-49e4-b66d-384fb133ca58,8e710201-9cc1-4e09-b0b7-49f7d465308d,regular filter coffee,1.50
+312d1da0-5652-4cc7-af03-39de3ad518c4,e1106ff3-9dcd-4da4-8db7-3ed261268c7c,regular iced americano,2.15
+a4ca0ed0-e9a7-4cd8-b1bc-8cf0dddbd5f1,a4a72be1-767d-4016-a8e0-a9d7311fb1e5,regular speciality tea - english breakfast,1.30
+533de8db-a575-469e-a9e4-84389c10a1ee,a4a72be1-767d-4016-a8e0-a9d7311fb1e5,large chai latte,2.60
+1ee65bbd-a4f4-4072-87e7-51db2c6f3ad7,2afb1cb1-4284-423a-afdd-df40be2b48db,large iced americano,2.50
+53ce6bb8-78f2-4e8d-93dc-1f9b7817a766,2afb1cb1-4284-423a-afdd-df40be2b48db,large hot chocolate,1.70
+f5c84545-fd3b-4660-8010-7482463eda49,2afb1cb1-4284-423a-afdd-df40be2b48db,regular filter coffee,1.50
+105081b2-598e-4712-822f-63c22bbad199,2afb1cb1-4284-423a-afdd-df40be2b48db,regular filter coffee,1.50
+61e3a36f-87df-4830-aeae-0cc7205b93ff,a12b442b-c5fe-45b4-84d6-0ff124c34677,large iced americano,2.50
+b7c30072-962e-44ef-8ec4-1b0fcea92e20,c7be2cde-603a-4779-8e78-47858eef3b5e,large chai latte,2.60
+c0e94b95-9438-48bf-b780-b45d1ac45b77,c7be2cde-603a-4779-8e78-47858eef3b5e,large hot chocolate,1.70
+4d924185-8f8b-4e68-867b-37819add5c89,ffa9d900-b73a-46aa-b07a-0e8bfc9d9709,regular filter coffee,1.50
+9ce6268c-9ce6-4a7c-b5ec-8b619d05ce11,1d62e68e-68e5-45a5-af87-493941d8b517,regular speciality tea - english breakfast,1.30
+9bb656c9-0e0f-4a17-9ba1-6229ce98b5dd,1d62e68e-68e5-45a5-af87-493941d8b517,large filter coffee,1.80
+930b04f7-924d-4973-a936-4297b22564b7,1d62e68e-68e5-45a5-af87-493941d8b517,large filter coffee,1.80
+1ee64b7b-6084-40c9-b3c4-18e8ffa1fd2c,76d29918-feb0-4332-a1e3-db0c17e3f386,regular chai latte,2.30
+88804d2d-d188-4d1c-94de-49e7517a6387,544006c5-8bea-473c-8745-3f9f944fcee6,large iced americano,2.50
+ca9452f2-cb7d-43e5-b8b6-137ef21f2bb7,544006c5-8bea-473c-8745-3f9f944fcee6,large filter coffee,1.80
+3b84b27c-58d7-475f-82fb-f66b7b9c5725,544006c5-8bea-473c-8745-3f9f944fcee6,large iced americano,2.50
+8b185ca5-b601-4834-8d7c-2add705c54a3,d37da568-21af-4147-82b3-bdf4c4312295,regular chai latte,2.30
+05c02a8c-867b-4040-a1d6-474f71b3d312,3e13d84f-633b-4d5d-a952-936e5ff79853,large iced americano,2.50
+185ed7dc-e1c6-425c-96b8-707d40bbfe9e,3e13d84f-633b-4d5d-a952-936e5ff79853,large iced americano,2.50
+d9be208a-a623-431a-a1c8-92102f73d190,3e13d84f-633b-4d5d-a952-936e5ff79853,regular chai latte,2.30
+7e171542-e514-444d-b423-36fa316d5531,3e13d84f-633b-4d5d-a952-936e5ff79853,large speciality tea - english breakfast,1.60
+99405ce4-65bc-40aa-9d5c-4ee35732633c,3e13d84f-633b-4d5d-a952-936e5ff79853,large chai latte,2.60
+ba3df4be-9205-4d70-8c8f-f1b8f3d10744,136d439f-edc1-4006-966b-40bfe7999f73,large speciality tea - english breakfast,1.60
+4657b5b0-136f-46d2-99a8-def89b5c0741,136d439f-edc1-4006-966b-40bfe7999f73,large hot chocolate,1.70
+36310881-e205-4c0b-9bc0-99d12ec8ba3e,136d439f-edc1-4006-966b-40bfe7999f73,regular chai latte,2.30
+71532b4d-ca14-4343-ac76-50805b491076,136d439f-edc1-4006-966b-40bfe7999f73,large hot chocolate,1.70
+ca2cccf6-0a85-42eb-9998-8a878706dd4f,39d7a07b-b378-4242-94ec-9ce65b2eece7,regular filter coffee,1.50
+16705170-7553-42b9-bc6d-6974b876999e,094e4a0e-9109-4919-838e-ba3e745ebdb3,large filter coffee,1.80
+0cf0aae1-f5d5-441e-9603-4f770c6db006,094e4a0e-9109-4919-838e-ba3e745ebdb3,regular iced americano,2.15
+bf9731f3-2052-4afa-a62c-3462e80f8370,ae04372f-b510-42db-b2da-4fe48805fb08,large speciality tea - english breakfast,1.60
+ccf94d17-dce7-41e4-bd1e-b9df010bad64,1e8ec5a0-4d4d-493e-b751-fa526a412dee,large iced americano,2.50
+1f24f2ef-4786-4f91-94b7-c316697e842d,1e8ec5a0-4d4d-493e-b751-fa526a412dee,regular hot chocolate,1.40
+e009c1ac-1fea-4f28-b1cd-cf373bc044bd,302ad052-3156-473d-800f-9a192b04b820,large chai latte,2.60
+f6fb8941-3cd5-4dab-997f-ef4ecd269b21,302ad052-3156-473d-800f-9a192b04b820,large chai latte,2.60
+0aa1ca02-2502-44da-b3ee-4cfc9c0e9a5e,da4b90d9-efcc-4acf-9ef0-12c3680b9e7b,large iced americano,2.50
+bc18b469-19fd-4b77-97f4-5c31032fbfe8,da4b90d9-efcc-4acf-9ef0-12c3680b9e7b,large chai latte,2.60
+c2f3a1e7-544e-45a9-8241-8686bb6d2952,da4b90d9-efcc-4acf-9ef0-12c3680b9e7b,regular speciality tea - english breakfast,1.30
+9461b7d2-2713-483b-8dba-5e4118784afe,da4b90d9-efcc-4acf-9ef0-12c3680b9e7b,regular filter coffee,1.50
+429c3023-3fe7-4937-94ca-3009d62edd56,2fee1f10-6ff6-4a49-a216-6f2fa7266363,regular chai latte,2.30
+7701b8f5-efd6-4974-b563-ede135cf58fb,2fee1f10-6ff6-4a49-a216-6f2fa7266363,regular hot chocolate,1.40
+2d275479-ba90-4b1a-be8e-deb7cc141463,2fee1f10-6ff6-4a49-a216-6f2fa7266363,regular chai latte,2.30
+f59eb05d-47da-41f1-a959-de49a4292f6e,2fee1f10-6ff6-4a49-a216-6f2fa7266363,regular iced americano,2.15
+ff898afc-adcf-4bbc-bd58-fddf23409ef9,2fee1f10-6ff6-4a49-a216-6f2fa7266363,regular iced americano,2.15
+3c11e56d-e66d-4bd1-a6d0-a09ef38b7e41,7b9284fe-765c-4817-8d10-f811e4a2c9d2,regular filter coffee,1.50
+09b6b194-6261-4779-94f5-63b0f95f1901,7b9284fe-765c-4817-8d10-f811e4a2c9d2,large filter coffee,1.80
+fff6a0c2-3324-4fcd-a989-97a48e7b8780,1149c1ca-e062-4254-a462-bcbb8da0f1dd,regular hot chocolate,1.40
+d16d0df7-3bee-4c22-b994-77f6f3439485,1149c1ca-e062-4254-a462-bcbb8da0f1dd,large speciality tea - english breakfast,1.60
+e3938dfb-ff79-433d-95c7-20f82742dfab,d2d98c2d-abb9-46db-a7e3-504f29d3ec4c,regular speciality tea - english breakfast,1.30
+fbcc1118-3658-497e-a112-b8bb4fe359ec,d2d98c2d-abb9-46db-a7e3-504f29d3ec4c,large hot chocolate,1.70
+62aab47c-db86-4c0b-97f2-ef15c97a79a4,d2d98c2d-abb9-46db-a7e3-504f29d3ec4c,large speciality tea - english breakfast,1.60
+70d191c8-387a-4494-a793-af776d0a8224,d2d98c2d-abb9-46db-a7e3-504f29d3ec4c,large chai latte,2.60
+05788286-2477-460b-921d-9412757cdba2,c0e22986-d85e-49c6-ba1a-32ccf3e49da6,regular chai latte,2.30
+e4d61320-c1d5-484b-a105-035075378dea,c0e22986-d85e-49c6-ba1a-32ccf3e49da6,regular filter coffee,1.50
+7fc420c9-45f4-4a79-abbb-6e08ff79abcf,765f0f39-640a-4930-8ace-c74ee68662b5,large hot chocolate,1.70
+9d1cd949-2a67-456b-906a-955f1ddb8fcd,17dc8b95-3e88-4a2e-ac98-aa9d5871ef73,large chai latte,2.60
+6174eb48-4c40-4eda-b2e9-b6bd624e2ee8,17dc8b95-3e88-4a2e-ac98-aa9d5871ef73,regular speciality tea - english breakfast,1.30
+029a6f73-5aa1-410e-a4c1-4f3f2be766d3,c37d663a-558c-454f-b0ac-9e7fd8375d74,regular filter coffee,1.50
+75cdcc74-b843-46c6-910e-66135d9c04f9,c37d663a-558c-454f-b0ac-9e7fd8375d74,large iced americano,2.50
+13bd2717-6176-40c7-9c0f-2a1f547bdda8,c37d663a-558c-454f-b0ac-9e7fd8375d74,regular speciality tea - english breakfast,1.30
+4874aed1-357d-45fa-ad5f-2ad205e1c553,c37d663a-558c-454f-b0ac-9e7fd8375d74,regular filter coffee,1.50
+34c0eb31-8ba5-482c-8429-23e4c8cd3de0,c37d663a-558c-454f-b0ac-9e7fd8375d74,large hot chocolate,1.70
+01015a77-fae1-44f5-8743-81c7a58107df,362c6401-af17-446e-96dd-46a8f1f3b5d3,regular speciality tea - english breakfast,1.30
+d9a39cc5-b405-49d3-a072-ae3b0a27dd86,362c6401-af17-446e-96dd-46a8f1f3b5d3,large iced americano,2.50
+55e83a8d-c096-4836-9d91-f6de8b27077c,362c6401-af17-446e-96dd-46a8f1f3b5d3,large iced americano,2.50
+aae33b80-3452-4ca9-89eb-99da2bef4f31,362c6401-af17-446e-96dd-46a8f1f3b5d3,large chai latte,2.60
+39feb4c4-d02a-4652-8d17-9a86e75e4157,362c6401-af17-446e-96dd-46a8f1f3b5d3,regular iced americano,2.15
+78b8d34f-71ab-4e02-be1a-a2df67582f80,2d09f885-23ce-409f-aa22-c2e856d61ccc,large hot chocolate,1.70
+ac2675cd-317b-4db5-b474-f6df4983fe74,2d09f885-23ce-409f-aa22-c2e856d61ccc,regular speciality tea - english breakfast,1.30
+ed6353ac-4678-4291-828d-4b711da7fb44,7922b62c-3477-4967-b290-ed9510a18759,large speciality tea - english breakfast,1.60
+f12d3743-f3ba-44a6-8b4f-c1d2e4c8f7ae,7922b62c-3477-4967-b290-ed9510a18759,regular iced americano,2.15
+c3141db6-22a6-4103-b842-1adffe5b0a23,eabd1d57-0a87-4089-b104-09d3f8ffc122,large chai latte,2.60
+bb507fd2-11d2-4e34-b7b2-e64325ef7c50,eabd1d57-0a87-4089-b104-09d3f8ffc122,regular filter coffee,1.50
+714b8ba9-b20f-41b4-be42-2eb13938422f,eabd1d57-0a87-4089-b104-09d3f8ffc122,regular iced americano,2.15
+ab694807-c1a3-44de-a370-2842377559d7,8e8928ee-cfe7-4b38-ac2c-b1131d12be57,regular chai latte,2.30
+68c9ea51-65c5-4129-98bd-4673194938fd,8e8928ee-cfe7-4b38-ac2c-b1131d12be57,large filter coffee,1.80
+c884ac46-18d0-4781-8c65-697370ca4d8e,8e8928ee-cfe7-4b38-ac2c-b1131d12be57,regular hot chocolate,1.40
+43d086d1-e869-4e33-8985-722d1ae1b4e5,8e8928ee-cfe7-4b38-ac2c-b1131d12be57,large filter coffee,1.80
+612b3c42-f031-4fab-bcc4-201f0464bab7,8e8928ee-cfe7-4b38-ac2c-b1131d12be57,large speciality tea - english breakfast,1.60
+bba29c01-aa2a-4af7-a472-ab3e591c5b96,4b57fc50-1eb3-4099-af30-67ba0727e4ec,large chai latte,2.60
+7fc5d58d-c3b5-48cf-a19d-b9e6cceadadf,4b57fc50-1eb3-4099-af30-67ba0727e4ec,regular filter coffee,1.50
+69060ecc-3cdc-4b88-bde5-ffb3757200a0,4b57fc50-1eb3-4099-af30-67ba0727e4ec,regular filter coffee,1.50
+1e7e4622-2a7b-4f71-a531-8fa62bca5aea,4b57fc50-1eb3-4099-af30-67ba0727e4ec,large hot chocolate,1.70
+fadeadc6-0d74-4d72-8910-7e98db8eda30,e60b6371-25a0-478a-a18e-7ef7752c79e3,large iced americano,2.50
+9936ebf6-dedb-4326-9b33-a95620b9b638,e60b6371-25a0-478a-a18e-7ef7752c79e3,large filter coffee,1.80
+9797b785-79a4-4c2c-95ec-4de710617952,e60b6371-25a0-478a-a18e-7ef7752c79e3,large filter coffee,1.80
+7ebec8fa-8429-48de-b4db-88e4256030c3,e60b6371-25a0-478a-a18e-7ef7752c79e3,large chai latte,2.60
+6fefee1d-8688-46af-9e52-4f8e652d75b4,e60b6371-25a0-478a-a18e-7ef7752c79e3,large chai latte,2.60
+3f316bc6-5432-41d0-81aa-921d5d69af29,e60b6371-25a0-478a-a18e-7ef7752c79e3,large hot chocolate,1.70
+94f86f43-abc8-4769-b0f4-718fa315a01a,d03cb369-606a-4577-96a4-cfa41d612937,large filter coffee,1.80
+2cf610aa-112b-477a-afa2-29019ebdb3d9,d03cb369-606a-4577-96a4-cfa41d612937,large chai latte,2.60
+788e1597-649a-479c-a432-0ae8717e246d,d03cb369-606a-4577-96a4-cfa41d612937,regular chai latte,2.30
+e36c3bc8-a1c6-4f2d-937e-c349a77472ae,e987c151-2c50-4368-86ba-931b4eccfe59,regular hot chocolate,1.40
+3be95d1a-cd4b-4dc5-a914-7f7b8b17e9f3,b6005811-5aa3-4e81-b1b7-151b1618dc05,large hot chocolate,1.70
+11486a36-d3f6-47fb-9e15-3e5482f0e507,b6005811-5aa3-4e81-b1b7-151b1618dc05,large chai latte,2.60
+211903f0-4c93-4c96-ac62-3d5bde9f03cf,b6005811-5aa3-4e81-b1b7-151b1618dc05,large filter coffee,1.80
+c4b81c5d-81d2-439d-b832-e86a5a0b954d,c93f0a54-e082-4bda-968d-ae52967a5004,large filter coffee,1.80
+ddab1265-206c-479f-9c7f-3a87462c5742,567ad1c0-afa0-4311-a95e-0489abe827e2,regular filter coffee,1.50
+b3b296c6-0abf-4442-8f8c-c208fc22bd96,aadc28e6-487a-4f53-ac74-f6c81f46d502,regular iced americano,2.15
+8f4a55f8-0e36-4c87-8862-7b308b2a77bf,bddb2977-832b-4ef0-a9db-b901a2df4361,large iced americano,2.50
+8c1e75af-39ea-4a4c-80c0-1a14c4da85b1,bddb2977-832b-4ef0-a9db-b901a2df4361,regular filter coffee,1.50
+f16fdfd8-45f7-4671-89e8-8695f3036664,bddb2977-832b-4ef0-a9db-b901a2df4361,large filter coffee,1.80
+b804d308-8860-4894-b97b-4d9cdeccf990,3c2b0deb-d9d9-4137-8e17-75e9af31c8c1,regular chai latte,2.30
+5b82baab-8420-4549-8f69-42e95c00d48b,3c2b0deb-d9d9-4137-8e17-75e9af31c8c1,large speciality tea - english breakfast,1.60
+9c54c4c5-ef2e-43b9-ac86-5aba5533879d,3c2b0deb-d9d9-4137-8e17-75e9af31c8c1,regular speciality tea - english breakfast,1.30
+0dd2d4cc-cdc7-4cc9-9fd4-d9dfed2b1c8a,3c2b0deb-d9d9-4137-8e17-75e9af31c8c1,large speciality tea - english breakfast,1.60
+dd812113-3789-4b6c-972e-4452583e1bb3,24fa6d7d-3bba-4068-b2a6-d01a80957fdd,large hot chocolate,1.70
+defe3038-748e-4598-9eae-27cfbc592d50,24fa6d7d-3bba-4068-b2a6-d01a80957fdd,large speciality tea - english breakfast,1.60
+a1ab4117-a26c-406b-b25a-5f446c5fd3e6,24fa6d7d-3bba-4068-b2a6-d01a80957fdd,large chai latte,2.60
+30558729-98cf-4aae-be45-3295bb0565ca,24fa6d7d-3bba-4068-b2a6-d01a80957fdd,large iced americano,2.50
+00034933-37e4-44c6-8cd9-ff2b757a6876,2bce5dd1-64bb-46a6-9258-de78dd5ca16a,regular speciality tea - english breakfast,1.30
+e034bdb2-871f-4017-af64-80a1d46ab104,2bce5dd1-64bb-46a6-9258-de78dd5ca16a,regular hot chocolate,1.40
+5651538f-7965-45fe-8c46-54da91538884,668c840e-1ec6-4483-bb82-23007daefca0,regular speciality tea - english breakfast,1.30
+dd6e99a9-60f2-433b-947f-a344ea3bf61f,668c840e-1ec6-4483-bb82-23007daefca0,large speciality tea - english breakfast,1.60
+88ea6f09-d1cb-4b7a-8914-e34cabdcfe7d,668c840e-1ec6-4483-bb82-23007daefca0,large iced americano,2.50
+fdd7c29e-5617-488b-84a2-8c403f8098d7,668c840e-1ec6-4483-bb82-23007daefca0,regular speciality tea - english breakfast,1.30
+aac0c644-761d-415b-ada4-f36c4021931b,58e1b83e-eeb5-4888-947a-8fb439d1a87a,large iced americano,2.50
+38537374-84ac-44c7-864b-6184f6785334,58e1b83e-eeb5-4888-947a-8fb439d1a87a,large speciality tea - english breakfast,1.60
+fdbe059f-7ad9-41e8-a50c-cc5413fa93aa,78caccf8-155a-4115-a2d2-57c99be9c989,regular iced americano,2.15
+7ba47060-ec4f-49bf-b932-768b2ffbaed9,78caccf8-155a-4115-a2d2-57c99be9c989,regular hot chocolate,1.40
+6c762ccc-845b-4e85-b62f-6884ebbc8a84,edfa83d6-78e6-4afb-83ae-ab580e39ea2d,large chai latte,2.60
+b51f5b79-2d64-488c-b59e-0cf1bb951330,edfa83d6-78e6-4afb-83ae-ab580e39ea2d,large hot chocolate,1.70
+df16b1cf-9b11-4748-afb3-da0c72aac4b9,edfa83d6-78e6-4afb-83ae-ab580e39ea2d,regular filter coffee,1.50
+4eba9c37-d966-42c1-8929-e521df248cc5,fa8466fe-3748-4fb9-91bc-e5151bca5576,large filter coffee,1.80
+0def3761-d13d-4c07-99d1-3c4666354ad9,fa8466fe-3748-4fb9-91bc-e5151bca5576,regular iced americano,2.15
+1beb4452-4160-410e-9a82-212426bf1df5,fa8466fe-3748-4fb9-91bc-e5151bca5576,regular iced americano,2.15
+77726bf5-d1f0-42be-9f8e-c4ec38857667,fa8466fe-3748-4fb9-91bc-e5151bca5576,large filter coffee,1.80
+ad991822-4b7d-4371-b9f6-f8be8478c850,fa8466fe-3748-4fb9-91bc-e5151bca5576,large iced americano,2.50
+93dfe3b9-2a20-42dc-8413-2fcc4b15e387,31b40228-733f-4d32-b3c7-2e48e1e77b5a,large filter coffee,1.80
+a1a9b0c2-b718-4dc1-a3db-93c3f3dfa1aa,31b40228-733f-4d32-b3c7-2e48e1e77b5a,large chai latte,2.60
+f8f39195-5c45-4e74-ac14-0ba740e39726,31b40228-733f-4d32-b3c7-2e48e1e77b5a,large speciality tea - english breakfast,1.60
+0b51e73d-dcec-460e-8baa-a9cca866bd60,35778e2f-aebd-4fda-b1be-dd8122808de8,regular chai latte,2.30
+c4193f9b-0f40-47c8-a978-cc9c227dd78c,35778e2f-aebd-4fda-b1be-dd8122808de8,regular chai latte,2.30
+b28bc81d-5fe6-40d8-ac58-84c2428171ba,35778e2f-aebd-4fda-b1be-dd8122808de8,regular filter coffee,1.50
+0711f7ad-181b-45bf-895e-0634fc563a3e,35778e2f-aebd-4fda-b1be-dd8122808de8,regular speciality tea - english breakfast,1.30
+df422441-7e8a-4b3a-bd0a-58530466e8ea,35778e2f-aebd-4fda-b1be-dd8122808de8,regular filter coffee,1.50
+4d6d6be0-8fb9-47f1-8517-3f524fdbb0e3,35778e2f-aebd-4fda-b1be-dd8122808de8,large filter coffee,1.80
+47b2bb4e-3351-4a12-bd20-e07b31598746,1a496373-e1c7-4c8e-a259-325472a1f38a,regular hot chocolate,1.40
+6f9279a6-2c70-4c55-9374-cbd53b8b104e,1a496373-e1c7-4c8e-a259-325472a1f38a,regular iced americano,2.15
+f034f056-33c9-4a8b-85c9-ea2ce1696016,1a496373-e1c7-4c8e-a259-325472a1f38a,regular iced americano,2.15
+2fedfbd5-c803-4641-b5cb-eaec4cbf797b,1a496373-e1c7-4c8e-a259-325472a1f38a,large chai latte,2.60
+bfbb606c-2003-4001-952b-abce27c79a09,13cb39e4-0fe7-4cf4-913e-ee2b52fcc3f3,large speciality tea - english breakfast,1.60
+658fc1fd-5eb1-4db4-a6bc-e82d73507e86,13cb39e4-0fe7-4cf4-913e-ee2b52fcc3f3,regular speciality tea - english breakfast,1.30
+c349cdfc-c781-4de1-ad93-cfc78a5a6bd5,c05d9ce5-3b24-4d30-a8f6-d05693db47eb,regular filter coffee,1.50
+834d4a14-d8a2-4bfc-8459-50972bd148ff,c05d9ce5-3b24-4d30-a8f6-d05693db47eb,large chai latte,2.60
+8c303e10-72cb-4278-8281-a0074deeca24,c05d9ce5-3b24-4d30-a8f6-d05693db47eb,regular filter coffee,1.50
+d320e8e7-9389-4abc-b77a-a4afebc4877e,7fc6a3f3-9d6e-4052-822e-53b769779cfa,regular chai latte,2.30
+38812490-0dc1-427d-8c47-411dabcdbd45,4b9fa05c-5fbe-44e6-80d7-b80f4ff22731,large filter coffee,1.80
+05e094e4-ca59-4e26-9e4a-7c8877b6450f,4b9fa05c-5fbe-44e6-80d7-b80f4ff22731,large speciality tea - english breakfast,1.60
+5a00860e-d5a5-4ba0-b900-1426c6105e2d,4b9fa05c-5fbe-44e6-80d7-b80f4ff22731,regular hot chocolate,1.40
+9cd151bc-0a39-48db-85c4-85d71fb32d0a,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,regular filter coffee,1.50
+cba6420f-a84c-4143-9e80-11eaa42cd6e6,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,large chai latte,2.60
+ded0c3b6-bcfd-4e39-a196-9722c84b90e1,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,large hot chocolate,1.70
+f6a7323f-cdcc-4a26-abd4-59b7982d6289,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,large filter coffee,1.80
+f2460b6d-6123-4fce-8fb1-4d206d4c09ec,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,large iced americano,2.50
+c1e73c7d-18f5-499c-8a82-8b27c893c60b,c4a6b4ac-a1a6-4024-949a-574aaf87a9a7,large filter coffee,1.80
+97d1a571-599d-41a7-b796-8f8414c42222,4830e442-99a0-4748-a075-edf5ad12e148,regular iced americano,2.15
+ed9f75df-3972-45df-8e1e-38f7dfc44345,952b04ab-fc17-4f83-873b-d235642a69bf,large filter coffee,1.80
+c6d75466-5c65-4c52-bf25-4e9fd126dddc,952b04ab-fc17-4f83-873b-d235642a69bf,large filter coffee,1.80
+d54e7ebb-d765-4bf0-b8e2-4b88c85251d1,dd5d3a6e-3c2d-48fb-bebf-9c7778d682c3,regular speciality tea - english breakfast,1.30
+099156ab-e8fe-4215-8f9e-f4b0b4984a02,dd5d3a6e-3c2d-48fb-bebf-9c7778d682c3,regular filter coffee,1.50
+1e6dee6a-aa03-4aad-a915-73c4fd3df4b3,dd5d3a6e-3c2d-48fb-bebf-9c7778d682c3,large filter coffee,1.80
+74a31ff4-6fbb-4bf7-95b0-5b6ce1d03d2f,dd5d3a6e-3c2d-48fb-bebf-9c7778d682c3,regular filter coffee,1.50
+e37b2165-211c-4151-9eee-e90494ac2a4d,bd50aa25-464f-463c-9314-9b2263853e44,large chai latte,2.60
+9d02dd8e-77d7-43f2-a693-57e0be9cdc64,783ed086-60f1-4a35-ba06-93a2d887088b,large iced americano,2.50
+bac7fcf4-de0e-4335-8974-3088968c5616,783ed086-60f1-4a35-ba06-93a2d887088b,large speciality tea - english breakfast,1.60
+56777772-9535-4de9-b1f0-45df1b5e1f8a,fe6a1af6-1997-4495-9a06-d04fa4cf1c6e,regular filter coffee,1.50
+e716dd57-b512-4cbe-9983-0ad9009991d5,ece31dfc-cdc3-4e88-bdcf-f00a86f3d0ee,regular chai latte,2.30
+f2a320bc-9c5e-45f8-ad7c-bfdea6cfc27a,4734e7a2-2b7a-474e-8edc-79132ca4a789,large filter coffee,1.80
+7655fc72-5bb5-4b96-945f-f7517c8c7a9e,4734e7a2-2b7a-474e-8edc-79132ca4a789,regular filter coffee,1.50
+4678b93c-af24-4545-aaab-ff83809a257b,4734e7a2-2b7a-474e-8edc-79132ca4a789,regular iced americano,2.15
+0a2383bb-0169-4bee-a202-dbfd0107a272,4734e7a2-2b7a-474e-8edc-79132ca4a789,large chai latte,2.60
+1e9626d2-1c94-4618-907c-adee219dd00c,4734e7a2-2b7a-474e-8edc-79132ca4a789,large hot chocolate,1.70
+3b640e1e-2293-4f7c-9618-50c1f2526ff1,4734e7a2-2b7a-474e-8edc-79132ca4a789,large iced americano,2.50
+76b3d119-fde0-4f93-8d9f-ecca7b98a5f9,c032a8cb-4a3a-4b7c-a680-ee30c9411de0,regular iced americano,2.15
+6a9e8998-4ec6-4cdb-983f-424f720c8324,c032a8cb-4a3a-4b7c-a680-ee30c9411de0,regular iced americano,2.15
+a4acc00b-ce90-4b3b-9be1-131cc8ea4db1,c032a8cb-4a3a-4b7c-a680-ee30c9411de0,regular speciality tea - english breakfast,1.30
+8551df2e-7693-493c-8288-dc9c10589911,80c565be-962f-4f98-be8c-bc8f87ffeac9,large iced americano,2.50
+bab82346-926a-4608-9449-a58d945782ea,80c565be-962f-4f98-be8c-bc8f87ffeac9,regular hot chocolate,1.40
+67faf4eb-436c-4be0-a107-ff5cbaaa10ac,80c565be-962f-4f98-be8c-bc8f87ffeac9,regular chai latte,2.30
+58ad7d79-85db-4f92-97c4-d1bd5ec78c60,80c565be-962f-4f98-be8c-bc8f87ffeac9,large filter coffee,1.80
+46b0c861-f164-4585-a353-e8c50ead759c,8eb303f5-5a29-4751-ab48-030050bdc915,large iced americano,2.50
+2ec4299e-fdb9-4877-be71-e773555d8db0,5948873a-f379-4c0e-aa08-2e2f3955f6ac,regular speciality tea - english breakfast,1.30
+c35140e6-7838-484a-8173-13ec740f8f33,5948873a-f379-4c0e-aa08-2e2f3955f6ac,regular chai latte,2.30
+9513ac03-1091-45d4-ac9d-4f2f0d9c9e11,5c390b00-b5a6-4ec7-8e59-4490b5f744de,regular speciality tea - english breakfast,1.30
+f7d930c0-3cf8-41cd-ae98-679a0a52e35f,f5748744-6c5a-4fb1-aec5-6699154b0407,large chai latte,2.60
+0e97924f-54d6-4a22-8b2a-cfc28d342a59,f5748744-6c5a-4fb1-aec5-6699154b0407,regular filter coffee,1.50
+88c08e84-66e0-4db7-9a9b-6c36cafcecc3,f5748744-6c5a-4fb1-aec5-6699154b0407,large speciality tea - english breakfast,1.60
+faa9f936-8318-49de-a48f-cae63725640e,88cf5264-ab18-4f1e-bda2-18aa3c3e1b61,regular speciality tea - english breakfast,1.30
+069c0e0e-9305-49b5-96aa-67411a5e509e,88cf5264-ab18-4f1e-bda2-18aa3c3e1b61,regular speciality tea - english breakfast,1.30
+c4618d49-6203-41d2-b1cd-b669511d54c3,88cf5264-ab18-4f1e-bda2-18aa3c3e1b61,regular filter coffee,1.50
+0868c8e9-5df1-4b8d-8e5f-2c508fcba018,5479a201-8993-41d8-b091-75e5b50ee0ab,regular speciality tea - english breakfast,1.30
+fdd65dfb-5da7-4e93-bdb2-e39fbcf13383,5479a201-8993-41d8-b091-75e5b50ee0ab,regular filter coffee,1.50
+b6c1deef-b299-462c-bd48-3a9bfcb06f9f,1601aba1-4794-4fa7-bd86-8857e508a596,regular chai latte,2.30
+1439a24c-5c9d-4fd6-abfe-df446cb4120b,c0b8b5c8-67a9-4589-a21d-5d2382566893,large filter coffee,1.80
+71e5f226-b24b-4e29-a14c-f6f4b02c13e8,7386d910-0c56-4cc3-a519-c6353db680d1,large chai latte,2.60
+7c4883ba-d898-499e-95f0-46e46679bce7,7386d910-0c56-4cc3-a519-c6353db680d1,large chai latte,2.60
+c260f801-a3d3-4775-add1-1089f311ce16,7873a7d2-a65c-4d0f-b556-d47b16b7df40,large chai latte,2.60
+9a7389ce-d3c6-4d82-ba8c-40741ffa5e23,d460c975-c2eb-498c-96e0-d66c2e900f82,large chai latte,2.60
+504701be-b29c-4ef8-9cd7-6340ea2d98ed,d460c975-c2eb-498c-96e0-d66c2e900f82,large iced americano,2.50
+baa4b561-49af-448e-abe0-893573c530d3,bf55d324-a563-410b-8921-ef99416be897,large iced americano,2.50
+d6f5a8fc-40db-4f0d-8aca-1243520ee25e,bf55d324-a563-410b-8921-ef99416be897,large filter coffee,1.80
+1113eed2-6184-4a72-9e81-3f0a06b2141b,b6a513c8-5585-476c-8b65-89cba45865bb,regular speciality tea - english breakfast,1.30
+87221bdd-066c-47f6-9824-5a772cbb020b,b6a513c8-5585-476c-8b65-89cba45865bb,regular hot chocolate,1.40
+1937ecdf-401c-45fe-88ce-3af3ee89e6b3,31566c3f-9aa5-41b5-983a-dcd2008c03da,large hot chocolate,1.70
+44cc9161-1f81-4620-a95d-fa5a2f50419f,31566c3f-9aa5-41b5-983a-dcd2008c03da,regular hot chocolate,1.40
+1edba05b-6c43-422b-b2af-475b7946b19c,31566c3f-9aa5-41b5-983a-dcd2008c03da,large hot chocolate,1.70
+65f9f8ff-c2fc-43b6-8995-fcb90b057d61,31566c3f-9aa5-41b5-983a-dcd2008c03da,large hot chocolate,1.70
+49142614-37dd-45ce-82a9-9d1660d95832,31566c3f-9aa5-41b5-983a-dcd2008c03da,regular speciality tea - english breakfast,1.30
+2d5fe2de-0ee6-4bb6-a057-370fefd5e4ab,2050f9e7-6f4d-4ae3-a767-295a35d0b34b,regular filter coffee,1.50
+fe88ab71-2bf8-4e64-a268-5b915fc5ce53,abdd137d-d9ed-4c8e-8cb1-f5b1a1c5c84d,regular iced americano,2.15
+ffcd0480-af6c-49b5-a010-4a288ab34db7,abdd137d-d9ed-4c8e-8cb1-f5b1a1c5c84d,large filter coffee,1.80
+ab1bf018-6729-44f7-956d-1c1f31b6448c,abdd137d-d9ed-4c8e-8cb1-f5b1a1c5c84d,large chai latte,2.60
+ed0d0b58-505c-4aef-9b43-3ed433802fe8,abdd137d-d9ed-4c8e-8cb1-f5b1a1c5c84d,large iced americano,2.50
+b91ee102-f8a8-419c-8568-9e3918f0caa0,6fd39787-aaed-4952-8c64-3f4c93aeb261,large filter coffee,1.80
+c12ff50a-35f9-4315-a070-b1e1e26420c9,d8bc157a-cc91-49be-b3ef-4813a11c1ace,regular hot chocolate,1.40
+be437796-6454-46d3-b84e-9d643906a85b,d8bc157a-cc91-49be-b3ef-4813a11c1ace,large hot chocolate,1.70
+4d026af0-aa73-4fd8-9acc-ca42870ceee2,bd8fef36-a956-4819-952d-d8214df0bcf0,large iced americano,2.50
+1a0173e3-bbc9-431a-8f54-811ef3832c43,bd8fef36-a956-4819-952d-d8214df0bcf0,large chai latte,2.60
+f41832ca-4972-46c6-8239-bd9e25235edd,ccbf0d7b-6416-49f6-afd9-2df4ef451891,regular filter coffee,1.50
+151f1124-7465-4ce9-898a-4bc3a4653e04,ccbf0d7b-6416-49f6-afd9-2df4ef451891,large speciality tea - english breakfast,1.60
+1946b015-6309-44fd-964e-28b2c85897ad,350b0063-b4a4-4cd0-9dbc-62730f375b83,large speciality tea - english breakfast,1.60
+9741515f-da41-41fa-ac65-e94ad101e3b8,350b0063-b4a4-4cd0-9dbc-62730f375b83,regular speciality tea - english breakfast,1.30
+dd3097d9-62ca-4eb9-888a-b747b53ceb5b,350b0063-b4a4-4cd0-9dbc-62730f375b83,regular chai latte,2.30
+dfbe7327-1a48-4ac0-940a-694e54c4f061,350b0063-b4a4-4cd0-9dbc-62730f375b83,large iced americano,2.50
+24287f9d-a9c1-4b90-8234-af1812662469,350b0063-b4a4-4cd0-9dbc-62730f375b83,regular hot chocolate,1.40
+f74fc623-99df-46d3-a82e-fab37216642c,a6567a3d-7e3e-47cc-b4a5-40cf0eb178b4,large hot chocolate,1.70
+533b4e89-33d8-4c3e-abb6-cf1c0f23085a,a6567a3d-7e3e-47cc-b4a5-40cf0eb178b4,regular speciality tea - english breakfast,1.30
+657d5306-c8ae-40b4-b1f4-b983e53e4766,a6567a3d-7e3e-47cc-b4a5-40cf0eb178b4,regular filter coffee,1.50
+821560e9-039a-4cab-9d65-a782848f9f54,a6567a3d-7e3e-47cc-b4a5-40cf0eb178b4,regular chai latte,2.30
+aa12ef84-8858-41fc-8593-99bb506f8b36,18c30224-f8e8-49c5-83cb-50b1e658e482,large iced americano,2.50
+d0daf181-f00d-430d-a7ac-61b56df38801,63493143-615a-4add-a80b-34aa2580bc78,large iced americano,2.50
+44572441-422a-4bb4-9689-3bc8da2b4239,63493143-615a-4add-a80b-34aa2580bc78,regular hot chocolate,1.40
+2986de7b-00c5-4ce9-9515-db32381fd41b,1dfa1e6c-c97e-4b12-83e1-46980736d8fd,large chai latte,2.60
+e3724035-db83-45b4-98a8-6559ffd107b9,1dfa1e6c-c97e-4b12-83e1-46980736d8fd,regular filter coffee,1.50
+c0f4c7b8-8c27-44f9-9e50-5f2d23616439,1dfa1e6c-c97e-4b12-83e1-46980736d8fd,large filter coffee,1.80
+a2053f4c-b9f7-44d1-86cc-eef112afeb63,1dfa1e6c-c97e-4b12-83e1-46980736d8fd,regular iced americano,2.15
+246bbf30-d48a-47b4-997f-5503402452a8,1dfa1e6c-c97e-4b12-83e1-46980736d8fd,large filter coffee,1.80
+24105664-95e4-40db-81a4-b464417739b7,bf020122-3b23-45ec-952a-57520fb48b05,large iced americano,2.50
+1cb1d238-17a2-4f09-913c-03d0c9fbc25a,bf020122-3b23-45ec-952a-57520fb48b05,large iced americano,2.50
+042eab67-6ef8-4b27-ba22-0cac479a4795,bf020122-3b23-45ec-952a-57520fb48b05,regular hot chocolate,1.40
+eb1c8d6c-3679-433a-8982-c4e75dbb3e0c,22057b8f-f2f4-471a-a6ab-6bc24763c19d,large filter coffee,1.80
+91c384f5-eac8-401c-a665-40b9c05e8545,22057b8f-f2f4-471a-a6ab-6bc24763c19d,regular chai latte,2.30
+331a5e83-461c-49c2-b5b4-d067962af6ff,22057b8f-f2f4-471a-a6ab-6bc24763c19d,large filter coffee,1.80
+acb4b8fc-8534-4cec-8de7-55c58980786e,22057b8f-f2f4-471a-a6ab-6bc24763c19d,large hot chocolate,1.70
+940b97a0-5ecd-40f1-8a33-ae1e7e30540d,e7fb86f9-1d2a-4819-a31a-355be61f1bd6,regular speciality tea - english breakfast,1.30
+d6364654-1a75-4ffe-92a2-2b79f2c33621,60f4f9ca-79d6-4a92-9513-a9e775a5a2be,regular chai latte,2.30
+c9db70aa-f4c1-400d-8c6a-01c9a13f4a25,60f4f9ca-79d6-4a92-9513-a9e775a5a2be,regular hot chocolate,1.40
+2c2e341e-38bd-4977-9f6b-6f8e11011ba5,1a1bfdf3-1f32-422e-b726-1855f7e853f1,regular chai latte,2.30
+08deb84b-29d6-4539-a4be-ddfeea094d2f,1a1bfdf3-1f32-422e-b726-1855f7e853f1,large hot chocolate,1.70
+4914aef4-ded1-4aa9-8e31-06bdf88a21f6,1a1bfdf3-1f32-422e-b726-1855f7e853f1,large speciality tea - english breakfast,1.60
+fdedd157-90b6-4f6a-80e1-5ac0f1274d68,1a1bfdf3-1f32-422e-b726-1855f7e853f1,regular chai latte,2.30
+cdb1e02c-a621-4a41-8bb5-ed27f7382488,0034514e-6264-40d3-b239-cfe057ec0c15,regular speciality tea - english breakfast,1.30
+73775be6-df20-48f7-a82b-93acbc476bd2,0034514e-6264-40d3-b239-cfe057ec0c15,large iced americano,2.50
+4a0e8fef-1960-4b2a-becc-261c25a4fd65,0034514e-6264-40d3-b239-cfe057ec0c15,regular chai latte,2.30
+928ce4e6-3979-4de5-b6f0-a0673a50895e,ff1d70eb-b109-4fb8-8405-6a99da548bd4,regular chai latte,2.30
+3b9b15d8-19a0-4481-a6c4-4b4c79aa8062,f8109aaf-7b6f-44ca-8328-de5e2bb1ec6e,large iced americano,2.50
+b5df72b4-0a5b-4c32-bb28-b559c82221e7,f8109aaf-7b6f-44ca-8328-de5e2bb1ec6e,regular filter coffee,1.50
+7b10179b-a191-4fc0-9f0d-5f69733de704,bb3595fe-1247-4d91-a2b4-4336f826e575,regular filter coffee,1.50
+dbd7adbe-be1c-41fa-bf11-46bfc72a69e2,bb3595fe-1247-4d91-a2b4-4336f826e575,large iced americano,2.50
+9720b3bb-9803-4ae0-ae1f-27c35e03a561,2364aa3c-8252-46de-a4b9-34776d2e1b00,regular iced americano,2.15
+0fd12401-03c4-4915-ab36-b71476e7d6dd,2364aa3c-8252-46de-a4b9-34776d2e1b00,large speciality tea - english breakfast,1.60
+102fead7-f01c-42f4-b267-fd7280d38805,2364aa3c-8252-46de-a4b9-34776d2e1b00,regular chai latte,2.30
+8b5569c4-5b6e-47f5-a1f7-8b3a9e737683,f2a8687a-bad9-463b-82c4-87701f9ec06b,large speciality tea - english breakfast,1.60
+bc53e01c-b44a-43d7-87a2-b6efd12840e6,61765010-92de-492c-92ff-5750a8b272a8,regular filter coffee,1.50
+b76744b2-0e10-4432-9cb5-b3fad62088a2,61765010-92de-492c-92ff-5750a8b272a8,regular filter coffee,1.50
+3a0062a7-7936-4359-a71d-7ef633248bfb,61765010-92de-492c-92ff-5750a8b272a8,large chai latte,2.60
+57f23731-df7e-4b98-ae25-f041ff571f0c,61765010-92de-492c-92ff-5750a8b272a8,regular chai latte,2.30
+97eae91e-14dc-4e81-a165-e930f5140673,6268ffcc-94e6-4b42-9008-b3049419e3b9,large iced americano,2.50
+8ce58ed8-b72c-4461-840d-b4ab4e511321,e6c0991d-71e0-41f8-b75b-36a8a4cbb29a,large hot chocolate,1.70
+0dcfafb0-585b-4eb5-a0e4-f975a749801a,3838ecc3-98b4-4b71-870b-2cf614c45d11,regular filter coffee,1.50
+212bde38-eba0-4898-bf29-3a5819742989,3838ecc3-98b4-4b71-870b-2cf614c45d11,large chai latte,2.60
+2350f5e4-dfe4-4d9d-8a1b-f18c0fa8d502,3838ecc3-98b4-4b71-870b-2cf614c45d11,large filter coffee,1.80
+77174ee3-5ad7-41a5-ae4d-ab5e734cb86b,3838ecc3-98b4-4b71-870b-2cf614c45d11,large filter coffee,1.80
+05095b0c-e0b8-498a-a622-dd0c89255988,3838ecc3-98b4-4b71-870b-2cf614c45d11,large filter coffee,1.80
+45c780be-c572-450a-9af4-d0c23d45232f,2bec5983-e554-4ed7-8633-ae7412cdc5b2,regular filter coffee,1.50
+df1b88e2-09cf-4b8f-ab00-5235654fbef6,2bec5983-e554-4ed7-8633-ae7412cdc5b2,large chai latte,2.60
+9e6f92ce-b324-4cd4-a9e4-dc905dad8b1b,42e5498a-b338-4a5a-a45e-ce7ffeef361e,regular chai latte,2.30
+0308c975-7242-4b03-9545-2098dc360e2a,ba16cffc-4396-43f3-9090-0cf6fca58f13,large filter coffee,1.80
+f4b2808b-d209-4934-b921-b81d1d4097bd,ba16cffc-4396-43f3-9090-0cf6fca58f13,large chai latte,2.60
+0bf7f688-7144-42ae-bea1-8660b025937f,ba16cffc-4396-43f3-9090-0cf6fca58f13,regular chai latte,2.30
+63865b2d-514f-4956-941a-6f674f9400b9,ba16cffc-4396-43f3-9090-0cf6fca58f13,large chai latte,2.60
+70c1c234-229b-4b77-ae90-bfb162f21220,d410dc71-3763-4fbe-b6fb-e162d82ff813,regular filter coffee,1.50
+15032b19-1f2b-4a97-a78b-a38d20957186,d410dc71-3763-4fbe-b6fb-e162d82ff813,large hot chocolate,1.70
+0d4a4b15-d86c-43cd-9bbb-bfc4bb730d17,4c826bbe-930d-4c76-ad66-28fcb51253e2,large hot chocolate,1.70
+0894300a-16a3-4e69-a49a-a2611bd32d4c,4c826bbe-930d-4c76-ad66-28fcb51253e2,large chai latte,2.60
+a3648405-7b16-4a10-a980-2df8e56ee060,4c826bbe-930d-4c76-ad66-28fcb51253e2,regular chai latte,2.30
+b26e5e1c-713a-475c-a1f6-1f6753bd1e8f,060d3115-7927-4757-ade3-cf051ccaede5,regular chai latte,2.30
+446649df-c59f-457a-97ab-55d87eac548b,7aa2e41c-0e17-4146-b994-a599528b896d,large filter coffee,1.80
+c6a94fad-c0a3-438e-a6e9-08194d09f9e5,7aa2e41c-0e17-4146-b994-a599528b896d,regular iced americano,2.15
+67cd01af-777d-4c86-b368-a46c2b799db7,7aa2e41c-0e17-4146-b994-a599528b896d,large chai latte,2.60
+1b569879-a0b8-42f7-b4de-42111cdc978a,7aa2e41c-0e17-4146-b994-a599528b896d,regular speciality tea - english breakfast,1.30
+de1f4e69-d39c-4d69-9d41-8d0c8ddb0787,7aa2e41c-0e17-4146-b994-a599528b896d,regular filter coffee,1.50
+0c35b341-866b-4b48-afd0-dd81637674ae,6bc01896-ff5c-4d3e-9a8f-86e5352e9391,large hot chocolate,1.70
+d2cbc411-4204-4438-9889-53e26819ba26,bc5533af-23d8-4e7d-9ee0-2b9e87f17521,regular chai latte,2.30
+61a1ab81-cc41-45d3-9def-b18b2a1dfbe2,bc5533af-23d8-4e7d-9ee0-2b9e87f17521,regular chai latte,2.30
+341111db-e982-407d-afa4-3b02f3eb39f8,bc5533af-23d8-4e7d-9ee0-2b9e87f17521,regular hot chocolate,1.40
+35cc8a63-f37b-4bf6-924d-58c56b499e3e,bc5533af-23d8-4e7d-9ee0-2b9e87f17521,large iced americano,2.50
+216b5fef-924d-4569-a3ed-c99e5e3b14c6,f9ff27a1-e7a8-41cf-8557-22e22917e7e2,regular chai latte,2.30
+aefcd593-7965-475a-aae8-20da5d300f3b,f9ff27a1-e7a8-41cf-8557-22e22917e7e2,large chai latte,2.60
+0fd8e456-0c98-45d9-8bd0-63c67eb3c222,883e4d46-f6cd-417c-b4cf-360f50bb0e7f,regular hot chocolate,1.40
+c1f4d4de-c6c7-4cbf-9131-3634ef76a0a0,883e4d46-f6cd-417c-b4cf-360f50bb0e7f,regular filter coffee,1.50
+02b4b153-e3a2-4873-916f-fb4520228e37,883e4d46-f6cd-417c-b4cf-360f50bb0e7f,large speciality tea - english breakfast,1.60
+43b2e23c-8aa1-4bb2-8b26-1f4bb8041547,e07cd849-4ea6-4b16-9e22-f8660fd62f56,large chai latte,2.60
+f0f64fdd-2c04-45fa-bccf-35d79c6468b9,e07cd849-4ea6-4b16-9e22-f8660fd62f56,large iced americano,2.50
+562c68db-188b-42c8-a857-1464a396cc73,0ea3b0b9-3c58-417f-a7e3-f69ce881b325,large hot chocolate,1.70
+92c56b51-12c7-4f0f-b668-ebdc4845de27,0ea3b0b9-3c58-417f-a7e3-f69ce881b325,regular hot chocolate,1.40
+f963c94e-598a-4abc-b628-bb68340618b9,0ea3b0b9-3c58-417f-a7e3-f69ce881b325,regular filter coffee,1.50
+e452dd61-ae5b-4af2-8bff-c3728df18347,0ea3b0b9-3c58-417f-a7e3-f69ce881b325,regular hot chocolate,1.40
+7417f23a-bd83-43da-8c1f-23b4b122f154,0ea3b0b9-3c58-417f-a7e3-f69ce881b325,large iced americano,2.50
+80b427d6-59e1-464c-a98a-9f367ec50ff1,301f36de-685d-47d0-b5a6-96d4bbe1c4b4,large speciality tea - english breakfast,1.60
+ee845654-c0c1-4520-8061-e1db8445eefa,301f36de-685d-47d0-b5a6-96d4bbe1c4b4,large filter coffee,1.80
+49f1b930-1fcf-4ee6-a584-3a83c52199c2,301f36de-685d-47d0-b5a6-96d4bbe1c4b4,large speciality tea - english breakfast,1.60
+376411d9-51ff-49f2-ac18-15abbdddac24,d52a7dda-9d1c-4917-9f15-8c0fc61afdce,regular iced americano,2.15
+b357841b-537c-4468-b29d-fb8f234b52ec,e09d0f74-69db-4794-99df-1a272ed672d7,regular speciality tea - english breakfast,1.30
+cd16ce0a-548e-411f-b398-159c40d905c2,e09d0f74-69db-4794-99df-1a272ed672d7,large chai latte,2.60
+5a176979-d2f1-4bc4-a878-6e2103b6e506,5d371f1b-5af8-4bc3-a542-1a6b58f9b1b6,large chai latte,2.60
+77fade4d-7eee-4be5-b94f-f9510d3d3745,5d371f1b-5af8-4bc3-a542-1a6b58f9b1b6,regular filter coffee,1.50
+df552548-151f-40c5-92de-8e51b42bfec8,5d371f1b-5af8-4bc3-a542-1a6b58f9b1b6,large iced americano,2.50
+05e6b45e-5a9d-48df-8b9f-e013f56ec163,5d371f1b-5af8-4bc3-a542-1a6b58f9b1b6,large filter coffee,1.80
+d879d710-da2f-4c42-bd9c-819a685190f2,16bf1fd6-56a9-47a5-a587-a35047f73ed5,large hot chocolate,1.70
+1881cc02-79ac-4736-82c9-9ea1756e9f68,16bf1fd6-56a9-47a5-a587-a35047f73ed5,regular speciality tea - english breakfast,1.30
+f9e73ade-a2e1-477d-9b28-8cb665e995ed,16bf1fd6-56a9-47a5-a587-a35047f73ed5,large speciality tea - english breakfast,1.60
+6c7e3566-2d13-498b-a2a0-9d2a4c94dcc5,16bf1fd6-56a9-47a5-a587-a35047f73ed5,large chai latte,2.60
+708b4bc0-b467-4590-b883-c50a80254c33,a9cdf961-72eb-4d81-baa1-ec51d48484d4,regular hot chocolate,1.40
+43851504-7929-4580-bf05-e288662d0c7a,a9cdf961-72eb-4d81-baa1-ec51d48484d4,large hot chocolate,1.70
+f73cd524-f61f-45fa-8251-37c070c87105,fb54cd84-4261-465c-a9df-401232a2143e,large chai latte,2.60
+ee490564-1b37-4c89-b37a-ca70f0858c45,fb54cd84-4261-465c-a9df-401232a2143e,regular chai latte,2.30
+c9faf3cc-6f27-4c6e-85e9-8d36b302ac00,fb54cd84-4261-465c-a9df-401232a2143e,large hot chocolate,1.70
+040e996d-6a28-4f62-aaea-e9fdd0454009,fb54cd84-4261-465c-a9df-401232a2143e,regular speciality tea - english breakfast,1.30
+596f6edb-c165-456d-aae9-5b22c23084fe,fb54cd84-4261-465c-a9df-401232a2143e,large speciality tea - english breakfast,1.60
+812276bf-24a4-4747-a426-bdb9a7379f6e,ed1be32d-545f-4de5-8587-39f6c9fdac58,regular filter coffee,1.50
+190837f9-3235-4d76-9415-2753b73e2ee5,ed1be32d-545f-4de5-8587-39f6c9fdac58,regular hot chocolate,1.40
+d553d9c3-c6f2-4f9b-a00a-7d5548b641be,ed1be32d-545f-4de5-8587-39f6c9fdac58,regular iced americano,2.15
+96cdf8ee-1858-456e-8907-bfb6b4797e87,ed1be32d-545f-4de5-8587-39f6c9fdac58,large filter coffee,1.80
+03e096c3-07ae-45d6-9e3a-2a053185047e,ed1be32d-545f-4de5-8587-39f6c9fdac58,large hot chocolate,1.70
+c49bd566-a903-43a8-ab4b-a3b3afb29e3a,ed1be32d-545f-4de5-8587-39f6c9fdac58,large iced americano,2.50
+97ab94ee-dc77-4c64-a282-894962901d65,09d407e6-9904-40b8-8026-48f32d570b84,large chai latte,2.60

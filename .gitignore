@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local environments and secrets
+.env
+*.pem
+*.key
+credentials
+config
+
+# Raw source data contains sensitive customer/card data
+Data/raw/
+
+# Generated AWS package output
+aws/cloudformation/etl-stack-packaged.yml
