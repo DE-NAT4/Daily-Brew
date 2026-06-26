@@ -1,0 +1,153 @@
+{
+  "folderUid": null,
+  "overwrite": true,
+  "dashboard": {
+    "panels": [
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT SUM(total_amount) AS total_revenue FROM daily_brew_group.transactions;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 6,
+          "x": 0,
+          "w": 6,
+          "y": 0
+        },
+        "id": 1,
+        "type": "stat",
+        "title": "Total Revenue"
+      },
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT COUNT(*) AS total_transactions FROM daily_brew_group.transactions;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 6,
+          "x": 6,
+          "w": 6,
+          "y": 0
+        },
+        "id": 2,
+        "type": "stat",
+        "title": "Total Transactions"
+      },
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT item_name, COUNT(*) AS times_sold FROM daily_brew_group.transaction_items GROUP BY item_name ORDER BY times_sold DESC LIMIT 10;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 9,
+          "x": 0,
+          "w": 12,
+          "y": 6
+        },
+        "id": 3,
+        "type": "barchart",
+        "title": "Best-Selling Products"
+      },
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT EXTRACT(hour FROM transaction_time) AS hour_of_day, SUM(total_amount) AS total_sales FROM daily_brew_group.transactions GROUP BY hour_of_day ORDER BY hour_of_day;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 9,
+          "x": 12,
+          "w": 12,
+          "y": 6
+        },
+        "id": 4,
+        "type": "barchart",
+        "title": "Revenue By Hour"
+      },
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT branch, SUM(total_amount) AS total_sales, COUNT(*) AS transaction_count FROM daily_brew_group.transactions GROUP BY branch ORDER BY total_sales DESC;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 0,
+          "w": 12,
+          "y": 15
+        },
+        "id": 5,
+        "type": "table",
+        "title": "Revenue By Branch"
+      },
+      {
+        "targets": [
+          {
+            "format": "table",
+            "refId": "A",
+            "rawQuery": true,
+            "rawSql": "SELECT t.branch, ti.item_name, COUNT(*) AS times_sold FROM daily_brew_group.transaction_items ti JOIN daily_brew_group.transactions t ON ti.transaction_id = t.transaction_id GROUP BY t.branch, ti.item_name ORDER BY t.branch, times_sold DESC LIMIT 20;"
+          }
+        ],
+        "datasource": {
+          "type": "postgres",
+          "uid": "dfqb0njczcmioe"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 12,
+          "w": 12,
+          "y": 15
+        },
+        "id": 6,
+        "type": "table",
+        "title": "Products Sold Per Branch"
+      }
+    ],
+    "version": 0,
+    "refresh": "",
+    "schemaVersion": 39,
+    "title": "Daily Brew Sales Dashboard",
+    "timezone": "browser",
+    "id": null,
+    "uid": "daily-brew-sales"
+  }
+}

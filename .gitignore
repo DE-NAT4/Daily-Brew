@@ -14,3 +14,7 @@ Data/raw/
 
 # Generated AWS package output
 aws/cloudformation/etl-stack-packaged.yml
+
+# Local generated Grafana admin password
+aws/grafana/.grafana-admin-password
+aws/grafana/.grafana-mohammed-password

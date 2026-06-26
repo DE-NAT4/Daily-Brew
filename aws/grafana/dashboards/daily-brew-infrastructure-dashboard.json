@@ -1,0 +1,127 @@
+{
+  "folderUid": null,
+  "overwrite": true,
+  "dashboard": {
+    "panels": [
+      {
+        "targets": [
+          {
+            "region": "eu-west-1",
+            "statistic": "Sum",
+            "period": "300",
+            "metricName": "Invocations",
+            "namespace": "AWS/Lambda",
+            "dimensions": {
+              "FunctionName": "daily-brew-group-etl-lambda"
+            },
+            "refId": "A"
+          }
+        ],
+        "datasource": {
+          "type": "cloudwatch",
+          "uid": "ffqb0njnqew3kd"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 0,
+          "w": 12,
+          "y": 0
+        },
+        "id": 1,
+        "type": "timeseries",
+        "title": "Lambda Invocations"
+      },
+      {
+        "targets": [
+          {
+            "region": "eu-west-1",
+            "statistic": "Sum",
+            "period": "300",
+            "metricName": "Errors",
+            "namespace": "AWS/Lambda",
+            "dimensions": {
+              "FunctionName": "daily-brew-group-etl-lambda"
+            },
+            "refId": "A"
+          }
+        ],
+        "datasource": {
+          "type": "cloudwatch",
+          "uid": "ffqb0njnqew3kd"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 12,
+          "w": 12,
+          "y": 0
+        },
+        "id": 2,
+        "type": "timeseries",
+        "title": "Lambda Errors"
+      },
+      {
+        "targets": [
+          {
+            "region": "eu-west-1",
+            "statistic": "Average",
+            "period": "300",
+            "metricName": "Duration",
+            "namespace": "AWS/Lambda",
+            "dimensions": {
+              "FunctionName": "daily-brew-group-etl-lambda"
+            },
+            "refId": "A"
+          }
+        ],
+        "datasource": {
+          "type": "cloudwatch",
+          "uid": "ffqb0njnqew3kd"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 0,
+          "w": 12,
+          "y": 8
+        },
+        "id": 3,
+        "type": "timeseries",
+        "title": "Lambda Duration"
+      },
+      {
+        "targets": [
+          {
+            "region": "eu-west-1",
+            "statistic": "Average",
+            "period": "300",
+            "metricName": "CPUUtilization",
+            "namespace": "AWS/EC2",
+            "dimensions": {
+              "InstanceId": "i-0e536ff505e427406"
+            },
+            "refId": "A"
+          }
+        ],
+        "datasource": {
+          "type": "cloudwatch",
+          "uid": "ffqb0njnqew3kd"
+        },
+        "gridPos": {
+          "h": 8,
+          "x": 12,
+          "w": 12,
+          "y": 8
+        },
+        "id": 4,
+        "type": "timeseries",
+        "title": "Grafana EC2 CPU Utilization"
+      }
+    ],
+    "version": 0,
+    "refresh": "1m",
+    "schemaVersion": 39,
+    "title": "Daily Brew Infrastructure Monitoring",
+    "timezone": "browser",
+    "id": null,
+    "uid": "daily-brew-infra"
+  }
+}

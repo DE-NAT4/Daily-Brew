@@ -1,0 +1,128 @@
+AWSTemplateFormatVersion: 2010-09-09
+Description: Grafana EC2 infrastructure for Daily Brew dashboards
+
+Parameters:
+  ProjectName:
+    Type: String
+    Description: Project name used as the prefix for resource names
+  NetworkStackName:
+    Type: String
+    Default: project-networking
+    Description: Network stack with the VPC used by Redshift
+  LatestAmiId:
+    Type: AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>
+    Default: /aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2
+    Description: Latest Amazon Linux 2 AMI
+  EC2InstanceProfileRoleName:
+    Type: String
+    Default: de-academy-ec2-role-instance-profile
+    Description: Shared EC2 instance profile name
+  EC2InstanceIngressIp:
+    Type: String
+    Description: Public IP address allowed to access Grafana over HTTP
+  GrafanaAdminPassword:
+    Type: String
+    NoEcho: true
+    Description: Initial Grafana admin password
+
+Resources:
+  GrafanaEc2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: !Ref LatestAmiId
+      Tags:
+        - Key: Name
+          Value: !Sub '${ProjectName}-grafana-ec2'
+      NetworkInterfaces:
+        - AssociatePublicIpAddress: true
+          DeviceIndex: "0"
+          SubnetId:
+            Fn::ImportValue:
+              !Sub '${NetworkStackName}-PublicSubnet0ID'
+          GroupSet:
+            - Fn::ImportValue:
+                !Sub '${NetworkStackName}-VPCSGID'
+            - !GetAtt GrafanaEC2InstanceSecurityGroup.GroupId
+      LaunchTemplate:
+        LaunchTemplateId: !Ref GrafanaEC2LaunchTemplate
+        Version: !GetAtt GrafanaEC2LaunchTemplate.LatestVersionNumber
+
+  GrafanaEC2LaunchTemplate:
+    Type: AWS::EC2::LaunchTemplate
+    Properties:
+      LaunchTemplateName: !Sub '${ProjectName}-grafana-launch-template'
+      VersionDescription: "01"
+      LaunchTemplateData:
+        UserData:
+          Fn::Base64:
+            !Sub |
+              #!/bin/bash
+              yum install docker -y
+              service docker start
+              usermod -a -G docker ec2-user
+              chkconfig docker on
+
+              docker stop $(docker ps -aq) >/dev/null 2>&1
+              docker rm $(docker ps -aq) >/dev/null 2>&1
+
+              docker volume create grafana-storage
+
+              docker run -d -p 80:3000 --rm \
+                --name grafana \
+                --volume grafana-storage:/var/lib/grafana \
+                -e GF_SECURITY_ADMIN_USER=admin \
+                -e GF_SECURITY_ADMIN_PASSWORD='${GrafanaAdminPassword}' \
+                grafana/grafana
+        IamInstanceProfile:
+          Name: !Ref EC2InstanceProfileRoleName
+        MetadataOptions:
+          HttpEndpoint: enabled
+          HttpProtocolIpv6: disabled
+          HttpPutResponseHopLimit: 10
+          HttpTokens: optional
+          InstanceMetadataTags: enabled
+        Monitoring:
+          Enabled: true
+        BlockDeviceMappings:
+          - DeviceName: /dev/xvda
+            Ebs:
+              VolumeType: gp3
+              VolumeSize: 8
+              Encrypted: true
+              DeleteOnTermination: true
+
+  GrafanaEC2InstanceSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties:
+      GroupDescription: Allows HTTP access to Grafana
+      VpcId:
+        Fn::ImportValue:
+          !Sub '${NetworkStackName}-VPCID'
+      Tags:
+        - Key: Name
+          Value: !Sub '${ProjectName}-grafana-sg'
+      SecurityGroupIngress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: !Sub '${EC2InstanceIngressIp}/32'
+      SecurityGroupEgress:
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: !Sub '${EC2InstanceIngressIp}/32'
+        - IpProtocol: tcp
+          FromPort: 443
+          ToPort: 443
+          CidrIp: 0.0.0.0/0
+
+Outputs:
+  GrafanaPublicIp:
+    Description: Public IP address for Grafana
+    Value: !GetAtt GrafanaEc2Instance.PublicIp
+  GrafanaUrl:
+    Description: Grafana HTTP URL
+    Value: !Sub
+      - 'http://${PublicIp}'
+      - PublicIp: !GetAtt GrafanaEc2Instance.PublicIp
