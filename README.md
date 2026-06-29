@@ -277,5 +277,7 @@ Daily-Brew shows how raw cafe transaction data can be cleaned, protected, stored
 
 ## Team
 
+- [Aalammm](https://github.com/Aalammm)
 - [James Wibberley](https://github.com/JamesWibberley)
 - [Ammar K](https://github.com/ammark149)
+- [Dilrukshi-cake](https://github.com/Dilrukshi-cake)
