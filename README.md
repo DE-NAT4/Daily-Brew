@@ -274,3 +274,8 @@ Only the cleaned transaction and item data is stored in Redshift.
 ## Group Project Summary
 
 Daily-Brew shows how raw cafe transaction data can be cleaned, protected, stored, and visualised using AWS and Grafana. As a group, we built a full ETL pipeline that removes sensitive data, organises the transactions into useful tables, and provides dashboards for both sales insights and infrastructure monitoring.
+
+## Team
+
+- [James Wibberley](https://github.com/JamesWibberley)
+- [Ammar K](https://github.com/ammark149)
